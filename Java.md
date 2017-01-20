@@ -80,3 +80,29 @@ int fourthBitFromRight = (n & 0b1000) / 0b1000;
 * byte -> short/char -> int -> float/long/double 
 * long -> float/double
 * int向float/long向float和double转换可能有精度损失
+
+**字符串**
+
+String对象是不可变字符串，其优点:编译器可让字符串共享，当存在相同字符串只需要指向存储池相应的位置。
+
+比较2个字符串是否相等不能使用==，因为它代表指向2个相同位置的字符串对象，如果相同字符串的拷贝在不同位置, 则会不等。实际上，只有字符串常量是共享的，而用+或substring拼接的字符串产生的结果不会共享。建议使用 if (str.compareTo("Hello") == 0) 或 str.equals("Hello")类判断
+
+* 空串和null
+	* 检查空串，空串是长度为0的字符串，可用：if (str.lengt() == 0) 或 if (str.equals("")) 检查
+	* null表示没有任何对象和变量与其关联
+* 字符串由char序列组成（采用UTF-16编码表示Unicode代码点的代码单元）
+	* 想得到实际长度，即代码点单元数量: str.codePoint(0, str.length()); 
+	* str.charAt(n) 返回位置n的代码单元，n介于 0 ~ str.length() - 1间
+	* 获取第i个代码点: int index = str.offsetByCodePoint(0, i); int cp = str.codePoint(index)
+	* 如果字符串中1个字符串的UTF-16编码需要2个代码单元表示，此种情况不能使用char类型, as follow:
+	
+	~~~java
+	int cp = str.codePointAt(i);
+	if (Character.isSupplementaryCodePoint(cp)) i += 2;
+	else i++;
+	
+	// 实现回退操作
+	i--;
+	if (Character.isSurrogate(str.charAt(i))) i--;
+	int cp = str.codePointAt(i);
+	~~~
