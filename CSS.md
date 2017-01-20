@@ -1,0 +1,279 @@
+# CSS
+css规范学习
+
+## 指定值、计算值和实际值
+制作者定义CSS时，不需要对每个属性都指定一个值，而对于解释网页的用户端（例如：浏览器），当它解析了一个文档并且生成了文档树，它必须为文档树中的每一个元素，根据目标媒介类型所适用的每一个属性，指定一个值。也就是说，无论制作者是否在CSS中定义了某个属性，每个属性都有一个值，可能是制作者定义得值，也可能是属性的初始值，或者浏览器内部样式的值。 
+
+制作者所写的CSS值，可以是一个具体的数字，也可能是一个百分比，或者一个缩放因子，而对于浏览器来说，它必须将用户定义的值转变为可以在屏幕上显示的具体的数值。 
+
+一个属性最终的值的确定需要经过4步计算：首先是通过规则确定一个“指定值”，然后转换成用以继承的“计算值”，如果需要再转换为一个绝对的“使用值”，最后依照局部的环境限定转换为“实际值”。 
+
+1) **指定值**
+
+用户端根据下列规则给每个属性分配指定值（按照优先级排序）： 
+
+	* 如果值中包含层叠，使用层叠。 
+	* 否则，如果属性是继承的且元素不是文档的根元素，使用它父元素的计算值。 
+	* 否则使用初始值。（初始值在每个属性的定义列表内有说明。）
+
+2) **计算值** 
+
+在层叠中，指定值决定计算值，而指定值可以是一个绝对值（例如颜色值“red”），也可以是一个相对值（例如“em”和“ex”需要根据像素或者绝对长度来计算）。 
+对于绝对值，不需要经过计算来得到计算值。 
+
+而相对值必须转换为计算值：百分比要乘以一个参考值（每一个属性都会定义参考值是什么），包含相对单位的值（em，ex，px）必须乘以相应的字体或点的尺寸以得到绝对值，“auto”值必须由各属性给出的公式加以计算，某些关键字（smaller，bolder，inherit）根据它们的定义而加以替换。 
+
+大部分情形下，元素继承的是计算值。不过有一些属性的指定值也可以被继承（例如line-height属性的数字值）。子元素不继承计算值的情况在属性定义中有描述。 
+当指定值不是“inherit”时，属性的计算值根据属性定义列表中“计算值”一项来确定。 
+
+3) **使用值**
+
+有时候，计算值可能要到文档被用户端解释的时候才能确定，例如，某个div设定了宽度为其包含块宽度的80%，那么，其计算值需要在用户端确定了其包含块的宽度以后，才能计算出来。 
+
+使用值就是指从绝对值中去除了其他因素以后计算出来的值。
+
+4) **实际值**
+
+原则上，使用值是用户端用来绘制元素的值，但是用户端在某些特定的环境下可能不能使用这个值。例如边框的宽度只能以整数的像素值来显示，因此可能会计算出一个近似的宽度值，再例如，某些显示设备只能用黑白及灰度值来显示彩色的内容。 
+实际值就是使用值实际应用中的近似值。
+
+#### 注释
+CSS属性的 计算值  (computed value) 由指定的值计算而来:
+
+* 处理特殊的值 [inherit](https://developer.mozilla.org/zh-CN/docs/Web/CSS/inherit) 和 [initial](https://developer.mozilla.org/zh-CN/docs/Web/CSS/initial)
+* 根据属性的摘要中关于“计算值”描述的方法计算出值
+
+计算属性的"计算值"通常包括将相对值转换成绝对值(如 em 单位或百分比)。
+例如，如一个元素的属性值为 font-size:16px 和 padding-top:2em, 则 padding-top 的计算值为 32px (字体大小的2倍).
+
+然而，有些属性的百分比值会转换成百分比的计算值(这些元素的百分比相对于需要布局后才能知道的值，如 width, margin-right, text-indent, 和 top)。另外，line-height 属性值如是没有单位的数字，则该值就是其计算值。这些计算值中的相对值会在 应用值 确定后转换成绝对值。
+
+计算值的最主要用处是 继承 , 包括 inherit 关键字。
+
+## Supplementary
+
+CSS 中的声明，由 CSS 的特性和值，中间以 ":" 隔开组成。
+我们可以使用 CSS 选择器，为选中的元素设置需要的样式。
+
+在介绍 CSS 的特性和值的时候，特地的提到了浏览器应该怎样处理错误的值 -- 应该将包含错误值，不符合句法的值的声明直接忽略。然而有些浏览器却按照自己的方式做了某些纠正，也就是浏览器容错。
+
+那么，有没有想过，在我们给予一个特性正确的值的情况下，浏览器应该怎样处理呢？是否最终你看到的就是你设置的值呢？答案是否定的！
+当浏览器解析了一个文档 ( document ) 并且生成了文档树 ( document tree )，那么，它必须为文档树中的每一个元素，根据目标媒介类型所适用的每一个特性，指定一个值。
+
+而开发者给某个元素的 CSS 特性设置某个值，到这个元素的特性值被计算渲染，也就是得到最终的值，需要经过四步计算：
+
+* 通过指定值 ( specified value ) 确定这个值；
+* 将这个值分解为一个可以用来继承的值，即计算后的值 ( computed value )；
+* 必要情况下把计算后的值转换成一个绝对的值，即使用值 ( used value )
+* 根据显示环境的限制，改变使用值以使之能够显示在用户端，最后这个值被称作实际值 ( actual value )。
+
+这些值的计算过程类似工资的计算过程，你的应得工资是一个设置值，实际工资还要减掉你的缺勤，保险，个人所得税等……实际计算出来的数字才是应用到你身上的具体数额。
+
+下面来详细的介绍这四个步骤的四种值。
+
+一、指定值
+一般来讲，开发者设定的值，即为指定值，但是最终这个值的确定还需考虑其他几个方面( 按照优先顺序排列 )。
+
+1.**层叠顺序**
+
+首先考虑有层叠顺序的情况，即开发者明确了设置了 CSS 特性的值。
+层叠顺序会影响开发者设定的值，所以，应该根据层叠顺序来确定声明的优先级别，优先级高的声明才会起作用。关于层叠顺序，后续会有详细的说明。
+例如，开发者在定义样式的时候，加了 '!important' 的声明要优于未加 '!important' 的声明。
+
+~~~css
+div{   
+    height : 100px;   
+    height : 130px !important;   
+}  
+~~~
+
+其中，带有 '!important' 的 height 声明才是 指定值。
+2.继承( inheritance )
+如果没有明确的设置这个值，那么会先考虑它是否继承了父元素的值。这时候指定值使用它父元素的值，通常是父元素的计算值。
+例如：
+
+~~~html
+<p style="color:red;">The greet <em>is</em> good!</p>  
+~~~
+
+EM 元素没有指定颜色，他将继承父元素的颜色用来显示字符串 "is"。因此，EM 元素是红色。EM 元素 'color' 特性的指定值在没有层叠影响的情况下，就是 "red"。
+
+二、**初始值**
+
+最后，在不存在以上两种情况的时候，使用元素的初始值。
+如果不设置元素的 'width'，它的指定值就是 "auto"；对于 'font-size'，不设置的情况下，其指定值是 "medium"。
+关于指定值在 JavaScript 中的获取方法，可以使用 "element.style.property" 语句模式：
+
+~~~html
+<p id="container" style="color:red;">The headline <em id="sub">is</em> important!</p>   
+<div id="info"></div>   
+<script type="text/javascript">   
+    window.onload = function() {   
+        var container = document.getElementById("container");   
+        var sub = document.getElementById("sub");   
+        var info = document.getElementById("info");   
+        info.innerHTML = "container width :　" + container.style.width  
+                +"<br/>container color : " + container.style.color  
+                +"<br/>sub color : " + sub.style.color;   
+    }   
+</script> 
+~~~
+
+经过测试可知，此种方式只适合获取设置的值，对于初始值和继承后的值都没有取到。
+
+三、**计算值**
+
+指定值在层叠的过程中被分解成计算值。例如，URI 会被解析成绝对地址，而 'em' 和 'ex' 单位会被计算为 pixel 或者绝对长度。
+例如:
+
+~~~html
+<div style="width:1em; ">hello!</div>  
+~~~
+
+浏览器默认 ‘font-size’ 是 ‘16px’，所以 ‘1em’ 计算值应该是 ‘16px’。
+当指定值不是 ‘inherit’ 的时候，计算值应该是 CSS 特性定义的``` "计算后的值"一行所标明的值。例如对 'border-top-width'的特性说明的最后一行：
+Computed value: absolute length; '0' if the border style is 'none' or 'hidden'
+
+以上标明，边框宽度的计算值是一个绝对长度，当 border 的设置值是 ‘none’ 或 ‘hidden’ 的时候，计算值为 0。
+
+当 CSS 特性不适合元素时，计算值还是存在的。
+
+~~~html
+<div style="width:1em; left:1em;">hello!</div>
+~~~
+
+如上代码中，DIV 元素设置 'left' 值为 "1em"，计算后的值为 "16px"；但是，'left' 特性并不适合于非定位元素。
+
+1.**长度值**
+
+长度值适用于水平或垂直方向的尺寸。
+长度值表示为 <length>。长度值的格式是： <number> + 单位( e.g., px, em, etc.)，注意，一定要有单位，除非这个值是0。 如果长度值是0，单位可有可无。
+
+可用此类值的 CSS 特性很多，例如，'margin'、'padding'、'height' 和 'width'等。
+
+有些特性支持负的长度值，比如 ‘margin’。但是如果给一个不支持负长度值的特性设置一个负的值，那么这个声明会被忽略。
+长度的单位有两种：相对长度和绝对长度。下面对这两类单位详细介绍。
+
+（1）相对长度
+
+相对长度会随着它参考值的变化而变化，不是固定的值。
+
+em : 与 'font-size' 的大小有关，与作用到元素上的 'font-size' 的值大小相等；
+
+ex : 一个小写字母 x 的高度；
+
+px : 像素数( pixels )。
+
+例如：
+
+~~~css
+h1 { margin: 0.5 em }      /* em */   
+h1 { margin: 1 ex }        /* ex */   
+p  { font-size: 12 px }    /* px */  
+~~~
+
+（2）绝对长度
+
+in : 英寸 — 等于2.54厘米
+
+cm : 厘米
+
+mm : 毫米
+
+pt : 点 — CSS 2.1里 1pt 等于 1/72 英寸
+
+pc : 皮卡 — 1pc 等于 12pt，也就是 1/6 英寸
+
+例如：
+
+~~~css
+h1 { margin: 0.5in }      /* inches  */   
+h2 { line-height: 3cm }   /* centimeters */   
+h3 { word-spacing: 4mm }  /* millimeters */   
+h4 { font-size: 12pt }    /* points */   
+h4 { font-size: 1pc }     /* picas */ 
+~~~
+
+2.百分比值
+
+百分比值表示为 <percentage>。它的格式是：<number> + %。
+常见可用百分比为值的 CSS 特性如：'height'、'width' 等。
+百分比值总是跟其他的值有关，比如长度值。
+
+使用值
+
+在处理计算值的过程中，文档没有被格式化，因此，有些值是无法确定的。比如，百分比宽度的元素，最终宽度是与它包含块的宽度有关， 所以，值只有在包含块确定下来之后才能确定。
+
+可以说，使用值是将计算值和有依赖关系的值最终转化成的绝对的值。
+利用 JavaScript 来获取元素的使用值，可以采用如下函数：
+
+~~~javascript
+function getStyle(obj, style) {   
+      var _style = (style == "float") ? "styleFloat" : style;   
+      return document.defaultView ? document.defaultView.getComputedStyle(obj, null).getPropertyValue(style) : obj.currentStyle[_style.replace(/-[a-z]/g, function() {   
+          return arguments[0].charAt(1).toUpperCase();   
+      })];   
+}  
+~~~
+
+其中，需要注意的是，在 IE 里，浮动的计算值不能直接使用 'float' 特性来取， 需要使用的是 'styleFloat'，可能 IE 中还存在其他类似的情况。请根据实际用途修改函数。
+
+最后，关于使用值，可以直接使用浏览器开发者工具查看，在 Firebug 中，使用值就是 "计算出的样式"。Chrome 里则是 "Computed Style"。
+
+实际值
+
+经过以上三个步骤的处理，使用值基本上成为渲染所需要的值。但是用户端可能不能够在当前环境中使用这个值。例如：
+
+~~~css
+div{
+    width: 3.1415926px;
+}
+~~~
+
+在某些浏览器中，只能显示整数类型的长度，因此，虽然上面的宽度在计算后的值与设置的相同，但是，浏览器却没有办法按小数来显示。
+
+Firefox Chrome 等浏览器都会以以一定的方式对值做一些取舍。Firefox 采用了四舍五入的形式，Chrome 中却会直接取整，在这点上需要特别注意哦。
+
+## 继承
+
+每个 CSS 属性定义 的概述都指出了这个属性是默认继承的 ("Inherited: Yes") 还是默认不继承的 ("Inherited: no")。这决定了当你没有为元素的属性指定值时该如何计算值。
+
+1）继承属性
+
+当元素的一个继承属性 （inherited property ）没有指定值时，则取父元素的同属性的计算值 computed value 。只有文档根元素取该属性的概述中给定的初始值（initial value）（这里的意思应该是在该属性本身的定义中的默认值）。
+
+For example:
+
+~~~css
+p { color: green }
+~~~
+
+HTML:
+
+~~~html
+<p>This paragraph has <em>emphasized text</em> in it.</p>
+~~~
+
+文本 "emphasized text" 将会呈现为绿色，因为 em 元素继承了 p 元素 color 属性的值，而没有获取color属性的初始值（这个color值用于页面没有指定color时的根元素）。
+
+2) 非继承属性
+
+当元素的一个非继承属性 (在Mozilla code 里有时称之为 reset property  ) 没有指定值时，则取属性的初始值initial value （该值在该属性的概述里被指定）。
+
+As follow:
+
+~~~css
+p { border: medium solid }
+~~~
+
+HTML
+
+~~~html
+<p>This paragraph has <em>emphasized text</em> in it.</p>
+~~~
+文本 "emphasized text" 没有边框，因为border-style属性 的初始值为 none。
+
+Note:  inherit 关键字 用于显式地指定继承性，可用于继承性/非继承性属性。
+
+[You Don't Know CSS](https://zhuanlan.zhihu.com/p/23829153)
+
