@@ -85,6 +85,29 @@ Regardless, at some point, you'll hopefully secure the NES Classic mini, and wit
 
 Here are the best NES Classic games. —Austin Powell
 
+* rank v. 把…分等级
+* original adj. 原来的；起初的；最早的；首创的
+* get one's hand on 弄到; 得到
+* Nintendo [nɪnˈtɛndoʊ] n. 任天堂
+* NES Classic mini
+* Classic adj. 经典的
+* pre-loaded ajd. 预先安装的
+* outlet n. 出口
+* major adj. 主要的  *major outlet*  主要渠道
+* Walmart n. 沃尔玛  
+* Amazon ['æməzən]
+* struggle v. 争取；奋斗；努力 *be struggling to keep them in stock*
+* pick...up
+* reseller n. 经销商  third-party reseller
+* wait out 一直等到…完毕；等到……结束；在外面等着 *wait out the crowd*
+* catch up 赶上；追上 *catch back up to the demand*
+* demand n. 需要；所需之物
+* at some point 在某些时候
+* regardless adv. 不管
+* secure [sɪ'kjʊr] v. 取得
+* inevitably [ɪnˈevɪtəbli] adv. 必然；必定；免不了
+* power-ranking 排名榜
+
 30 **Galaga**
 
 ![Galaga](http://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBxRetR.img?h=319&w=624&m=6&q=60&o=f&l=f)
