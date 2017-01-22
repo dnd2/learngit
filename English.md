@@ -37,7 +37,7 @@ The sisters said they will set another goal once they’ve had an opportunity to
 **Words and Expression**
 
 * <font color="#06a">**identical**</font> [aɪ'dentɪk(ə)l] adj. 完全同样的；相同的  identical twin 同卵双生性别相同，外貌相似）<font color="#e76725">*One of the cases was of two identical twin brother*</font> 一个实例是有关一对同卵孪生兄弟的。
-* <font color="#06a">**achieve [ə'tʃiv]**</font>  v. 完成；（凭长期努力）达到（某目标、地位、标准 <font color="#e76725">*Choose goals that you know you can achieve in a realistic amount of time*</font>
+* <font color="#06a">**achieve [ə'tʃiv]**</font>  v. 完成；（凭长期努力）达到（某目标、地位、标准 <font color="#e76725">*Choose goals that you know you can achieve in a realistic amount of time*</font> 选择一个你知道能够在短时间内完成的目标。
 * <font color="#06a">**hiking, hike**</font> n.  ['haɪkɪŋ]  小路; 远足；徒步旅行 <font color="#e76725">*I feel quite up to a long hike today*</font> feel up to 能胜任；觉得能担当
 * <font color="#06a">**Appalachian**</font> [ˌæpə'leɪtʃɪən] adj. 阿帕拉契山脉的 <font color="#e76725">*Appalachian Trail*</font> 阿巴拉契亚山道
 * <font color="#06a">**trail**</font>  [treɪl] n. 路径； 足迹
@@ -119,7 +119,7 @@ Galaga is a pretty faithful port of the arcade game original. This was one of th
 * NES （Nintendo Entertainment System）
 * prove v. 证明
 * console n. 控制台；主控台  *game console* 游戏主机
-* mall n. 购物商场
+* mall n. 购物商场 mall video arcades
 * video arcade （投币式）电子游戏厅
 * sans prep. 无；没有
 * crowd around 围观
@@ -347,3 +347,19 @@ The change in brightness will be so drastic (about 10,000 times the normal brigh
 This is the first time that scientists have predicted the birth of a new star. Researchers are expecting a lot of scientific hype in the lead-up to the Boom and a race between astrologers to be the first to spot it.
 
 Those who want to catch a first glimpse of the Boom Star should start considering a 2022 trip to an International Dark Sky destination. The new star will appear in the northern wing of the Cygnus constellation and it should be as bright as Polaris, the North Star.
+
+##Meet the Unlikely Ballerina With Incredible Body Confidence Who Is Inspiring Everyone to Dance
+
+She may not look like your average ballerina, but this 15-year-old can perfectly execute the moves of a pro.
+
+Lizzy Howell is being hailed an inspiration and role model for all because of her full figure.
+
+“There are not very many plus-sized dancers in the dance community,” she told Inside Edition. “They are all very tall and lean. And I haven't seen very many dancers my size do what I do.”
+
+She said she has spent about two-and-a-half years trying to master the moves and “I’ve finally gotten to the point where I can do them. “
+
+She added: “I've had people tell me I won't get very far in dance because of the way I look. I've had doctors tell me I shouldn't be dancing because of my joints and other issues.”
+
+The Delaware teen has been dancing for ten years and she is breaking down barriers with her body confidence.
+
+“Seeing a chubbier dancer go out on stage people think she can't do everything," she said. "Then they see me dance, and they see I can do what everyone else can and they are all surprised." 

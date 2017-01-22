@@ -15,7 +15,7 @@ I had <font color="#008cff">an amusing experience</font> last year. After I had 
 * As soon as the sun had set we returned to our hotel.
 * When he had finished lunch he asked for a glass of water.
 * I had not understood the problem until he explained it.
-* The moment he had said this, he regret it.
+* The moment he had said this, he regretted it.
 * It had begun to rain before she took a taxi.
 * When all the guest had left, Derek arrived.
 
@@ -141,7 +141,7 @@ The secretary told me that Mr. Harmsworth would see me. <font color="#0095dd">I 
 
 **Additionals**
 
-* The writer was surprised to receiver some extra money.
+* The writer was surprised to receive some extra money.
 * How did you feel? Very nervous.
 * Which turn is it? It's your turn.
 * Mr. Harmsworth wanted to see me. He wanted to speak to me.
@@ -159,7 +159,7 @@ I
 * <font color="#900">**park**</font> v. 停放(汽车)
 * <font color="#900">**ticket**</font> n. 交通违规罚款单
 * <font color="#900">**note**</font> n. 便条
-* <font color="#900">**area**</font> n. 低段
+* <font color="#900">**area**</font> n. 地段
 * <font color="#900">**sign**</font> n. 指示牌
 * <font color="#900">**reminder**</font> n. 提示
 * <font color="#900">**fail**</font> v. 无视，忘记
