@@ -75,6 +75,7 @@ The sisters said they will set another goal once they’ve had an opportunity to
 * <font color="#06a">**tons of**</font> 大量；许多 (*All that delicious food, and tons of it.*全是美味的食物，一大堆。) 
 * <font color="#06a">**They were really into it.**</font> (*She seemed to be really into it.* 她似乎觉得很受用。)
 * <font color="#06a">**couch**</font> n. 长沙发；长椅 (*He is a real couch potato. He just sits and watches TV at home all day.* 他很懒，整天坐在家里看电视。couch potato 老泡在电视机前的人；电视迷) 
+* <font color="#06a">**Somehow though**</font> 但不知何故 
 
 
 ## Ranking the best game on the original NES
