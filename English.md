@@ -42,35 +42,35 @@ The sisters said they will set another goal once they’ve had an opportunity to
 * <font color="#06a">**Appalachian**</font> [ˌæpə'leɪtʃɪən] adj. 阿帕拉契山脉的 <font color="#e76725">*Appalachian Trail*</font> 阿巴拉契亚山道
 * <font color="#06a">**trail**</font>  [treɪl] n. 路径； 足迹
 * <font color="#06a">**daring**</font> ['derɪŋ] adj. 勇敢的；敢于冒险的
-* <font color="#06a">**take on**</font>  对付;与…较量 take on new adventures
+* <font color="#06a">**take on**</font>  对付;与…较量 take on new adventures / *He pulls out his sword and he's ready to take on the entire Roman army*
 * <font color="#06a">**one step at a time**</font>  一步一步;一步一个脚印
 * <font color="#06a">**motivation**</font> [.moʊtɪ'veɪʃ(ə)n] n. 动力；动机因素
 * <font color="#06a">**outdoor people**</font>, outdoor sports people  户外运动的人
-* <font color="#06a">**run around**</font> 到处跑
+* <font color="#06a">**run around**</font> 到处跑 *It's against the law to let the dog run around the street.* 让狗在街上到处跑是违法的。
 * document v. 记录；证明
 * along with 与……一起
 * families later 
 * fellow adj. 同伴的；
 * hiker n. 徒步旅行者
-* drop from  消失；把…扔
+* drop from  消失；把…扔 *almost all of their fellow hikers dropped from the group*
 * on one’s own  独自地；靠自己的力量
-* quest n. 探索
-* <font color="#06a">**tenacious**</font>  [tə'neɪʃəs] adj. 顽强的; 固执的
+* quest n. 探索 *My quest for a better bank continues.* 我继续寻找一家更好的银行。
+* <font color="#06a">**tenacious**</font>  [tə'neɪʃəs] adj. 顽强的; 固执的 *She is very tenacious and will work hard and long to achieve objectives.* 她是个锲而不舍的人，为了达到目标愿意长期苦干。
 * Florida n.  ['flɒrɪdə] 佛罗里达
-* apart adv. 分开；分离
-* scenery ['sin(ə)ri] n. 风景；景色
-* encounter [ɪn'kaʊntər] v. 遭遇；偶然碰到
+* apart adv. 分开；分离[(在空间上）相隔，相距] *He was standing a bit apart from the rest of us, watching us* 他站在离我们其余人不远的地方，看着我们
+* scenery ['sin(ə)ri] n. 风景；景色 *Sometimes they just drive slowly down the lane enjoying the scenery* 有时他们只是沿着小路慢慢地开车，欣赏两旁的风景
+* encounter [ɪn'kaʊntər] v. 遭遇；偶然碰到 *Every day of our lives we encounter stresses of one kind or another* 我们在每天的生活中会面临这样或那样的压力
 * wildlife n. 野生动物
-* incident ['ɪnsɪdənt] n. 发生的事情（尤指不寻常的或讨厌的）；严重事件
-* threaten v. 威胁；恐吓
+* incident ['ɪnsɪdənt] n. 发生的事情（尤指不寻常的或讨厌的）；严重事件 *These incidents were the latest in a series of disputes between the two nations* 这些事件是两国一系列争端中最近发生的几起
+* threaten v. 威胁；恐吓 *He tied her up and threatened her with a six-inch knife* 他把她捆起来，拿着一把 6 英寸长的刀子威胁她
 * slop n. 斜坡 on the slop
 * walk past 经过；路过
-* exhaust v. 耗尽；使筋疲力尽；使疲惫不堪
-* <font color="#06a">**invigorate**</font> [ɪn'vɪɡə.reɪt] v. 生气勃勃；使精神焕发  i feel invigorated by all this  fresh air.空气很清新，我觉得精神焕发！
-* boulder 'boʊldər] n. 受水或天气侵蚀而成的）巨石
+* exhaust v. 耗尽；使筋疲力尽；使疲惫不堪 *He took to walking long distances in an attempt to physically exhaust himself* 他开始长距离步行，试图耗尽自己的体力
+* <font color="#06a">**invigorate**</font> [ɪn'vɪɡə.reɪt] v. 生气勃勃；使精神焕发  i feel invigorated by all this  fresh air.空气很清新，我觉得精神焕发！ *Take a deep breath in to invigorate you* 深吸一口气来提提神
+* boulder 'boʊldər] n. 受水或天气侵蚀而成的）巨石  *A boulder is a large rounded rock*
 * muscle n. 肌肉；体力 a muscle step
 * continue on 继续; 续继往…走
-* cheer on 欢呼；喝采；为某人打气
+* cheer on 欢呼；喝采；为某人打气 *Most will probably be cheering on their favorite players* 多数人大概都会为自己喜欢的球员加油
 * <font color="#06a">**applause**</font> [ə'plɔz] n. 鼓掌；喝彩 (*As the president's car drew up, the crowd broke into loud applause* 总统的座车停下时，人群中爆发出热烈的掌声。)
 * <font color="#06a">**tons of**</font> 大量；许多 (*All that delicious food, and tons of it.*全是美味的食物，一大堆。) 
 * <font color="#06a">**They were really into it.**</font> (*She seemed to be really into it.* 她似乎觉得很受用。)

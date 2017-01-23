@@ -120,3 +120,41 @@ sudo adb kill-server
 sudo adb start-server
 ~~~
 
+**可选布局文件**
+
+使用XML定义界面布局而不是动态生成的好处:
+* 可以为不同大小的屏幕创建不同的布局文件 
+
+## LinearLayout
+
+A Layout that arranges its children in a single column or a single row. <font color="#039BE5">LinearLayout</font> is a view group (a subclass of ViewGroup) that lays out child views in either a vertical or horizontal orientation, as specified by the android:orientation attribute. Each child of a LinearLayout appears on the screen in the order in which it appears in the XML.
+
+Two other attributes, <font color="#039BE5">android:layout_width</font> and <font color="#039BE5">android:layout_height</font>, are required for all views in order to specify their size.
+
+Because the LinearLayout is the root view in the layout, it should fill the entire screen area that's available to the app by setting the width and height to "match_parent". This value declares that the view should expand its width or height to match the width or height of the parent view.
+
+<font color="#039BE5">**android:id**</font> 
+
+* 视图唯一标识，可在程序中通过该标识引用对象 (a unique identifier for the view)
+* 当需要从XML引用资源对象，必须使用@符号，@之后是资源类型(此处是id)，然后是/后跟资源名字 `android:id="@+id/edit_message"`
+* + 号只在第一次定义一个资源 ID 的时候需要。它告诉 SDK——此资源 ID 需要被创建。在应用程序被编译之后，SDK 就可以直接使用这个 ID
+* edit_message 是在项目文件 gen/R.java 中创建一个新的标识符，这个标识符和 EditText 关联。
+
+<font color="#039BE5">**android:layout_width & android:layout_height**</font>
+
+* 不建议使用指定宽高
+* 使用wrap_content, 这样可以保证视图只占据内容大小的空间,而match_parent会占满整个屏幕，因为它适应父布局大小
+
+<font color="#039BE5">**android:hint**</font>
+
+* This is a default string to display when the text field is empty.
+* The "@string/edit_message" value refers to a string resource defined in a separate file.
+
+<font color="#039BE5">**android:layout_weight**</font>
+
+* 所有的 View 默认的权重是 0
+* 权重的值指的是每个部件所占剩余空间的大小, 该值与同级部件所占空间大小有关
+* 使用权重的前提一般是给 View 的宽或者高的大小设置为 0dp
+
+
+
