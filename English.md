@@ -37,7 +37,9 @@ The sisters said they will set another goal once they’ve had an opportunity to
 **Words and Expression**
 
 * <font color="#06a">**identical**</font> [aɪ'dentɪk(ə)l] adj. 完全同样的；相同的  identical twin 同卵双生性别相同，外貌相似）<font color="#e76725">*One of the cases was of two identical twin brother*</font> 一个实例是有关一对同卵孪生兄弟的。
-* <font color="#06a">**achieve [ə'tʃiv]**</font>  v. 完成；（凭长期努力）达到（某目标、地位、标准 <font color="#e76725">*Choose goals that you know you can achieve in a realistic amount of time*</font> 选择一个你知道能够在短时间内完成的目标。
+* <font color="#06a">**achieve [ə'tʃiv]**</font>  v. 完成；（凭长期努力）达到（某目标、地位、标准 
+	* If you achieve a particular aim or effort, you succeed in doing it or causing it to happen, usually after a lot of effort. 
+	* <font color="#e76725">*Choose goals that you know you can achieve in a realistic amount of time*</font> 选择一个你知道能够在短时间内完成的目标。
 * <font color="#06a">**hiking, hike**</font> n.  ['haɪkɪŋ]  小路; 远足；徒步旅行 <font color="#e76725">*I feel quite up to a long hike today*</font> feel up to 能胜任；觉得能担当
 * <font color="#06a">**Appalachian**</font> [ˌæpə'leɪtʃɪən] adj. 阿帕拉契山脉的 <font color="#e76725">*Appalachian Trail*</font> 阿巴拉契亚山道
 * <font color="#06a">**trail**</font>  [treɪl] n. 路径； 足迹
