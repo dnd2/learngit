@@ -415,3 +415,51 @@ have可以换成have got的3种情况
 * The landlord returned with my bag. He came back quickly.
 * He gave it back to me. He returned it to me.
 * I had let it on the chair. That's where I put it. 
+
+## Sold Out
+'The play may begin at any moment.' I said.
+'It may have begun already', Susan answered.
+I hurried to the ticket office. 'My I have two tickets please?' I asked. 
+
+'I'm sorry, we've sold out,' the girl said.
+
+'What a pity!', Susan exclaimed.
+
+Just then, a man hurried to the ticket office. 'Can I return these two tickets?' he asked. 'Certainly', the girl said. 
+
+I went back to the ticket office at once. 'Could I have those two tickets please?', I asked. 'Certainly', the girl said. 'but they are for next Wednesday's performance. Do you still want them?'
+
+'I might as well have them', I said sadly.
+                                               
+**News words and expression**
+
+* <font color="#900">**ticket office**</font>
+* <font color="#900">**What a pity!**</font>
+* <font color="#900">**exclaim**</font> v. 大声说；呼喊
+	* Writers sometimes use exclaim to show that someone is speaking suddenly, loudly, or emphatically, often because they are excited, shocked, or angry. 
+* <font color="#900">**pity**</font> n. 令人遗憾的事
+	* If you say that it is a pity that something is the case, you mean that you feel disappointment or regret about it.
+	* Pity you haven't got your car, isn't it. 可惜你还没有车，不是吗
+* <font color="#900">**return**</font> v. 退回；归还 
+	* If you return something that you have borrowed or taken, you give it back or put it back.
+	* *I enjoyed the book and said so when I returned it*  我喜欢这本书，并且在还书时也这样说了   
+* <font color="#900">**sadly**</font> [ˈsædli] adv. 悲哀地；丧气地
+	* If you are sad, you feel unhappy, usually because something has happened that you do not like.  
+* <font color="#900">**might as well**</font> 还是...好;不妨 与may as well意思相同，但前者更委婉
+* The play may begin at any moment. 说话人指的不是确信无疑的事实，而是可能发生的事，因此使用  may + 动词结构    
+* may + 动词完成时 表示可能已发生的事情   
+* When was the paly going to begin/be on?
+* How many tickets did you ask for?
+* Were there any left or not?
+* Who hurried to the ticket office just then?
+* Were they for that day's performance?   
+
+
+**Key Structure**   
+
+* (表示请求) Will you let me use your phone please?
+	* Can/May/Might I use your phone please?    
+* (表示推测) Perhaps he will come tomorrow.
+	* He may/might come tomorrow.
+* Perhaps he telephoned last night, but I'm not sure.
+	* He may/might have telephoned last night, but I'm not sure.                                                                                                                                                                                                                                   
