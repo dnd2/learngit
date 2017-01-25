@@ -1,1 +1,1 @@
-This is a practice text which is writtend down our learning process on git.
+These are some practice texts which are written down our learning process on android, English, Javascript and so on.
