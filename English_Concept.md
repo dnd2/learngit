@@ -452,7 +452,10 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * How many tickets did you ask for?
 * Were there any left or not?
 * Who hurried to the ticket office just then?
-* Were they for that day's performance?   
+* Were they for that day's performance?  
+* Tickets for tonight's performance are sold out.
+* It's not very far, so we may/might as well go on foot. 那地方不太远，我们还不如走着去
+* Shall we walk or take a bus? We may/might as well walk.我们是走路还是坐车？ 我们还是走着去吧
 
 
 **Key Structure**   
