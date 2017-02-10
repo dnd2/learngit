@@ -452,10 +452,7 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * How many tickets did you ask for?
 * Were there any left or not?
 * Who hurried to the ticket office just then?
-* Were they for that day's performance?  
-* Tickets for tonight's performance are sold out.
-* It's not very far, so we may/might as well go on foot. 那地方不太远，我们还不如走着去
-* Shall we walk or take a bus? We may/might as well walk.我们是走路还是坐车？ 我们还是走着去吧
+* Were they for that day's performance?   
 
 
 **Key Structure**   
@@ -466,45 +463,9 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 	* He may/might come tomorrow.
 * Perhaps he telephoned last night, but I'm not sure.
 	* He may/might have telephoned last night, but I'm not sure.
-* Do you want to come to the cinema with me?
-* I haven't got anything to do. so I *may as well/might as well* come with you. 我无事可做，还是和你一起去吧
-* Do you think he'll pass that exam? 你认为他这次考试能及格么？
-* He'll never pass. He might as well give up. 他决不会及格，还是不如放弃的好     
-* Will you let me have two tickets, please?
-	* May I have two tickets please?
-* Will you let me have those two tickets please?
-	* Could I have those two tickets please?
-* Not really/I don't really want them, but I'll have them.
-	* I might as well have them.                          
-**Special difficulites**
 
-* I haven't seen him for three years.
-* There are not many people here.
-* He doesn't understand what you're saying.
-* She did not tell me she had not seen you.
-* I shall not stay <font color="#06a">**a moment longer**</font>.
-* He will not do as he is told.
-* When'll I see you?
-* What've you done? You've broken that bottle!
-* He's in the living room. He's just come home.
-* I cannot understand why he hasn't arrived.
-* You mustn't believe him.
-* I wasn't expecting you. You weren't supposed to arrive until 6 o'clock. 我没想到你会来。 你不是应该6点才到的么
-* That man's been in prison.
-* They hadn't seen the film before.                                                                                 **Additionals**
- 
-* The writer couldn't get tickets for the performance that evening because 
-	* <font color="#c7254e">**they had all been sold.**</font>
-	* they were only a few left
-	* there was no one at the ticket office
-	* the girl at the ticket office wouldn't give him any
-* The writer was very pleased to get tickets for next Wednesday's performance.
-	* didn't buy tickets for next Wednesday's performance
-	* <font color="#c7254e">**wasn't too pleased to get tickets for next Wednesday's performance**</font> 
-* The play may begin at any moment. It hasn't begun yet.
-* The performance will be next Wednesday.
-* I might as well have them. I am not very glas have them.
-* I hurried to the ticket office. I went there quickly.
-* What a pity! Susan exclaimed. Susan was sorry.
-* Can I return these tickets?  I want to give them back.
-* Do you still want them? Do you want them now?                                                                                                                          
+* Do you want to come to the cinema with me?
+* I haven't got anything to do. so I may as well come with you. 我无事可做还是和你一起去吧
+* Do you think he'll pass that exam? 
+* He'll never pass. He might as well give up.
+*                                                                                                                                                                                                                                    
