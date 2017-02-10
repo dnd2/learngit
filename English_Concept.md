@@ -22,7 +22,7 @@ I had <font color="#008cff">an amusing experience</font> last year. After I had 
 **Ask, Ask for, except, except for, apart from**
 
 * After the lesson, he asked me a question.
-* He asked for a apple.
+* He asked for an apple.
 * I invited everyone except George.
 * Except for/Apart from this, everything is in order.
 * Except for a slight headache, I feel all right now.
