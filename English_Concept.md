@@ -507,7 +507,8 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * I hurried to the ticket office. I went there quickly.
 * What a pity! Susan exclamined. Susan was sorry.
 * Can I return these tickets? I want to give them back.
-* Do you still want them? Do you want them *now*?                                                                   
+* Do you still want them? Do you want them now?           
+                                                        
 ## One man in a boat
 
 Why is fishing the writer's favorite sport?
