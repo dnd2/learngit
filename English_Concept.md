@@ -151,7 +151,7 @@ The secretary told me that Mr. Harmsworth would see me. <font color="#0095dd">I 
 * The writer would receive an extra ￡1,000 a year. He would get ￡1,000 a year more.
 
 ## A Polite Request
-&nbsp;&nbsp;If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic polic are sometimes very polite. During a holiday in Sweden. I found this note on my car: 'Sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
+&nbsp;&nbsp;If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic policeman are sometimes very polite. During a holiday in Sweden. I found this note on my car: 'Sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
 
 **News words and expression**
 
@@ -507,7 +507,8 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * I hurried to the ticket office. I went there quickly.
 * What a pity! Susan exclamined. Susan was sorry.
 * Can I return these tickets? I want to give them back.
-* Do you still want them? Do you want them *now*?                                                                   ## One man in a boat
+* Do you still want them? Do you want them *now*?                                                                   
+## One man in a boat
 
 Why is fishing the writer's favorite sport?
 
