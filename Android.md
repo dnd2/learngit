@@ -120,6 +120,36 @@ sudo adb kill-server
 sudo adb start-server
 ~~~
 
+**Android的大组件**
+
+* Acitvity
+* Service
+* Boradcast Receiver
+* Content Provider
+
+**Android Studio项目目录结构**
+
+* app 存放代码、资源
+* gradle (是Google推荐使用的一套基于Groovy的编译系统脚本) [官方文档](https://developer.android.com/studio/build/index.html) 
+  1. gradle目录下包含gradle wrapper的配置文件
+  2. Android Studio 默认未启用gradle wrapper, 可通过File -> Settings -> Build,Excution,Development -> Gradle 配置
+* build.gradle 项目全局的gradle构建脚本
+* gradel.properties gradle全局配置文件,里面所配置的属性会影响项目所有的gradle编译脚本
+* grdlew & gradlew.bat 用于在命令行执行gradle命令
+* local.properties 用于指定本机中的Andorid SDK路径，通常自动生成
+* settings.gradle 用于指定项目中引入的模块
+* proguard-rules.pro 指定项目代码的混淆规则
+
+
+**AppCompatActivity类**
+
+向下继承Acitivty,可将Acitivity在各个系统中增加的特性和功能最低兼容到Android2.1
+
+
+
+
+
+
 **可选布局文件**
 
 使用XML定义界面布局而不是动态生成的好处:
