@@ -366,3 +366,14 @@ She added: “I've had people tell me I won't get very far in dance because of t
 The Delaware teen has been dancing for ten years and she is breaking down barriers with her body confidence.
 
 “Seeing a chubbier dancer go out on stage people think she can't do everything," she said. "Then they see me dance, and they see I can do what everyone else can and they are all surprised." 
+
+**tenacious** 
+if you are tenacious, you are very determined and do not give up easily.
+
+*She is very tenacious and will work hard and long to achieve objectives.
+
+**invigorate**
+
+If something invigorates you. it makes you feel more energetic.
+
+*Take a deep breath in to invigorate you.

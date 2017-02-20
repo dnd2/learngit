@@ -118,8 +118,8 @@ The secretary told me that Mr. Harmsworth would see me. <font color="#0095dd">I 
 
 **Nervous & Irritable**
 
-* Examination make me nervous. 考试使我紧张
-* He is such and irritable person, you can hardly speak to him. 他这个人如此容易发怒，你简直没法和他讲话
+* Examinations make me nervous. 考试使我紧张
+* He is such an irritable person, you can hardly speak to him. 他这个人如此容易发怒，你简直没法和他讲话
 
 **Office, Study, Desk**
 
@@ -151,7 +151,7 @@ The secretary told me that Mr. Harmsworth would see me. <font color="#0095dd">I 
 * The writer would receive an extra ￡1,000 a year. He would get ￡1,000 a year more.
 
 ## A Polite Request
-&nbsp;&nbsp;If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic policeman are sometimes very polite. During a holiday in Sweden. I found this note on my car: 'Sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
+&nbsp;&nbsp;If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic polic are sometimes very polite. During a holiday in Sweden. I found this note on my car: 'Sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
 
 **News words and expression**
 
@@ -451,7 +451,7 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * When was the paly going to begin/be on?
 * How many tickets did you ask for?
 * Were there any left or not?
-* Who hurried to the ticket office just then?
+* Who hurried to the ticket of/Users/Dai/Documents/codes/git/learngit/English_Concept.mdfice just then?
 * Were they for that day's performance?   
 
 
@@ -468,56 +468,4 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * I haven't got anything to do. so I may as well come with you. 我无事可做还是和你一起去吧
 * Do you think he'll pass that exam? 
 * He'll never pass. He might as well give up.
-* The play may begin at any moment (*Perhaps the play will begin at any moment*)
-* It may have begun already (*Perhaps it has begun already*)
-* May i have two tickets please? (*Will you let me have two tickets please?*)
-* Can I return these two tickets? (*Will you let me return these two tickets?*)
-* Could I have those two tickets please? (*Will you let me have two tickets please?*)
-* I might as well have them. (*Not really, but I'll have them.*)
-* I haven't seen him for three years.
-* There are not many people here.
-* He doesn't understand what you're saying.
-* She did not tell me she had not seen you.
-* I shall not stay a moment longer.
-* He will not do as he is told.
-* When'll I see you?
-* What've you done? You've broken that bottle!
-* He's in the living room. He's just come home.
-* I cannot understand why he hasn't arrived.
-* You mustn't believe him.
-* I wasn't expecting you. You weren't supposed to arrive until 6 o'clock.
-* That man's been in prison.
-* They hadn't seen the film before.                                                                                 **Additionals**
-
-* The writer couldn't get tickets for the performance that evening because 
-	* <font color="#0095dd">they had all been sold</font>
-	* there were only a few left
-	* there was no one at the ticket office
-	* the girl at ticket office wouldn't give him any    
-* The writer
-	* was very pleased to get tickets for next Wednesday's performance.
-	* didn't buy tickets for next Wednesday's performance.
-	* didn't want tickets for next Wednesday's performance.
-	* <font color="#0095dd">wasn't too pleased to get tickets for next Wednesday's performance</font>.                             
-* They play may begin at any moment. It 
-	* won't begin for a long time
-	* <font color="#0095dd">hasn't begun yet</font>
-	* began a long time ago  
-* The performance will be next Wednesday.
-* I hurried to the ticket office. I went there quickly.
-* What a pity! Susan exclamined. Susan was sorry.
-* Can I return these tickets? I want to give them back.
-* Do you still want them? Do you want them now?           
-                                                        
-## One man in a boat
-
-Why is fishing the writer's favorite sport?
-
-Fishing is my favorite sport. I often fish for hours without catching anying. But this does not worry me. Some fishermen are unlucky. Instead of catching fish, they catch old boots and rubbish. I am even less lucky. I never catch anything -- not even old boots. After having spent whole mornings on the river, I always go home with an empty bag. 'You must give up fishing!' my friends say. 'It's a waste of time.' But they don't realize one important thing. I'm not really interested in fishing. I am only interested in sitting in a boat and doing nothing at all!
-
-
-## Mad or not?
-
-Why do people think the writer is mad?
-
-Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day. The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use. Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane. I have been offered a large sum of money to go away, but I am determined to stay here. Everybody says I must be mad and they are probably right.                                            
+*                                                                                                                                                                                                                                    
