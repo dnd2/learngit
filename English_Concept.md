@@ -468,4 +468,63 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * I haven't got anything to do. so I may as well come with you. 我无事可做还是和你一起去吧
 * Do you think he'll pass that exam? 
 * He'll never pass. He might as well give up.
-*                                                                                                                                                                                                                                    
+* The play may begin at any moment (Perhaps the play will begin at any moment)
+* It may have begun already (Perhaps it has begun already)
+* May i have two tickets please? (Will you let me have two tickets please?)
+* Can I return these two tickets? (Will you let me return these two tickets?)
+* Could I have those two tickets please? (Will you let me have two tickets please?)
+* I might as well have them. (Not really, but I'll have them.)
+* I haven't seen him for three years.
+* There are not many people here.
+* He doesn't understand what you're saying.
+* She did not tell me she had not seen you.
+* I shall not stay a moment longer.
+* He will not do as he is told.
+* When'll I see you?
+* What've you done? You've broken that bottle!
+* He's in the living room. He's just come home.
+* I cannot understand why he hasn't arrived.
+* You mustn't believe him.
+* I wasn't expecting you. You weren't supposed to arrive until 6 o'clock.
+* That man's been in prison.
+* They hadn't seen the film before.
+* The writer couldn't get tickets for the performance that evening because 
+	* they had all been sold
+	* there were only a few left
+	* there was no one at the ticket office
+	* the girl at the ticket office wouldn't give him any
+
+* The writer 
+	* was very pleased to get tickets for next Wednesday's performance
+	* didn't buy tickets for next Wednesday's performance
+	* didn't want tickets for next Wednesday's performance
+	*  wasn't too pleased to get tickets for next Wednesday's performance
+
+* They play
+	* has begun
+	* won't begin for a long time
+	* hasn't begun yet
+	* began a long time ago
+* May I have two tickets? Please let me have two tickets
+* The performance will be next performance
+* I might as well have them. I am not very glad to have them
+* Can I return these tickets? I want to give them back
+
+## One man in a boat
+
+Why is fishing the writer's favorite sport?
+
+Fishing is my favorite sport. I often fish for hours without catching anything. But this does not worry me. Some fishermen are unlucky. Instead of catching fish, they catch old boots and rubbish. I am even less lucky. I never catch anything - not even old boots. After having spent whole mornings on the river, I always go home with an empty bag. 'You must give up fishing!' my firends say. 'It's a waste of time.' But they don't realize one important thing. I'm not really interested in fishing. I am only interested in sitting in a boat and doing nothing at all.
+
+## Mad or not?
+
+Why do people think the writer is mad?
+
+Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day. The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use. Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane. I have been offered a large sum of money to go away. but I am determined to stay here. Everybody says I must be mad and they are probably right.
+
+
+## A glass envelope
+
+How did Jane receive a letter from a stranger? 
+
+My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland. Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle. She threw the bottle into the sea. She never thought of it again, but ten months later, she received a letter from a girl in Holland. Both girls writer to each other regularly now. However, they have decided to use the pose office. Letters will cost a little more. but they will certainly travel faster.	                                                                                                                                                                                                                                     
