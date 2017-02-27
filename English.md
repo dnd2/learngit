@@ -377,3 +377,23 @@ if you are tenacious, you are very determined and do not give up easily.
 If something invigorates you. it makes you feel more energetic.
 
 *Take a deep breath in to invigorate you.
+
+prejudice prejudice is an unreasonable dislike of a particular group of people or things, or a preference for one group of people or things over another
+
+there is a widespread prejudice against workers over 45
+
+inevitably if something will inevitably happen, it is certain to happen and cannot be prevented or avoided
+
+inevitably, the proposal is running into difficulties
+
+tenacious if you are tenacious, you are very determined and do not give up easily
+
+she is very tenacious and will work hard and long to achieve objectives
+
+invigorate if something invigorates you, it makes you feel more energetic
+
+take a deep breath in to invigorate you
+
+applause applause is the noise made by a group of people clapping their hands to show approval
+
+they greeted him with thunderous applause
