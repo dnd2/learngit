@@ -367,33 +367,36 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 
 “Seeing a chubbier dancer go out on stage people think she can't do everything," she said. "Then they see me dance, and they see I can do what everyone else can and they are all surprised." 
 
-**tenacious** 
-if you are tenacious, you are very determined and do not give up easily.
+## New words and expressions
 
-*She is very tenacious and will work hard and long to achieve objectives.
+<font color="#c00">**prejudice**</font> **prejudice is an unreasonable dislike of a particular group of people or things, or a preference for one group of people or things over another**
 
-**invigorate**
+* There is a widespread prejudice against workers over 45
 
-If something invigorates you. it makes you feel more energetic.
+<font color="#c00">**inevitably**</font> **if something will inevitably happen, it is certain to happen and cannot be prevented or avoided**
 
-*Take a deep breath in to invigorate you.
+* inevitably, the proposal is running into difficulties
 
-prejudice prejudice is an unreasonable dislike of a particular group of people or things, or a preference for one group of people or things over another
+<font color="#c00">**tenacious**</font> **if you are tenacious, you are very determined and do not give up easily**
 
-there is a widespread prejudice against workers over 45
+* She is very tenacious and will work hard and long to achieve objectives
 
-inevitably if something will inevitably happen, it is certain to happen and cannot be prevented or avoided
+<font color="#c00">**invigorate**</font> **if something invigorates you, it makes you feel more energetic**
 
-inevitably, the proposal is running into difficulties
+* take a deep breath in to invigorate you
 
-tenacious if you are tenacious, you are very determined and do not give up easily
+<font color="#c00">**applause**</font> **applause is the noise made by a group of people clapping their hands to show approval**
 
-she is very tenacious and will work hard and long to achieve objectives
+* They greeted him with thunderous applause
 
-invigorate if something invigorates you, it makes you feel more energetic
+<font color="#c00">**indignant**</font> **If you are indignant, you are shocked and angry, because you think that something is unjust or unfair**
 
-take a deep breath in to invigorate you
+* He is indignant at suggestions that they were secret agents.
 
-applause applause is the noise made by a group of people clapping their hands to show approval
+<font color="#c00">**identical**</font> **Things that are identical are exactly the same**  adj. 完全相同的;同样的
 
-they greeted him with thunderous applause
+* Nearly all the houses were identical.
+
+<font color="#c00">**energetic**</font> **If you are energetic in what you do, you have a lot of enthusiasm and determination.**  adj. 充满活力的;精力充沛的 
+
+* Blackwell is 59, strong looking and enormously energetic.
