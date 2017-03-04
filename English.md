@@ -400,3 +400,7 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 <font color="#c00">**energetic**</font> **If you are energetic in what you do, you have a lot of enthusiasm and determination.**  adj. 充满活力的;精力充沛的 
 
 * Blackwell is 59, strong looking and enormously energetic.
+
+<font color="#c00">**achieve**</font> **If you achieve a particular aim or effect, you succeed in doing it or causing it to happen, usually after a lot of effort**
+
+* There are many who will work hard to achieve these goals.有志之士将会共同为实现这些目标而努力
