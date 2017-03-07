@@ -151,7 +151,7 @@ The secretary told me that Mr. Harmsworth would see me. <font color="#0095dd">I 
 * The writer would receive an extra ￡1,000 a year. He would get ￡1,000 a year more.
 
 ## A Polite Request
-&nbsp;&nbsp;If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic polic are sometimes very polite. During a holiday in Sweden. I found this note on my car: 'Sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
+&nbsp;&nbsp;If you park your car in the wrong place, a traffic policeman will soon find it. You will be very lucky if he lets you go without a ticket. However, this does not always happen. Traffic police are sometimes very polite. During a holiday in Sweden. I found this note on my car: 'Sir, we welcome you to our city. This is a "No Parking" area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.' If you receive a request like this, you cannot fail to obey it!
 
 **News words and expression**
 
@@ -258,7 +258,8 @@ Study these sentences. Pay attention to the words in italics.
 * Will Jennifer act the part of a girl of seventeen in a new play soon or not?
 * Does she ever tell anyone how old she really is or not?
 * mature [mə'tʃʊr] v. 成熟 adj. 成熟的 (mature in mind 思想上成熟，in mind 是固定短语，就是思想上,mature是形容词,前面应该是be动词或者系动词)
-* suit n. 西装；套装
+	* When a child or young animal matures, it becomes an adult. (You will learn what to expect as your child matures physically.在孩子身体发育成熟时，你就知道会发生什么事了) 
+* suit n. 西装；套装 A man's suit consists of a jacket, trousers, and sometimes a waistcoat, all made from the same fabric.
 
 **Key Structure**
 
