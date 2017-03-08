@@ -46,3 +46,15 @@ or live properly without it.*
 
 * Give me a kiss
 * She stretched her arms out and gave a great yawn.
+
+**sex** The sex of a person or animal is their characteristic of being either male or female.
+
+**pig** A pig is a pink or black animal with short legs and not much hair on its skin. Pigs are often kept on farms for their meat, which is called pork, ham, bacon, or gammon.
+
+**peg** A peg is small piece of wood or metal that is used for fastening something to something else. （金属或木制的）销钉，楔子, 木钉
+
+* He builds furniture using wooden pegs instead of nails.
+
+**set** If you set something somewhere, you put it there, especially in a careful or deliberate way. (尤指小心翼翼地)放，置
+
+* He took the case out of her hand and set it on the floor.他从她手中拿过箱子，将它小心地放在地板上
