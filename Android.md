@@ -187,4 +187,67 @@ Because the LinearLayout is the root view in the layout, it should fill the enti
 * 使用权重的前提一般是给 View 的宽或者高的大小设置为 0dp
 
 
+###Intent
 
+是各组件进行交互的一种重要方式，可用于启动Activity、启动服务及发送广播等场景。
+
+1 显示intent
+
+~~~java
+button.setOnClickListener(new View.onClickListener() {
+	@Override
+	public void onClick(View v) {
+		// 第一个参数指定活动的上下文，第二参数指定要启动的目标活动
+		Intent intent = new Intent(FirstActivity.this, SecondActivity.class);
+		startActivity(intent);
+	}
+});
+~~~
+
+2 隐式intent
+
+通过在AndoridMainifest.xml中指定当前活动的action和category来响应活动
+
+	<activity android:name=".SecondActivity">
+		<intent-filter>
+			<action android:name="com.example.activitytest.ACTION_START" />
+			<category android:name="android.intent.category.DEFAULT" />
+		</intent-filter>
+	</activity>
+
+~~~java
+button.setOnClickListener(new View.OnClickListener() {
+	@Override
+	public void onClick(View v) {
+		Intent intent = new Intent("com.example.activitytest.ACTION_START");
+		startActivity(intent);
+	}
+});
+~~~
+
+Note: 这里由于category指定了一个系统默认的值，在调用startActivity时会自动将该category添加到intent中
+
+	intent中只能指定一个action，但可以指定多个category (使用 intent.addCategory("com.example.MY_CATEGORY"))方式添加，但此处指定的值必须在配置文件中设置，否则会引发异常：android.content.ActivityNotFoundException
+
+3 其它隐式intent
+
+~~~java
+button.setOnClickListener(new View.OnClickListener() {
+	@Override
+	public void onClick(View v) {
+		Intent intent = new Intent(Intent.ACTION_VIEW);
+		intent.setData(Uri.parse("http://www.163.com"));
+		// 打开拨号界面
+		intent.setData(Uri.parse("tel:10086"));
+		startActivity(intent);
+	}
+});
+~~~
+	
+在配置文件中的intent-filter中可以配置data标签指定当前活动所响应的数据类型。
+
+* android:scheme 指定协议部分，如http
+* android:host	 指定主机名
+* android:port	 指定端口号
+* android:path	 指定端口号后的网址 
+* android:mimeType 指定处理的数据类型，可使用通配符
