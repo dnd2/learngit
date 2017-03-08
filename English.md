@@ -404,3 +404,11 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 <font color="#c00">**achieve**</font> **If you achieve a particular aim or effect, you succeed in doing it or causing it to happen, usually after a lot of effort**
 
 * There are many who will work hard to achieve these goals.有志之士将会共同为实现这些目标而努力
+
+<font color="#c00">**enthusiasm**</font> **Enthusiasm is great eagerness to be involved in a particular activity which you like and enjoy or which you think is important.** n.热爱;热情;热心
+
+* Their skill and enthusiasm has gotten them on the team.他们的技术、热忱和跑动能力使他们得以加入这支球队
+
+<font color="#c00">**clap**</font> **When you clap, you hit your hands together to show appreciation or attract attention.** v.  鼓掌;拍手
+
+* Midge clapped her hands, calling them back to order. 米奇拍手示意他们安静下来

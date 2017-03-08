@@ -24,3 +24,18 @@ Note: 如果在createServer的匿名函数中加入一段输出语句，当我�
 Node.js模块 require和 exports
 http://www.cnblogs.com/pigtail/archive/2013/01/14/2859555.html
 https://liuzhichao.com/p/1669.html
+
+
+### Nodejs Command line
+
+[Example](https://github.com/jaywcjlove/wcj)
+
+* Nodej打开浏览器
+
+~~~javascript
+var c = require('child_process');
+// 用系统默认浏览器打开
+c.exec("start http://www.zbj.com");
+// 用指定浏览器打开
+c.exec("C:\\Users\\jslouvre\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe http://www.cnblogs.com/rubylouvre/");	
+~~~	
