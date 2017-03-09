@@ -412,3 +412,10 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 <font color="#c00">**clap**</font> **When you clap, you hit your hands together to show appreciation or attract attention.** v.  鼓掌;拍手
 
 * Midge clapped her hands, calling them back to order. 米奇拍手示意他们安静下来
+
+<font color="#c00">**hike**</font> **A hike is a long walk in the country, especially one that you go on for pleasure** v.&n. 远足;徒步旅行
+
+* if you hike, you go for a long walk in the country
+* You could hike through the Fish River Canyon. 你可以徒步穿越鱼河峡谷
+
+<font color="#c00">**trail**</font> **A trail is a route along a series of paths or roads, often one that has been planned and marked out for a particular purpose** n. （特定）路线，路径
