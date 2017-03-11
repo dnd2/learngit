@@ -1,3 +1,29 @@
+###相关资料
+
+* Android Training
+	* [Base Knowledges](http://hukai.me/blog/categories/android-training/) 
+
+* Language Points
+	* [知识梳理](https://juejin.im/post/587dbaf9570c3522010e400e) 
+
+* Animations
+	* [Android animation](http://androidblog.cn/index.php/Source/index/p/1)
+* code snippet
+	* [Common code](https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md)
+
+* Project Cases
+	* http://www.jianshu.com/p/61efdc826c01
+
+* Framework
+	* [动画框架](https://github.com/lgvalle/Material-Animations) 
+
+* Blog
+	* [stormzhang](http://stormzhang.com/posts/)
+	* [JackPeng](http://yuanfentiank789.github.io/) 
+
+* Others
+	* [打造无敌解耦的BaseActivity](https://luhaoaimama1.github.io/2016/03/23/BaseActivity/)   
+
 **.bash_profile 生效**
 
 exec bash --login

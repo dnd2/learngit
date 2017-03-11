@@ -419,3 +419,11 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 * You could hike through the Fish River Canyon. 你可以徒步穿越鱼河峡谷
 
 <font color="#c00">**trail**</font> **A trail is a route along a series of paths or roads, often one that has been planned and marked out for a particular purpose** n. （特定）路线，路径
+
+<font color="#c00">**motivation**</font> **Your motivation for doing something is what cause you to want to do it** n. 动力；动机；诱因
+
+* The timing of the attrack, and its motivations, are unknown. 袭击发生的时间及其动机尚不清楚
+
+<font color="#c00">**quest**</font> **A quest is a long and difficult search for something.** n.  (长期艰难的)追求，探索，寻找
+
+* My quest for a better bank continues. 我继续寻找一家更好的银行

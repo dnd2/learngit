@@ -58,3 +58,15 @@ or live properly without it.*
 **set** If you set something somewhere, you put it there, especially in a careful or deliberate way. (尤指小心翼翼地)放，置
 
 * He took the case out of her hand and set it on the floor.他从她手中拿过箱子，将它小心地放在地板上
+
+**lake** A lake is a large area of fresh water, surrounded by land.
+
+* He lives by the lake.
+
+**make** To make something means to produce, construct, or create it.
+
+*　I'll make coffee for you
+
+**later** You use later to refer to a time or situation that is after the one that you have been talking about or after the present one.
+
+* I'll be back later
