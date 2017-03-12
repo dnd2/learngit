@@ -2,6 +2,7 @@
 
 * Android Training
 	* [Base Knowledges](http://hukai.me/blog/categories/android-training/) 
+	* [Offical Tutorial](http://hukai.me/android-training-course-in-chinese/index.html)
 
 * Language Points
 	* [知识梳理](https://juejin.im/post/587dbaf9570c3522010e400e) 
@@ -20,9 +21,11 @@
 * Blog
 	* [stormzhang](http://stormzhang.com/posts/)
 	* [JackPeng](http://yuanfentiank789.github.io/) 
+	* [androidhive](http://www.androidhive.info/)
 
 * Others
-	* [打造无敌解耦的BaseActivity](https://luhaoaimama1.github.io/2016/03/23/BaseActivity/)   
+	* [打造无敌解耦的BaseActivity](https://luhaoaimama1.github.io/2016/03/23/BaseActivity/)  
+	* [Android开发相关的博客、文章、教程](https://github.com/HanderWei/Android-Blogs) 
 
 **.bash_profile 生效**
 
@@ -212,6 +215,53 @@ Because the LinearLayout is the root view in the layout, it should fill the enti
 * 权重的值指的是每个部件所占剩余空间的大小, 该值与同级部件所占空间大小有关
 * 使用权重的前提一般是给 View 的宽或者高的大小设置为 0dp
 
+~~~text
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/input_message"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="Type something"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Send"/>
+	</LinearLayout>
+~~~
+
+Note: 
+
+* 当orientation设置为horizontal时才能将layout_width设置为0dp的方式
+* 因为设置了layout_weight，所以不应该由layout_width来决定其宽度
+* 将EditText和Button的layout_weight都设置为1表示2个控件水平方向平分宽度
+* 系统会将layout_weight值相加之和，每个控件所占大小比例由控件的layout_weight值除以这个总值得到 （因此想让EditText占屏幕宽度3/5，Button占屏幕2/5，EditText设置为3，Button设置为2）
+
+~~~text
+
+	<EditText
+        android:id="@+id/input_message"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="Type something"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"/>
+~~~
+
+Note: 这样EditText会占用除Button自身宽度外的剩余空间
 
 ###Intent
 
