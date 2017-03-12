@@ -422,8 +422,8 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 
 <font color="#c00">**motivation**</font> **Your motivation for doing something is what cause you to want to do it** n. 动力；动机；诱因
 
-* The timing of the attrack, and its motivations, are unknown. 袭击发生的时间及其动机尚不清楚
+* The timing of the attack, and its motivations, are unknown. 袭击发生的时间及其动机尚不清楚
 
 <font color="#c00">**quest**</font> **A quest is a long and difficult search for something.** n.  (长期艰难的)追求，探索，寻找
 
-* My quest for a better bank continues. 我继续寻找一家更好的银行
+* My quest for a better bank continues. 我继续寻找一家更好的银行 (此处的for是：为得到；为获取in order to obtain sth)
