@@ -427,3 +427,7 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 <font color="#c00">**quest**</font> **A quest is a long and difficult search for something.** n.  (长期艰难的)追求，探索，寻找
 
 * My quest for a better bank continues. 我继续寻找一家更好的银行 (此处的for是：为得到；为获取in order to obtain sth)
+
+<font color="#c00">**apart**</font> **When people or things are apart, they are some distance  from each other.** adv. 在空间上）相隔，相距
+
+* He was standing a bit apart from the rest of us, watching us... 他站在离我们其余人不远的地方，看着我们
