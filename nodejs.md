@@ -70,3 +70,9 @@ node-inspector --web-port=8080 --debug-port=5858  # 启动node inspector
   * 远程debug
   * 性能分析
 
+**Aditional**
+
+[Getting start with Nodejs](https://segmentfault.com/a/1190000002984199)
+[i18n](https://segmentfault.com/a/1190000002632604)
+[Session原理、安全以及最基本的Express和Redis实现](https://segmentfault.com/a/1190000002630691)
+[sailjs](http://www.cnblogs.com/plzzhy/p/plzzhy.html)
