@@ -37,16 +37,9 @@ The sisters said they will set another goal once they’ve had an opportunity to
 **Words and Expression**
 
 * <font color="#06a">**identical**</font> [aɪ'dentɪk(ə)l] adj. 完全同样的；相同的  identical twin 同卵双生性别相同，外貌相似）<font color="#e76725">*One of the cases was of two identical twin brother*</font> 一个实例是有关一对同卵孪生兄弟的。
-* <font color="#06a">**achieve [ə'tʃiv]**</font>  v. 完成；（凭长期努力）达到（某目标、地位、标准 
-	* If you achieve a particular aim or effort, you succeed in doing it or causing it to happen, usually after a lot of effort. 
-	* <font color="#e76725">*Choose goals that you know you can achieve in a realistic amount of time*</font> 选择一个你知道能够在短时间内完成的目标。
-* <font color="#06a">**hiking, hike**</font> n.  ['haɪkɪŋ]  小路; 远足；徒步旅行 <font color="#e76725">*I feel quite up to a long hike today*</font> feel up to 能胜任；觉得能担当
 * <font color="#06a">**Appalachian**</font> [ˌæpə'leɪtʃɪən] adj. 阿帕拉契山脉的 <font color="#e76725">*Appalachian Trail*</font> 阿巴拉契亚山道
-* <font color="#06a">**trail**</font>  [treɪl] n. 路径； 足迹
-* <font color="#06a">**daring**</font> ['derɪŋ] adj. 勇敢的；敢于冒险的
 * <font color="#06a">**take on**</font>  对付;与…较量 take on new adventures / *He pulls out his sword and he's ready to take on the entire Roman army*
 * <font color="#06a">**one step at a time**</font>  一步一步;一步一个脚印
-* <font color="#06a">**motivation**</font> [.moʊtɪ'veɪʃ(ə)n] n. 动力；动机因素
 * <font color="#06a">**outdoor people**</font>, outdoor sports people  户外运动的人
 * <font color="#06a">**run around**</font> 到处跑 *It's against the law to let the dog run around the street.* 让狗在街上到处跑是违法的。
 * document v. 记录；证明
@@ -56,11 +49,7 @@ The sisters said they will set another goal once they’ve had an opportunity to
 * hiker n. 徒步旅行者
 * drop from  消失；把…扔 *almost all of their fellow hikers dropped from the group*
 * on one’s own  独自地；靠自己的力量
-* quest n. 探索 *My quest for a better bank continues.* 我继续寻找一家更好的银行。
-* <font color="#06a">**tenacious**</font>  [tə'neɪʃəs] adj. 顽强的; 固执的 *She is very tenacious and will work hard and long to achieve objectives.* 她是个锲而不舍的人，为了达到目标愿意长期苦干。
 * Florida n.  ['flɒrɪdə] 佛罗里达
-* apart adv. 分开；分离[(在空间上）相隔，相距] *He was standing a bit apart from the rest of us, watching us* 他站在离我们其余人不远的地方，看着我们
-* scenery ['sin(ə)ri] n. 风景；景色 *Sometimes they just drive slowly down the lane enjoying the scenery* 有时他们只是沿着小路慢慢地开车，欣赏两旁的风景
 * encounter [ɪn'kaʊntər] v. 遭遇；偶然碰到 *Every day of our lives we encounter stresses of one kind or another* 我们在每天的生活中会面临这样或那样的压力
 * wildlife n. 野生动物
 * incident ['ɪnsɪdənt] n. 发生的事情（尤指不寻常的或讨厌的）；严重事件 *These incidents were the latest in a series of disputes between the two nations* 这些事件是两国一系列争端中最近发生的几起
@@ -68,12 +57,10 @@ The sisters said they will set another goal once they’ve had an opportunity to
 * slop n. 斜坡 on the slop
 * walk past 经过；路过
 * exhaust v. 耗尽；使筋疲力尽；使疲惫不堪 *He took to walking long distances in an attempt to physically exhaust himself* 他开始长距离步行，试图耗尽自己的体力
-* <font color="#06a">**invigorate**</font> [ɪn'vɪɡə.reɪt] v. 生气勃勃；使精神焕发  i feel invigorated by all this  fresh air.空气很清新，我觉得精神焕发！ *Take a deep breath in to invigorate you* 深吸一口气来提提神
 * boulder 'boʊldər] n. 受水或天气侵蚀而成的）巨石  *A boulder is a large rounded rock*
 * muscle n. 肌肉；体力 a muscle step
 * continue on 继续; 续继往…走
 * cheer on 欢呼；喝采；为某人打气 *Most will probably be cheering on their favorite players* 多数人大概都会为自己喜欢的球员加油
-* <font color="#06a">**applause**</font> [ə'plɔz] n. 鼓掌；喝彩 (*As the president's car drew up, the crowd broke into loud applause* 总统的座车停下时，人群中爆发出热烈的掌声。)
 * <font color="#06a">**tons of**</font> 大量；许多 (*All that delicious food, and tons of it.*全是美味的食物，一大堆。) 
 * <font color="#06a">**They were really into it.**</font> (*She seemed to be really into it.* 她似乎觉得很受用。)
 * <font color="#06a">**couch**</font> n. 长沙发；长椅 (*He is a real couch potato. He just sits and watches TV at home all day.* 他很懒，整天坐在家里看电视。couch potato 老泡在电视机前的人；电视迷) 
@@ -404,6 +391,7 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 <font color="#c00">**achieve**</font> **If you achieve a particular aim or effect, you succeed in doing it or causing it to happen, usually after a lot of effort**
 
 * There are many who will work hard to achieve these goals.有志之士将会共同为实现这些目标而努力
+* <font color="#e76725">*Choose goals that you know you can achieve in a realistic amount of time*</font> 选择一个你知道能够在短时间内完成的目标。
 
 <font color="#c00">**enthusiasm**</font> **Enthusiasm is great eagerness to be involved in a particular activity which you like and enjoy or which you think is important.** n.热爱;热情;热心
 
@@ -431,3 +419,36 @@ The Delaware teen has been dancing for ten years and she is breaking down barrie
 <font color="#c00">**apart**</font> **When people or things are apart, they are some distance  from each other.** adv. 在空间上）相隔，相距
 
 * He was standing a bit apart from the rest of us, watching us... 他站在离我们其余人不远的地方，看着我们
+
+<font color="#c00">**daring**</font> **Peole who are daring are willing to do or say things which are new or which might shock or anger other people.** adj. 大胆的;敢于冒险的;勇于创新的
+
+* He realized this to be a very daring thing to ask. 他意识到这是一个非常大胆的问题
+
+<font color="#c00">**scenery**</font> **The scenery in a country area is the land, water, or plants that you can see around you.** n. 风景;景色;风光
+
+* Sometimes they just drive slowly down the lane enjoying the scenery.有时他们只是沿着小路慢慢地开车，欣赏两旁的风景
+
+<font color="#c00">**infuriating**</font> **Something that is infuriating annoys you very much.** adj. 令人十分生气的;使人大怒的
+
+* I was in the middle of typing when Robert rang. It was infuriating! 我正在打字的时候罗伯特来电话。真叫人生气！
+
+<font color="#c00">**romp**</font> **If two people have a romp, they have sex in a light-hearted and very casual way.**
+n. 调情;风流韵事
+
+* A good, old-fashioned, and dare I say unattached romp with the hot neighbor downstairs may be what's making life splendid.
+
+<font color="#c00">**instill**</font> **If you instill an idea or feeling in someone, especially over a period of time, you make them think it or feel it.** v. 慢慢灌输;注入
+
+* The tough thing is trying to instill a winning attitude in the kids.
+
+<font color="#c00">**Not to mention**</font> 更不用说；更不必说；更别提
+
+* Do not always learn how to have, not to mention how to get to treasure and guard. 始终学不会如何去拥有，更不用提怎么去珍惜以及守护。
+
+<font color="#c00">**more likely**</font> adj. 很可能的
+
+* You are 13 percent more likely to be happy if you do this.
+
+<font color="#c00">**put yourself out there**</font> 展示自己；展现自己
+
+* You need to put yourself out there more! 你需要多出去接触接触
