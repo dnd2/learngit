@@ -355,7 +355,7 @@ The landlord smiled and immediately went out. In a few minutes he returned with 
 
 **Key Structure**
 
-* Could she find here bag after here meail or not?
+* Could she find her bag after her meal or not?
 * Who soon found it for her?
 * Have you had lunch yet?
 * After he had finished work he went home.
@@ -371,7 +371,7 @@ The landlord smiled and immediately went out. In a few minutes he returned with 
 * He doesn't possess a lot of money.
 	* *He hasn't a lot of money.*
 	* *He hasn't got a lot of money.*
-* I **took**had a bath before dinner. 
+* I **took**/had a bath before dinner. 
 * **Take**/have a biscuit.
 * I **enjoyed myself**/had a good time at the party.
 * I **received**/had a letter from him yesterday.
