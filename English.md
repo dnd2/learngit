@@ -452,3 +452,11 @@ n. 调情;风流韵事
 <font color="#c00">**put yourself out there**</font> 展示自己；展现自己
 
 * You need to put yourself out there more! 你需要多出去接触接触
+
+<font color="#c00">**outlet**</font> **An outlet is a shop or organization which sells the goods made by a particular manufacturer** n. 经销店；专营店
+
+* the largest retail outlet in the city. 该市最大的零售商店
+
+<font color="#c00">**struggle**</font> **If you struggle to do something, you try hard to do it, even though other people or things may be making it difficult for you to succeed.** v. 奋力;努力;尽力
+
+* They had to struggle against all kinds of adversity. 他们不得不同一切困境做斗争

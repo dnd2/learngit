@@ -452,7 +452,7 @@ I went back to the ticket office at once. 'Could I have those two tickets please
 * When was the paly going to begin/be on?
 * How many tickets did you ask for?
 * Were there any left or not?
-* Who hurried to the ticket of/Users/Dai/Documents/codes/git/learngit/English_Concept.mdfice just then?
+* Who hurried to the ticket office just then?
 * Were they for that day's performance?   
 
 
