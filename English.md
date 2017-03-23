@@ -460,3 +460,11 @@ n. 调情;风流韵事
 <font color="#c00">**struggle**</font> **If you struggle to do something, you try hard to do it, even though other people or things may be making it difficult for you to succeed.** v. 奋力;努力;尽力
 
 * They had to struggle against all kinds of adversity. 他们不得不同一切困境做斗争
+
+<font color="#c00">**demand**</font> **if you refer to demand, or to the demand for something, you are referring to how many people want to have it, do it, or buy it**
+
+* Another flight would be arranged on Saturday if sufficient demand arose. 如果需求量足够大，周六将再安排一趟航班
+
+<font color="#c00">**regardless**</font> **if you say that someone did something regardless, you mean that they did it even though there were problems or factors that could have stopped them, or perhaps should have stopped them.**
+
+* Despite her recent surgery she has been carrying on regardless. 尽管最近做了手术，她还是不顾一切地进行下去

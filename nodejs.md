@@ -76,3 +76,28 @@ node-inspector --web-port=8080 --debug-port=5858  # 启动node inspector
 [i18n](https://segmentfault.com/a/1190000002632604)
 [Session原理、安全以及最基本的Express和Redis实现](https://segmentfault.com/a/1190000002630691)
 [sailjs](http://www.cnblogs.com/plzzhy/p/plzzhy.html)
+
+###expressjs
+
+- express.js
+
+~~~javascript
+/**
+ * 用来生成app实例
+ */
+function createApplication() {
+  var app = function(req, res, next) {
+    app.handle(req, res, next);
+  };
+  // 将EventEmitter和application.js下的app类属性扩展到app上
+  mixin(app, EventEmitter.prototype, false); 
+  mixin(app, proto, false);
+  // 将request,response和app对象添加到app属性上	
+  app.request = { __proto__: req, app: app };
+  app.response = { __proto__: res, app: app };
+  app.init();  // 调用application.js 56行的init方法
+  return app;
+}
+~~~
+
+- applicaton.js
