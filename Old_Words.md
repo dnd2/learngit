@@ -70,3 +70,73 @@ or live properly without it.*
 **later** You use later to refer to a time or situation that is after the one that you have been talking about or after the present one.
 
 * I'll be back later
+
+
+###Getting Started
+
+* Good morning, May. How are you?
+* Hi, Tom. I'm fine. And you?
+* Not bad. Thanks
+* Good. See you.
+* Bye # 非正式，与熟识朋友使用，正式用Good Bye
+
+Note:
+	
+	* good morning 用于中午12点前   
+	* good afternoon (见面时用)
+	* good evening (见面时用) 
+	* good night (道别时使用，相当于Goodbye)
+	* 俏皮对话：
+		* See you later.
+		* Alligator. 故意用该词取代See you later,因为alligator中的gator与see you later中的later押韵。 该词在此无任何意义，纯属俏皮话，可视作See you later 
+ 
+* Hi, May. How's it going?
+* Great. And how are you doing?
+* Not bad.
+* OK. See you later.
+* Take care.
+* You too. 
+
+Note:
+
+	* how are you? 多用于正式场合
+	* how are you doing? 多用于熟悉朋友间
+	* how are you getting along? 
+		* 以上问句可以这样回答：
+		* I'm fine, thank you.
+		* Great, thanks.
+		* Fine, thanks.
+		* Not bad, thanks.
+		* So - so, thank you. 马马虎虎/还过得去，谢谢你 
+	* how have you been? 你最近还好吗/近况如何
+		* I have been fine, thank you.
+		* Fine, thank you. 
+	* how's it going?  还好吧/近况如何？
+		* Not bad, thank you.
+		* So - so, thank you.
+		* Great, thank you.
+		* Fine, thank you. 
+	* what's up? 近况如何？(多为年轻人所用) 
+	* what's happening? (= What's up)
+		* Nothing much. 没什么
+		* Same as usual. 老样子 - 由Everything is the same as usual.(一切与往常相同) 简化而来 
+
+**感谢用语**
+	
+	* Thanks. 在非正式的场合或朋友间使用
+	* Thank you. 较正式
+	* Thank you very much. 最正式
+	* Thanks a lot. 非正式
+	* Thanks a million. (俏皮用语) 
+
+	* OK = All right.
+	* Take care. 由 I hope you will take care of yourself 简化而来。(我希望你能照顾自己)
+	* Don't worry. I will take care of you.
+	* You too. 是一种简答句，由I hope you will take care of yourself, too. 简化而来。 这类简答句只用于肯定句中，且通常只有下列2种：
+		* You too.
+		* Me too.   
+		* For instance:
+			* I hope you can pass the exam.
+			* You too. = I hope you can pass the exam, too.
+			* I hope I can see you tomorrow.
+			* Me too. = I hope I can see you tomorrow, too. 
