@@ -72,10 +72,12 @@ or live properly without it.*
 * I'll be back later
 
 
-###Getting Started
+###Getting Started###
+
+###Unit One###
 
 * Good morning, May. How are you?
-* Hi, Tom. I'm fine. And you?
+* Hi, Tom. I'm fine. And you? - And how are you?的简化
 * Not bad. Thanks
 * Good. See you.
 * Bye # 非正式，与熟识朋友使用，正式用Good Bye
@@ -95,7 +97,7 @@ Note:
 * Not bad.
 * OK. See you later.
 * Take care.
-* You too. 
+* You too. - You take care,too. 简写
 
 Note:
 
@@ -111,7 +113,7 @@ Note:
 	* how have you been? 你最近还好吗/近况如何
 		* I have been fine, thank you.
 		* Fine, thank you. 
-	* how's it going?  还好吧/近况如何？
+	* how's it going?  还好吧/近况如何？(it指生活，go 发展)
 		* Not bad, thank you.
 		* So - so, thank you.
 		* Great, thank you.
@@ -140,3 +142,54 @@ Note:
 			* You too. = I hope you can pass the exam, too.
 			* I hope I can see you tomorrow.
 			* Me too. = I hope I can see you tomorrow, too. 
+
+###Unit Two###
+
+* Excuse me. Are you Ann?
+* No, i'm not.
+* I'm sorry. Who's Ann?
+* She is.
+* Thank you.
+* You'are welcome.
+
+* Hi, i'm Tom.
+* I beg your pardon?
+* i'm Tom.
+* Oh! Hi, Tom. I'm May.
+* Nice to meet you, May.
+* Pleased to meet you.  
+
+Notes:
+
+	* Exceuse 用于唤起别人的注意；I'm sorry 多表示“抱歉”，尤其是在犯错或有不好消息要告诉对方时使用
+		* Excuse me. Where is the station?
+		* I'm sorry. I'm new here.(我刚到这儿/我在这儿人生地不熟)
+		* I'm sorry. I can't see you today. 
+		* Excuese me 或 I'm sorry 之后可使用句号也可使用逗号，再加上连词but，连接另一个句子。but意为‘但是’，此处可不必译出，以上例句也可写成：
+			* Excuse me, but where is the station?
+			* I'm sorry, but i'm new here.
+			* I'm sorry, but i'm can't see you today. 
+	* You're welcome 对方表示谢谢时以下句子回答，他们都可译成“别客气”
+		* Thank you for your help.
+		* You're welcome.
+		- Don't mention it. 
+		- Not at all.
+		- No problem
+
+	* I beg your pardon? - May I beg your pardon?的简化
+		- Beg your pardon?
+		- Pardon me?
+		- Pardon?
+	
+	* Nice to meet you. 很高兴认识你/幸会 (初次见面时客气用语) / It's nice to meet you.
+		- Pleased to meet you./ I'm pleased to meet you.
+		- Glad to meet you.  / I'm glad to meet you.
+		
+	* 代名词 + be动词开头
+		* I am a boy.
+		* It is a book.
+		* You are very kind.
+		* 口语中，常为求说话速度及口气自然，常将该结构简化
+			* I'm a boy.
+			* It's a book
+			* You're very kind.   
