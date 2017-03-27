@@ -25,6 +25,13 @@ Node.js模块 require和 exports
 http://www.cnblogs.com/pigtail/archive/2013/01/14/2859555.html
 https://liuzhichao.com/p/1669.html
 
+###exports & module.exports
+
+* exports是module.exports的辅助方法
+* 模块最终返回module.exports给调用者，而不是exports
+* exports所做事情是收集属性,如果module.exports没有任何属性,exports会把其属性赋予module.exports
+* module.exports存在一些属性,exports中所用的会被忽略
+
 ###Nodejs 调试###
 
 使用nodes内置debug模块
