@@ -468,3 +468,11 @@ n. 调情;风流韵事
 <font color="#c00">**regardless**</font> **if you say that someone did something regardless, you mean that they did it even though there were problems or factors that could have stopped them, or perhaps should have stopped them.** adv. 不管怎样;无论如何
 
 * Despite her recent surgery she has been carrying on regardless. 尽管最近做了手术，她还是不顾一切地进行下去
+
+<font color="#c00">**secure**</font> **If you secure something that you want or need, you obtain it, often after a lot of effort.** v. (经过努力)获得，争取到
+
+* Graham's achievements helped secure him the job. 出色的成绩帮助格雷厄姆拿下了这份工作
+
+<font color="#c00">**faithful**</font> **Someone who is faithful to a person, organization, idea, or activity remains firm in their belief in them or support for them.** adj. 忠实的;忠诚的
+
+* She had been faithful to her promise to guard this secret. 她一直信守承诺，保守着这个秘密

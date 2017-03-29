@@ -517,6 +517,23 @@ Why is fishing the writer's favorite sport?
 
 Fishing is my favorite sport. I often fish for hours without catching anything. But this does not worry me. Some fishermen are unlucky. Instead of catching fish, they catch old boots and rubbish. I am even less lucky. I never catch anything - not even old boots. After having spent whole mornings on the river, I always go home with an empty bag. 'You must give up fishing!' my firends say. 'It's a waste of time.' But they don't realize one important thing. I'm not really interested in fishing. I am only interested in sitting in a boat and doing nothing at all.
 
+**Key Structure**  
+
+* Is the writer as lucky as they are or is he not so lucky?
+* What is the only thing that interests him?
+* Eating is always a pleasure.
+* Watching television is my favorite pastime(业余爱好).
+* Readding in bed is something I always enjoy. 我总喜欢躺在床上看书
+* I am very keen on cycling. 我非常喜欢骑自行车
+* She is afraid of staying in that house alone. 她害怕单独住在那间屋子里
+* He is capable of doing anything. 他能胜任任何事情
+
+**Note how these sentences have been joined.**
+
+* He sat there. He did not say anthing. --> He sat there without saying anything.
+* He turned off the radio. He left the room. --> Before leaving the room, he turned off the radio.
+* He looked at this watch. He hurried to the station. --> After looking at his watch, he hurried to the station. 他看下表后，就匆忙赶到火车站
+
 ## Mad or not?
 
 Why do people think the writer is mad?
