@@ -532,7 +532,18 @@ Fishing is my favorite sport. I often fish for hours without catching anything. 
 
 * He sat there. He did not say anthing. --> He sat there without saying anything.
 * He turned off the radio. He left the room. --> Before leaving the room, he turned off the radio.
-* He looked at this watch. He hurried to the station. --> After looking at his watch, he hurried to the station. 他看下表后，就匆忙赶到火车站
+* He looked at this watch. He hurried to the station. 
+	*  After looking at his watch, he hurried to the station. 他看下表后，就匆忙赶到火车站
+	*  After having looked at his watch, he hurried to the station.
+* I must apologize. I interrupted you. 
+	* I must apologize for interrupted you. 由于打断了你的说话(工作)，我得表示道歉
+	* I must apologize for having interrputed you.
+* I must apologize. I did not let you know earlier.  
+	* I must apologize for not letting you know earlier. 由于没让你早点知道，我得表示道歉
+	* I must apologize for not having let you know earlier.
+* He congratulated me. I won the competition. 
+	* He congratulated me on winning the competition. 在我赢得这次比赛之际，他向我祝贺
+	* He congratulated me on having won the competition.   
 
 ## Mad or not?
 
