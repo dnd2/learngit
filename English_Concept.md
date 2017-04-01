@@ -530,8 +530,10 @@ Fishing is my favorite sport. I often fish for hours without catching anything. 
 
 **Note how these sentences have been joined.**
 
-* He sat there. He did not say anthing. --> He sat there without saying anything.
-* He turned off the radio. He left the room. --> Before leaving the room, he turned off the radio.
+* He sat there. He did not say anthing. 
+	* He sat there without saying anything.
+* He turned off the radio. He left the room. 
+	* Before leaving the room, he turned off the radio.
 * He looked at this watch. He hurried to the station. 
 	*  After looking at his watch, he hurried to the station. 他看下表后，就匆忙赶到火车站
 	*  After having looked at his watch, he hurried to the station.
