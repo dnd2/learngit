@@ -74,7 +74,7 @@ or live properly without it.*
 
 ###Getting Started###
 
-###Unit One###
+### Unit One
 
 * Good morning, May. How are you?
 * Hi, Tom. I'm fine. And you? - And how are you?的简化
@@ -143,7 +143,7 @@ Note:
 			* I hope I can see you tomorrow.
 			* Me too. = I hope I can see you tomorrow, too. 
 
-###Unit Two###
+### Unit Two
 
 * Excuse me. Are you Ann?
 * No, i'm not.
@@ -193,3 +193,54 @@ Notes:
 			* I'm a boy.
 			* It's a book
 			* You're very kind.   
+
+### Unit Three - Name, Age and Nationality
+
+* Excuse me. What's your name?
+* I'm May.
+* Hi, May. Where are you from?
+* I'm from Hong Kong. What about you?
+* I'm from Japan.
+
+* May I have your name, please? 
+* My name is May.
+* How old are you?
+* I'm twenty - five.
+* Where are you from?
+* I'm from Hong Kong.
+* I beg your pardon?
+* I'm from Hong Kong.
+* Oh, I see.
+
+Note:
+
+	* 若主语之后只有动词，则要在主语前置另一种助动词do或does，且原有动词要变形
+		* Where he lives? --> Where does he live?
+		* 此处的do或does是帮助我们问问题的助动词
+		* Where they go to school? --> Where do they go to school? 
+		* What you like? --> What do you like?
+		* What I need? --> What do I need?
+		* When we go? --> When do we go?
+	* 疑问词 who, what, which疑问代名词可作主语
+		* Who will come?
+		* Which is better?  
+	* Where are you from? 
+		- Where do you come from?
+		- What's your nationality?
+		- 前2句可用于询问对方的省籍或国籍，最后一句仅限国籍
+			- Where are are you from? (Where do you come from?)
+			- I'm from New York./ I'm from America.
+			- I come from New York. / I'm come from America.
+	* I love music. Do you love music, too? --> I love music. What/How about you?
+	* He is from China. Where is she from? --> He is from China. How about her?  
+	* May I have your name, please? = MayＩknow your name, please? 用于正式场合
+	* What's your name? 用于长辈或上级对下属使用
+	* Come here. （语气为不客气）
+		* Come here, please. = Please come here. (更客气) 
+	* 若想做某事而欲征求对方同意时，可用：
+		* May I ..., please? 请问我以...吗？
+		* May I open the window?
+		* May I open the window, please?  
+	* How old are you? = What's your age?
+		* I'm twenty five = I'm twenty five years old. 
+		* 西方人交往时，除非对方主动透露自己年龄，否则不可随意询问对方年龄，会被认为不礼貌 
