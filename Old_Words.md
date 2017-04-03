@@ -72,7 +72,7 @@ or live properly without it.*
 * I'll be back later
 
 
-###Getting Started###
+### Getting Started
 
 ### Unit One
 
@@ -244,3 +244,41 @@ Note:
 	* How old are you? = What's your age?
 		* I'm twenty five = I'm twenty five years old. 
 		* 西方人交往时，除非对方主动透露自己年龄，否则不可随意询问对方年龄，会被认为不礼貌 
+
+### Unit Four - Introductions
+
+* Hi, Tom! How's it going?
+* Great! Who's your friend?
+* Oh! I'm sorry. This is Kay.
+* Pleased to meet you, Kay.
+* Nice to meet you.
+
+* Dad. Please meet my girlfriend, May.
+* Glad to meet you, May.
+* Glad to meet you, too, Mr. Lin.
+* And what is your family name, May?
+* It's Chen. But you may call me May.
+* May Chen. It's a nice name.
+* Thank you, sir.
+
+Note:
+
+	* family name 姓 (= last name = surname)
+	* 指示代词this, that, these, those,前2者是单数名词，后者是代替复数名词。通常离说话者较近的东西，应用this或these，而离得较远则用that或those
+		* What is that?
+		* That is a dog.
+		* What are those?
+		* Those are books. 
+	* And what is your family name, Mary?
+		* 此处句首的and是语气词，可译为"那么","呃",不过and通常作连接词用，译为"和"，"与" 
+	* 中文的"姓名"，在英文中的说法：
+		* 姓： family name = last name = surname
+		* 名： first name = given name
+	* May I have your name, please?
+	* My family name is Zhang, and my given name is Li - pei. But you can call me Peter.
+	   * = Zhang is my last name, and Li - pei is my first name. But you can call me Peter.
+	* 常用称呼
+		* Mr. Wang 
+		* Mrs.[misiz] Wang
+		* Miss Wang (多用在未婚女士的姓氏前)
+		* Ms.[miz] Wang (已婚或未婚女士姓氏前)  
