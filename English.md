@@ -480,3 +480,19 @@ n. 调情;风流韵事
 <font color="#c00">**arcade**</font> **A arcade is a covered passage where are shops or market stalls.** 室内(购物)商场；街机
 
 <font color="#c00">**mall**</font> **A mall is a very large enclosed shopping area.**
+
+
+**Supplementary Words and Expression**
+
+* progressive [prə'ɡresɪv] adj. 进步的；渐进的
+* monolithic [ˌmɒnəˈliθik] adj. 庞大的；重量级的
+* from the groud up 从头开始；从底层向上
+* incremental adj.【数】增量的 incrementally
+* adoptable [ə'dɒptəbəl] adj. 可采用的
+* at the core of ... 在...的中心/核心
+* enable [ɪn'eɪb(ə)l] v. 使能够
+* declarative [dɪ'klerətɪv] adj. 声明式；陈述的
+* underlying [.ʌndər'laɪɪŋ] adj.底层的；根本的；表面下的
+* manipulation [mə.nɪpjə'leɪʃ(ə)n] n. 操纵；控制
+* breeze v.轻松过关，轻易通过（比赛或测试）If you breeze through something such as a game or test, you cope with it easily.
+	* John seems to breeze effortlessly through his many commitments at work. 约翰似乎不费吹灰之力就完成了很多工作任务 
