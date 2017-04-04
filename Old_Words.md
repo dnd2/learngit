@@ -282,3 +282,55 @@ Note:
 		* Mrs.[misiz] Wang
 		* Miss Wang (多用在未婚女士的姓氏前)
 		* Ms.[miz] Wang (已婚或未婚女士姓氏前)  
+
+
+### Unit Five - Occupation
+
+* Excuse me, Mr. Li. This is Miss Lin.
+* How do you do, Miss Lin?
+* How do you do?
+* Miss Lin works for IBM.
+* What a coincidence! I work in a computer company, too.
+
+* Hi, Tom! I'd like you to meet my friend, Sal.
+* Pleased to meet you, Sal.
+* Same here.
+* So, what do you do, Sal?
+* I'm a secretary. What about you?
+* I'm a pilot.
+
+Note:
+
+* work for 为...工作
+	* He works for a travel agency(旅行社) 
+	* He works in a travel agency. (和上一句意思相同，均可译成"他任职某旅行社")
+	* Tina works for a trading company(贸易公司，商行).
+* work in 在...上班 
+* What a coincidence! 好巧呀！
+	* What a coincidence this/it is!
+	* What 引导感叹句 (What + 名词 + 主语 + be动词!) 好(个)...呀
+		* 将一个含有"主语 + be动词 + 名词"结构句子改为感叹句,实际中"主语 + be动词"通常省略
+			* This is a good moive. --> What a good moive this is!
+			* John is a filial son. --> What a filial son John is! 
+
+	* How 引导的感叹句 (How + 形容词 + 主语 + be动词) 多么...呀！
+		* How nice John is! --> How nice! 多棒呀!
+		* How diligent the children are! 这些孩子多用功呀
+* I'd like you to... (I would like you to...缩写) 是一种请求某人做某事，但语气客气的祈使句
+	* would表示请求,希望的一种助词
+	* like 想，希望(与would连用)
+	* I'd like + 人 + to + 原型动词 我想请某人从事...
+		* I'd like you to meet my sister.
+		* I'd like Peter to write a letter for me. 我想请Peter替我写一封信
+	* 表示"我想要..." I'd like to + 原型动词
+		* I'd like to sing a song for you.    
+	* I'd like you to meet my firend, Sal.
+	* I'd like you to call me a cab. 我想请你帮我叫部出租车
+	* I'd like you to give me a call. 我想请你打个电话给我 
+* Same here! 我也一样；彼此彼此
+* How do you do,Miss Lin? 两人第一次见面使用，表示礼貌的用语
+* How do you do与how are you? how are you doing?的区别
+	* 后者用于认识的朋友间，纯粹表示关怀对方身体的问候语，故可用I'm fine, thank you回答，而前者只能用how do you do?回复   
+* What do you do ? 同以下句子
+	* What's your occupation?
+	* What's your job?   
