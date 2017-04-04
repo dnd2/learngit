@@ -476,3 +476,7 @@ n. 调情;风流韵事
 <font color="#c00">**faithful**</font> **Someone who is faithful to a person, organization, idea, or activity remains firm in their belief in them or support for them.** adj. 忠实的;忠诚的
 
 * She had been faithful to her promise to guard this secret. 她一直信守承诺，保守着这个秘密
+
+<font color="#c00">**arcade**</font> **A arcade is a covered passage where are shops or market stalls.** 室内(购物)商场；街机
+
+<font color="#c00">**mall**</font> **A mall is a very large enclosed shopping area.**
