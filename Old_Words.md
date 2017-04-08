@@ -324,7 +324,7 @@ Note:
 		* I'd like Peter to write a letter for me. 我想请Peter替我写一封信
 	* 表示"我想要..." I'd like to + 原型动词
 		* I'd like to sing a song for you.    
-	* I'd like you to meet my firend, Sal.
+	* I'd like you to meet my friend, Sal.
 	* I'd like you to call me a cab. 我想请你帮我叫部出租车
 	* I'd like you to give me a call. 我想请你打个电话给我 
 * Same here! 我也一样；彼此彼此
@@ -334,3 +334,66 @@ Note:
 * What do you do ? 同以下句子
 	* What's your occupation?
 	* What's your job?   
+
+### Unit Six - Time
+
+* Excuse me, ma'am. What time is it, please?
+* It's two thirty.
+* Thanks. What time is the next train?
+* Two forty - five.
+* I see. Is it on time?
+* Yes, it is.
+
+* Hi, Tom. What time is it, please?
+* It's a quarter to seven.
+* Oh, no! I'm late.
+* It's OK.
+* What do you mean?
+* My watch is fast.
+
+Note:
+
+* What time is it, please?
+* What time is it by your watch, please?
+* 数字表示：
+	* 10,000 ten thousand
+	* 100,000 one hundred thousand
+	* 1,000,000 one million  
+* It's noon. = It's twelve noon.
+	* It's midnight = It's twelve midnight.现在是午夜12点
+* It's five past three. = It's three o five. 现在是3点5分 (此处o虽等同于"零"，但要念成字母o的音)
+* 3点01分至3点09分： three o one, three o two, three o nine.
+ * 1点02分: one o two/two past one
+ * 9点29分: nine twenty - nine/twenty - nine past nine 
+* It's one fifteen.  现在是1点15分
+	* It's fifteen past one.
+	* It's a quarter past one.     
+* It's two thirth. = It's half past two. 2点半 
+* 分针所指超过6，则可以表达为:
+	* It's twenty to five.
+	* It's four forty 
+* 正点:
+	* It's one o'clock.
+	* It's one. 
+* 表示中午12点/午夜12点: (不需要加o'clock)
+	* It's twelve noon.
+	* It's twelve midnight.  
+* 精确时间:
+	* It's five o'clock, twenty minutes, and eighteen seconds. 5点20分18秒,实际应简化念成: It's five twenty and eighteen seconds. 
+* 表示上午/下午的时间:
+	* It's five twenty a.m./A.M (ante meridiem = before midday,午前)
+	* It's five twenty p.m/P.M (post meridiem = after midday 午后)	
+* I see = I understand 我明白了
+	- Why can't he come?	
+	- He is busy.
+	- I see    
+* Is it on time? 
+	* The train is never late. It is always on time.  
+* What do you mean? (mean: 意味、指的是)
+	- John is a lazybones.
+	- What do you mean?
+	- He is a lazy guy.  
+* My watch is fast.
+	* My watch is slow.
+	- My watch is ten minutes fast. 我的表快了10分钟
+	- The alarm clock is two hours slow. 这闹钟慢了2小时  	 
