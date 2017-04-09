@@ -368,7 +368,7 @@ Note:
 * It's one fifteen.  现在是1点15分
 	* It's fifteen past one.
 	* It's a quarter past one.     
-* It's two thirth. = It's half past two. 2点半 
+* It's two thirty. = It's half past two. 2点半 
 * 分针所指超过6，则可以表达为:
 	* It's twenty to five.
 	* It's four forty 
@@ -396,4 +396,81 @@ Note:
 * My watch is fast.
 	* My watch is slow.
 	- My watch is ten minutes fast. 我的表快了10分钟
-	- The alarm clock is two hours slow. 这闹钟慢了2小时  	 
+	- The alarm clock is two hours slow. 这闹钟慢了2小时 
+
+### Unit Seven - Day and Date
+
+* What day is it today, Tom?
+* It's Sunday.
+* And is today June 6?
+* Yes, Why?
+* Because it's my birthday.
+* Happy birthday, May.
+* Thanks. 
+	 	 
+* What's today's date, Tom?
+* It's February 14.
+* What day is it today?
+* It's Friday
+* No, It's not. It's Valentine's Day.
+* Happy Valentine's Day, May.
+
+Note:
+
+	* What day is it today, Tom?
+		* What day is it tomorrow? 明天星期几
+		* What day is it the day after tomorrow? 后天星期几
+	* What day is it today? 可省略it,直接用today作主语
+		* What day is it today? = What day is today?
+		* What day is it tomorrow? = What day is tomorrow?
+		* What day is it the day after tomorrow? = What day is the day after tomorrow?   
+	* 回答以上问句的方式：
+		* What day is it today?
+		* It's Monday (today)./ Today is Monday. 
+	* What's the first day of the week?
+	* It's Sunday.
+	* 表示1998年6月6日 --> June 6, 1998  
+		* June sixth, nineteen ninety - eight (口语) 常用
+		* June the sixth, nineteen ninety - eight (较正式，美式用法)
+		* the sixth(day) of June, nineteen ninety -eight (正式，英式用法) 
+	* 基数词和序数词的区别，基数词表示数量，序数词表示次序
+		* He has five books.
+		* I like the fifth book. 
+	* 表示今天是几月几日
+		* What's today's date? = What's the date today?
+	* 所有格： 一种有限定作用的形容词，表示"属于...的"之意，之后要置名词。
+		* my book  我的书(属于我的书)
+		* John's father 约翰的爸爸(属于约翰的爸爸)
+		* the boy's toy 这个男孩的玩具(属于这个男孩的玩具)   
+		* today's date 今天的日期(属于今天的日期) 
+	* 所有格形态
+		* I --> my,  we --> our
+		* you(你) --> your(你的), you(你们) --> your (你们的) 
+		* he --> his, she --> her, it --> its, they --> their
+			- Where's your school?
+			- His father is an English teacher.
+			- They must do their work now.
+	*　人或动物名词所有格(由名词加s形成)，此类名词均指人或动物，分为专有名词及普通名词：
+		* 专有名词(某人专有的姓名): John，Mr. Wang　  
+		* 普通名词: the man, a woman, a girl, his son, the dog
+		* 以上名词加"s",即形成所有格
+			* John's father
+			* Mr. Wang's wife
+			* the man's car
+			* a girl's mother
+			* the girls' mother 那些女孩的妈妈
+			* the dog's tail   
+	* 普通名词为复数，其所有格形态为：
+		* This is a girls' school. = This is a school for girls. 这是一所女子学校
+	* 若专有名词本身有"s"，形成所有格时有2种变化
+		* Mr. Jones' car = Mr. Jones's car
+	* 若名词代表的是人或动物以外，所有无生命的东西或植物，则通常不使用以上所有格形态，而采用下列结构
+		* the A of B    B的A
+		* the color of the table
+		* the roof of the house
+		* the leaves of the tree      
+	* 表示时间或地方的名词却可2种所有格形式
+		* today's world = the world of the day
+		* yesterday's weather = the weather (of) yesterday
+		* the city's traffic = the traffic of the city
+		* Canada's climate = the climate of Canada
