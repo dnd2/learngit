@@ -545,7 +545,19 @@ Fishing is my favorite sport. I often fish for hours without catching anything. 
 	* I must apologize for not having let you know earlier.
 * He congratulated me. I won the competition. 
 	* He congratulated me on winning the competition. 在我赢得这次比赛之际，他向我祝贺
-	* He congratulated me on having won the competition.   
+	* He congratulated me on having won the competition.  
+* H	e went out of restaurant. He did not pay the bill.
+	* He went out of restaurant without paying the bill.
+* She bought a pair of boots. She did not get a pair of shoes.
+	* Instead of getting a pair of shoes, she bought a pair of boots.
+* She was afraid. She did not spend the night alone.
+	* She was afraid of not spending the night alone.
+* She heard the news. She fainted.
+	* After having heard the news, she fainted.
+* Think carefully. Answer my question.
+	* Before (having answer) answering my question, think carefully. 
+* I saw the plane coming towards me. I dashed for cover.
+	* On (having see) seeing the plane coming towards me, I dashed for cover.           
 
 ## Mad or not?
 
