@@ -104,7 +104,6 @@ Here are the best NES Classic games. —Austin Powell
 
 Galaga is a pretty faithful port of the arcade game original. This was one of the NES games that proved Nintendo's game console could bring the experience of mall video arcades into your living room, sans all the people crowding around you and calling “next game” when you died.
 
-* faithful [ˈfeɪθf(ə)l] adj. 忠诚的；守信的
 * arcade [ɑr'keɪd] n. 街机  (*arcade game original* 街机游戏原创)
 * NES （Nintendo Entertainment System）
 * prove v. 证明
@@ -496,3 +495,33 @@ n. 调情;风流韵事
 * manipulation [mə.nɪpjə'leɪʃ(ə)n] n. 操纵；控制
 * breeze v.轻松过关，轻易通过（比赛或测试）If you breeze through something such as a game or test, you cope with it easily.
 	* John seems to breeze effortlessly through his many commitments at work. 约翰似乎不费吹灰之力就完成了很多工作任务 
+* idiomatic [.ɪdiə'mætɪk] adj. 惯用的  
+* asynchronous [eɪ'sɪŋkrənəs] n. 异步
+* synchronous adj. 同步的 +ly adv.
+* emitter [ɪ'mɪtə]n. 发射器
+* periodical [.pɪri'ɑdɪk(ə)l] adj. 定期的  periodically adv.
+* emit v. 发出
+* named adj. 命名的，指定的
+* discard v. 丢弃，抛弃
+* nod off 打盹；打瞌睡 I always nod off during his lectures.
+* stepping stone 敲门砖; 小溪、小河中的）踏脚石 
+	* It was usually seen as a stepping stone on the path towards command of a capital ship. 这通常被视为一个通向舰队指挥官职位的跳板。
+* slumber ['slʌmbər] n. 睡眠  Slumber is sleep.
+	* He had fallen into exhausted slumber. 他累得睡着了
+* manifest  ['mænɪ.fest] v.表明; 显示  
+	* He manifest a pleasing personality on stage.  在台上他表现出惹人喜爱的个性
+* doom n. 厄运 Doom is a terrible future state of event which you cannot prevent. 
+* spring-clean v. 彻底打扫（房屋等）; 大扫除 
+	* It’s almost as easy these days to give your rooms a new coat of paint as it is to spring-clean them.  如今，重新粉刷一下房间就像彻底打扫一次房间一样简单
+* prune v. 精简；修剪(树木的枝叶)  
+	* When you prune a tree or bush, you cut off some of the branches so that it will grow better the next year.
+* cumulative ['kjumjələtɪv] adj. （在力量或重要性方面）聚积的；累积的 
+	* The benefits from eating fish are cumulative. 吃鱼的好处要长期才能显现
+* vibrant adj. (色彩）明亮的，鲜亮的    
+	* Horizon Blue, Corn Yellow and Pistachio Green are just three of the vibrant colors in this range. 天际蓝、玉米黄、淡草绿色只是这一色系内的3种亮色
+* trim v. 修剪 My friend trims my hair every eight weeks. 我朋友每 8 个星期为我修剪一次头发 
+* cosmologist [kɑz'mɑlədʒɪst] n. 宇宙论者
+* prestigious [pre'stidʒəs] adj. 有威望的；声誉高的 
+	* It's one of the best equipped and most prestigious schools in the country. 这是国内设备最先进、最有威望的学校之一
+* envisage [ɪn'vɪzɪdʒ] v. 设想；想象 
+	* He had never envisaged spending the whole of his working life in that particular job. 他从没有想象过自己整个职业生涯都要从事那个工作。
