@@ -474,3 +474,78 @@ Note:
 		* yesterday's weather = the weather (of) yesterday
 		* the city's traffic = the traffic of the city
 		* Canada's climate = the climate of Canada
+
+### Unit Eight - The Weather
+
+* Hi, May! I am calling from New York.
+* New York! What are you doing there?
+* I'm here on business.
+* How's the weather in New York?
+* It's terrible. It's raining right now.
+* What a shame!
+
+ There are four seasons in my hometown. It's cool in spring. It's sunny in summer. It's chilly in fall(autumn). In winter, it is very cold. Sometimes it even snows.
+
+Note:
+
+	* on business 
+		* My father will go to Hong Kong on business tomorrow.
+	* What a shame! 真可惜/遗憾 = What a pity!
+		- I can't go with you to the picnic.  
+		- What a shame!
+	* Present Continuous(现在进行时) 表示现在时刻，某都在正在进行的状态，相当于中文的"(现在)正在..."，结构为: 主语 + 现在式be动词 + 现在分词
+		* 现在式be动词即: is, am, are
+		* 现在分词由动词 + ing构成， 如: call　--> calling  
+		* 使用场景: 相当于中文"正在..."的概念时，即可使用
+			- Mary is sining in the room.
+			- Tom is dancing with Mary.
+			- I'm writing the letter
+			- They're doing the work. 
+	* It's raining right now = It's raining now.
+		* right now 及 now 意思相同，均为"现在"之意，但now前置right有腔调的功能，相当于"就在现在"  
+	 	- Where's Peter?
+	 	- He is studying in the library (right) now. 由于现在进行时本已表示"现在"的时刻，故句尾的now或right now亦可省略
+	* How's the weather in New York? 表示"某地的天气如何"有以下2种说法:
+		* How's the weather in + 地方?
+		* What's the wather like in + 地方?
+		* How's the weather in Tokyo today? = What's the weather like in Tokyo today?   
+	* "有"的用法区分，英文中表示"有"时，除了动词"have"，还有"there is/there are"
+		* 中文句首为"人或动物",应使用have
+			* I have a book.
+			* The monkey has a long tail.
+		* 中文句首是"场所"如: 车上、屋内、树林里或时间，需要使用there is/there are
+		* there is/there are + 单数名词/复数名词 + (in[在...内],on[在...之上], by[在...旁边], near[在...附近]) + 名词 
+			* There is a book on the desk.
+			* There are twelve months in a year.     
+		* there is/there are起首的句型中视为固定用语，译为"有"，而不能译成"那里是"，若表示"那里/这里有..."时，应使用:
+			*  there is + 单数名词 + there/here
+			*  there are + 复数名词 + there/here
+				* There is a man there. 那里有个人
+				* There are five apples here. 这里有5个苹果
+		* 常用修饰天气的词
+			* sunny
+			* rainy
+			* cloudy
+			* windy
+			* snowy
+			* foggy
+			* chilly
+			* cold
+			* cool
+			* hot
+			* warm
+				- What's the weather like today?
+				- It's cold and rainy
+	* 代名词it可用以表示"天气"，也可以替代任何单数名词、时间
+		* 代替单数的名词
+			* I have a dog. It is big and strong.
+		* 代替时间
+			* It's Monday today
+		* 代替天气
+			* It's cool today. = The weather is cool today.
+	* 比较2者不同
+		* It's rainy today. rainy表示"下雨的"，强调下雨的现象
+		* It's raining now. raining是现在分词,强调下雨的动作  、
+	* That's strange 真奇怪
+		* I like rainy days.
+		* That's strange. Why?              
