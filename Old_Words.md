@@ -549,3 +549,127 @@ Note:
 	* That's strange 真奇怪
 		* I like rainy days.
 		* That's strange. Why?              
+
+### Unit Nine - Telephone Conversation I
+
+* Hello! May I speak to Bob, please?
+* He's not in.
+* May I leave a message?
+* Sure. Go ahead.
+* This is Tom. Please ask him to call me back as soon as possible.
+* OK.Bye.
+
+* May I speak to Mr. Wang, please?
+* Who's calling, please?
+* This is Tom Lin.
+* Hold on, please. (A few seconds later) He's out at the moment.
+* When will he be back?
+* I don't know.
+* OK, I'll call back later. Bye.
+
+Note:
+
+	* speak to + 人 跟某人说话
+	* in (adverb) 在家；在办公室
+	* leave message 留话，带个信
+	* go ahead (电话用语) 请说  ahead adv. 在前(面)；在先
+	* ask + 人 + to + verb 请某人(做...)
+	* hold on (电话用语) 等着，别挂断 hold v. 保持(某种姿势)；拿；握
+	* a few + noun 一些...
+		* few(adj.)与不定冠词a并用形成a few时为肯定用法，表示"一些"，若前面不加冠词a时，则为否定的用法，表示"很少的，不多的"
+			* He has a few friends. 他有一些朋友
+			* He has few friends.   他没什么朋友 
+	* at the moment 此刻；现在
+	* call back 再回电话；再打电话来 
+	
+
+**Key Structure**
+
+	* 助动词(auxiliary verb): 一种帮助动词的词类，置于动词之前，以加强动词的语气 
+		* I [will] see you tomorrow.
+		* He [can] do it.
+		* You [may] go now.
+		* 中括号内的均为助动词置于动词之前 
+	* 助动词在句中位置
+		* 中英文在陈述句中，助动词都位于动词前，只有在问句中，助动词位置有差别
+			* [Will] you see me tomorrow?  你明天[会]见我么？ 
+			* [Can] you do it? 你[能]做这事么？ 
+			* [May] I go now? 我现在[可以]走了么?
+			* 英文在问句中，助动词置于句首后接主语，其次原形动词
+	* 常用助动词
+		* may 可以
+			* 若用于问句中，may多于主语I并用
+				* May I + 原形动词? 我可以...吗? (语气客气)
+				* May I + 原形动词，please? (更为客气)    
+				* 说话者想做某事，礼貌上征求对方同意时，使用此句型
+				  * May I open the window?
+				  * May I sit here, please?
+			* 若使用于陈述句中，may仍可译为"可以"，主语则不限I
+				* He,You,Mary... + may + 原形动词... (可以...长辈或阶级高者准许晚辈或下级做某件事，即可用此句型)  
+					* You may leave now.
+					* He may stay here.  
+		* can 能够；可以
+			* 表示"能够；会"，can用于强调一个人的能力
+				* subject + can + infinitive(原形动词)? ...能够...
+				* Can + subject + infinitive? ...能够...吗？
+					* I can do it.
+					* Can she sing?
+			* 表示"可以",can与may意思用法相同
+				* May/Can I open the window?
+		 * will 将要；将会
+		 	* 表示将来即将发生的事情
+		 		* subject + will + infinitive ...即将...
+		 		* Will + subject + infinitive? ...即将...吗？
+		 			* He will come today.
+		 			* Will it rain tomorrow?
+		 * must 必须
+		 	* 表示应当履行的义务，通常只用在陈述句中
+		 		* You must do it.
+		 		* Everyone must leave now
+		 * should 应该/当
+		 	* 表示应当履行的义务，语气比must弱一些
+		 		* You should do it
+		 		* We should study English.
+		 * shall 要
+		 	* 通常与主语I并用，
+		 	* ShallＩ...? 要不要我...? 此句型用来主动表示为对方做某件事  
+		 		* Shall I open the window? 要不要我把窗户打开呀？
+		 		* Shall I close the door for you? 要不要我替你把门关上？
+	* He's not in. ~= He is not here. 他不在
+	* 电话用语中表示"留话"
+		* May I leave a message? 我可以留话么
+		* May I take a message?  我可以帮你留话么 
+			- May I leave a message?
+			- Sure. Go ahead.
+			- Please tell him to meet me at five.
+			
+			- Is John there, please?
+			- Sorry. He is not in. May I take a message?
+			- Don't bother. I'll call back later.
+	* This is Tom.  
+		* 面对面相见时，表示"我是..." 一定要用I am...
+		* 若未面对面相见,表示"我是..."需要用This is...或It's...
+			* 打电话
+				- Who's this, please? = Who's calling, please?
+				- This is John = It's John.
+			* 在房间内听到门外有人敲门时
+				* Who's it, please?
+				* It's John.
+	* This is he. 我就是 (电话用语)
+		* Hello, Is John there, please?
+		* This is he. Who's calling please?
+	* as soon as possible 固定短语
+		* 第一个as是adverb，译为"一样地"
+		* soon是adverb，译成"不久，快"
+		* possible是adjective，译成"可能的"
+		* 翻译时先as possible, 后as soon 即:和可能一样地快，实际译为"尽快(地)"，此短语多使用在句尾
+			* You must come back as soon as possible
+			* Call me as soon as possible          	           
+	* 电话中，表示"请稍后"
+		* Hold on, please.
+		* Just a minute, please
+		* Just a moment, please
+		* Wait a minute, please
+		* Wait a moment, please    
+		* 以上除第一句仅限在电话用语中使用       
+	* He is out at the moment/now 
