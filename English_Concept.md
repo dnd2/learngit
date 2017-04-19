@@ -557,7 +557,28 @@ Fishing is my favorite sport. I often fish for hours without catching anything. 
 * Think carefully. Answer my question.
 	* Before (having answer) answering my question, think carefully. 
 * I saw the plane coming towards me. I dashed for cover.
-	* On (having see) seeing the plane coming towards me, I dashed for cover.           
+	* On (having see) seeing the plane coming towards me, I dashed for cover.      
+
+**W	ords often confused**
+
+* Interested and Interesting, Excited and exciting
+	* Fishing is not interesting. I am not really interested in fishing.
+	* The match was very exciting. The crowd got very excited. 比赛非常激动人心。观众非常激动 	
+* It's ans Its
+	* It's cold today. It's raining too.
+	* The cat drink its milk. 猫喝了它的牛奶
+	* This engine has lost its power. 这台发动机已失去动力
+* Realize and Undrestand (意识到|懂)
+	* I realized he was mad.
+	* He didn't realize that he had made a mistake.
+	* I don't understand English. 
+	
+* I realized he was not tell me the truth.
+* This poem is difficult. It's impossible for you to understand its meaning.
+* There was some exciting news on the radio.
+* He is not an interesting person.
+* He is an explorer. He leads an exciting life.
+* I am not interested in other people's affairs.        
 
 ## Mad or not?
 
