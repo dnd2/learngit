@@ -474,3 +474,202 @@ Note:
 		* yesterday's weather = the weather (of) yesterday
 		* the city's traffic = the traffic of the city
 		* Canada's climate = the climate of Canada
+
+### Unit Eight - The Weather
+
+* Hi, May! I am calling from New York.
+* New York! What are you doing there?
+* I'm here on business.
+* How's the weather in New York?
+* It's terrible. It's raining right now.
+* What a shame!
+
+ There are four seasons in my hometown. It's cool in spring. It's sunny in summer. It's chilly in fall(autumn). In winter, it is very cold. Sometimes it even snows.
+
+Note:
+
+	* on business 
+		* My father will go to Hong Kong on business tomorrow.
+	* What a shame! 真可惜/遗憾 = What a pity!
+		- I can't go with you to the picnic.  
+		- What a shame!
+	* Present Continuous(现在进行时) 表示现在时刻，某都在正在进行的状态，相当于中文的"(现在)正在..."，结构为: 主语 + 现在式be动词 + 现在分词
+		* 现在式be动词即: is, am, are
+		* 现在分词由动词 + ing构成， 如: call　--> calling  
+		* 使用场景: 相当于中文"正在..."的概念时，即可使用
+			- Mary is sining in the room.
+			- Tom is dancing with Mary.
+			- I'm writing the letter
+			- They're doing the work. 
+	* It's raining right now = It's raining now.
+		* right now 及 now 意思相同，均为"现在"之意，但now前置right有腔调的功能，相当于"就在现在"  
+	 	- Where's Peter?
+	 	- He is studying in the library (right) now. 由于现在进行时本已表示"现在"的时刻，故句尾的now或right now亦可省略
+	* How's the weather in New York? 表示"某地的天气如何"有以下2种说法:
+		* How's the weather in + 地方?
+		* What's the wather like in + 地方?
+		* How's the weather in Tokyo today? = What's the weather like in Tokyo today?   
+	* "有"的用法区分，英文中表示"有"时，除了动词"have"，还有"there is/there are"
+		* 中文句首为"人或动物",应使用have
+			* I have a book.
+			* The monkey has a long tail.
+		* 中文句首是"场所"如: 车上、屋内、树林里或时间，需要使用there is/there are
+		* there is/there are + 单数名词/复数名词 + (in[在...内],on[在...之上], by[在...旁边], near[在...附近]) + 名词 
+			* There is a book on the desk.
+			* There are twelve months in a year.     
+		* there is/there are起首的句型中视为固定用语，译为"有"，而不能译成"那里是"，若表示"那里/这里有..."时，应使用:
+			*  there is + 单数名词 + there/here
+			*  there are + 复数名词 + there/here
+				* There is a man there. 那里有个人
+				* There are five apples here. 这里有5个苹果
+		* 常用修饰天气的词
+			* sunny
+			* rainy
+			* cloudy
+			* windy
+			* snowy
+			* foggy
+			* chilly
+			* cold
+			* cool
+			* hot
+			* warm
+				- What's the weather like today?
+				- It's cold and rainy
+	* 代名词it可用以表示"天气"，也可以替代任何单数名词、时间
+		* 代替单数的名词
+			* I have a dog. It is big and strong.
+		* 代替时间
+			* It's Monday today
+		* 代替天气
+			* It's cool today. = The weather is cool today.
+	* 比较2者不同
+		* It's rainy today. rainy表示"下雨的"，强调下雨的现象
+		* It's raining now. raining是现在分词,强调下雨的动作  、
+	* That's strange 真奇怪
+		* I like rainy days.
+		* That's strange. Why?              
+
+### Unit Nine - Telephone Conversation I
+
+* Hello! May I speak to Bob, please?
+* He's not in.
+* May I leave a message?
+* Sure. Go ahead.
+* This is Tom. Please ask him to call me back as soon as possible.
+* OK.Bye.
+
+* May I speak to Mr. Wang, please?
+* Who's calling, please?
+* This is Tom Lin.
+* Hold on, please. (A few seconds later) He's out at the moment.
+* When will he be back?
+* I don't know.
+* OK, I'll call back later. Bye.
+
+Note:
+
+	* speak to + 人 跟某人说话
+	* in (adverb) 在家；在办公室
+	* leave message 留话，带个信
+	* go ahead (电话用语) 请说  ahead adv. 在前(面)；在先
+	* ask + 人 + to + verb 请某人(做...)
+	* hold on (电话用语) 等着，别挂断 hold v. 保持(某种姿势)；拿；握
+	* a few + noun 一些...
+		* few(adj.)与不定冠词a并用形成a few时为肯定用法，表示"一些"，若前面不加冠词a时，则为否定的用法，表示"很少的，不多的"
+			* He has a few friends. 他有一些朋友
+			* He has few friends.   他没什么朋友 
+	* at the moment 此刻；现在
+	* call back 再回电话；再打电话来 
+	
+
+**Key Structure**
+
+	* 助动词(auxiliary verb): 一种帮助动词的词类，置于动词之前，以加强动词的语气 
+		* I [will] see you tomorrow.
+		* He [can] do it.
+		* You [may] go now.
+		* 中括号内的均为助动词置于动词之前 
+	* 助动词在句中位置
+		* 中英文在陈述句中，助动词都位于动词前，只有在问句中，助动词位置有差别
+			* [Will] you see me tomorrow?  你明天[会]见我么？ 
+			* [Can] you do it? 你[能]做这事么？ 
+			* [May] I go now? 我现在[可以]走了么?
+			* 英文在问句中，助动词置于句首后接主语，其次原形动词
+	* 常用助动词
+		* may 可以
+			* 若用于问句中，may多于主语I并用
+				* May I + 原形动词? 我可以...吗? (语气客气)
+				* May I + 原形动词，please? (更为客气)    
+				* 说话者想做某事，礼貌上征求对方同意时，使用此句型
+				  * May I open the window?
+				  * May I sit here, please?
+			* 若使用于陈述句中，may仍可译为"可以"，主语则不限I
+				* He,You,Mary... + may + 原形动词... (可以...长辈或阶级高者准许晚辈或下级做某件事，即可用此句型)  
+					* You may leave now.
+					* He may stay here.  
+		* can 能够；可以
+			* 表示"能够；会"，can用于强调一个人的能力
+				* subject + can + infinitive(原形动词)? ...能够...
+				* Can + subject + infinitive? ...能够...吗？
+					* I can do it.
+					* Can she sing?
+			* 表示"可以",can与may意思用法相同
+				* May/Can I open the window?
+		 * will 将要；将会
+		 	* 表示将来即将发生的事情
+		 		* subject + will + infinitive ...即将...
+		 		* Will + subject + infinitive? ...即将...吗？
+		 			* He will come today.
+		 			* Will it rain tomorrow?
+		 * must 必须
+		 	* 表示应当履行的义务，通常只用在陈述句中
+		 		* You must do it.
+		 		* Everyone must leave now
+		 * should 应该/当
+		 	* 表示应当履行的义务，语气比must弱一些
+		 		* You should do it
+		 		* We should study English.
+		 * shall 要
+		 	* 通常与主语I并用，
+		 	* ShallＩ...? 要不要我...? 此句型用来主动表示为对方做某件事  
+		 		* Shall I open the window? 要不要我把窗户打开呀？
+		 		* Shall I close the door for you? 要不要我替你把门关上？
+	* He's not in. ~= He is not here. 他不在
+	* 电话用语中表示"留话"
+		* May I leave a message? 我可以留话么
+		* May I take a message?  我可以帮你留话么 
+			- May I leave a message?
+			- Sure. Go ahead.
+			- Please tell him to meet me at five.
+			
+			- Is John there, please?
+			- Sorry. He is not in. May I take a message?
+			- Don't bother. I'll call back later.
+	* This is Tom.  
+		* 面对面相见时，表示"我是..." 一定要用I am...
+		* 若未面对面相见,表示"我是..."需要用This is...或It's...
+			* 打电话
+				- Who's this, please? = Who's calling, please?
+				- This is John = It's John.
+			* 在房间内听到门外有人敲门时
+				* Who's it, please?
+				* It's John.
+	* This is he. 我就是 (电话用语)
+		* Hello, Is John there, please?
+		* This is he. Who's calling please?
+	* as soon as possible 固定短语
+		* 第一个as是adverb，译为"一样地"
+		* soon是adverb，译成"不久，快"
+		* possible是adjective，译成"可能的"
+		* 翻译时先as possible, 后as soon 即:和可能一样地快，实际译为"尽快(地)"，此短语多使用在句尾
+			* You must come back as soon as possible
+			* Call me as soon as possible          	           
+	* 电话中，表示"请稍后"
+		* Hold on, please.
+		* Just a minute, please
+		* Just a moment, please
+		* Wait a minute, please
+		* Wait a moment, please    
+		* 以上除第一句仅限在电话用语中使用       
+	* He is out at the moment/now 

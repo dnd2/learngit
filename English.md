@@ -498,6 +498,7 @@ n. 调情;风流韵事
 * idiomatic [.ɪdiə'mætɪk] adj. 惯用的  
 * asynchronous [eɪ'sɪŋkrənəs] n. 异步
 * synchronous adj. 同步的 +ly adv.
+* architecture ['ɑrkɪ.tektʃər] n. 架构,建筑风格
 * emitter [ɪ'mɪtə]n. 发射器
 * periodical [.pɪri'ɑdɪk(ə)l] adj. 定期的  periodically adv.
 * emit v. 发出
@@ -525,3 +526,5 @@ n. 调情;风流韵事
 	* It's one of the best equipped and most prestigious schools in the country. 这是国内设备最先进、最有威望的学校之一
 * envisage [ɪn'vɪzɪdʒ] v. 设想；想象 
 	* He had never envisaged spending the whole of his working life in that particular job. 他从没有想象过自己整个职业生涯都要从事那个工作。
+
+*  

@@ -425,6 +425,14 @@ for (let v of bar()){
 // "y"
 ~~~
 
+### 事件
+
+* 所有能触发事件的对象都是EventEmitter类的实例
+* 这些对象有on方法作为注册事件的方法，允许将1个或多个函数附加到会被对象触发的命名事件上
+* 事件的名称通常是驼峰字符串，也可是任何有效的javascript属性名
+* 当EventEmitter对象触发一个事件时，附加在特定事件上的函数会被同步的调用，被调用的监听器的返回值会被忽略或丢弃
+* EventListener会按照监听器注册的顺序同步调用所有监听器，如果要使用异步，可使用setImmediate()或process.nextTick方法切换
+
 ###expressjs
 
 - express.js
@@ -449,4 +457,5 @@ function createApplication() {
 ~~~
 
 - applicaton.js
+
 
