@@ -673,3 +673,202 @@ Note:
 		* Wait a moment, please    
 		* 以上除第一句仅限在电话用语中使用       
 	* He is out at the moment/now 
+
+### Unit Ten - Telephone Conversation II
+
+* Hello, Dr. Chen's clinic. May I help you?
+* Yes, please. I'd like to make an appointment to see Dr. Chen.
+* What's your name, please?
+* My name is Micky Chen.
+* Is 4 o'clock in the afternoon OK?
+* That's fine. Thank you.
+
+* I would like to make a long - distance call to California, please.
+* Person to person or station to station?
+* Station to station.
+* What's the number, please.
+* Area code 415,789 - 0277.
+* One moment, please.
+* Thank you.
+
+Note:
+
+	* long - distance 长途 
+		* long - distance call 长途电话
+	* person to person (电话用语) 叫人的
+	* area code 区域码
+	* Hello, Dr. Chen's clinic = Hello, This is Dr. Chen's clinic.  (表示我/我们这里是某公司或场所时表达的句型，此处this is可省略)
+		* Hello, this is Johnson Health Center. May I help you? = Hello, Johnson Health Center. May I help you?
+	* 进入商店或百货公司时，店员的礼貌用语:
+		* May I help you?
+		* Can I help you?
+		* Can I be of any service to you?
+		* What can I do for you?
+		* Is there anything I can do for you?   
+			- May I help you?
+			- Yes, I'm looking for a shirt for my husband.
+			- This way, please. (请跟我来) 
+
+			- What can I do for you?
+			- I'm just looking around. (我只是随便瞧瞧)
+			- Take your time, sir. (先生，您慢慢儿来/别急)
+	* I would like to ... = I'd like to ...
+		* I would like to + verb  我想要...
+			* I'd like to go to the movies tonight.
+		* I like to + verb  我喜欢...
+			* I like to go to the moives.
+			* I like to sing.
+		* I want to ... 我要... (I'd like to语气较为委婉客气，I want to 语气较直接)   
+			* I'd like to see you tonight. 我今晚想跟你见面 
+			* I want　to see you tonight.   我今晚要跟你见面
+	* Is OK/fine/all right (with you)?  ...(对你)可以吗？
+		- Can you come today?
+		- Sorry, I can't I'm very busy.
+		- Then, is tomorrow fine with you? 那么，你明天可以吗？
+		- Yes, it is.  
+	* make a call 打一通电话
+		* make a telephone call
+		* make a phone call  
+	* Person to person or station to station?
+		* = Is it person to person call or station to station call?
+		* 通过总机打长途，若指定要某人电话则称做: a person - to - person call  
+		* 不指定某人电话，即任何人接电话都可以，这时称做: a station - to - station call
+	* area code 指对方所住省份或城市代码
+	* country code 区号，国家代号
+	* Is 4 o'clock in the afternoon OK/fine/all right? 下午4点可以么？
+		- Is 3 o'clock this afternoon all right with you?
+		- Not really, I would like to come at 2 o'clock.
+		- OK. That's fine. 
+	* I would like to make/place a long - distance call to California, please
+
+### Unit Eleven - Telephone Conversation III
+
+* Hello, room service.
+* This is room 369. I'd like to order some food, please
+* I'm sorry. but the kitchen's closed.
+* What do you have?
+* We have only sandwiches and drinks.
+* That'll be fine. I'm starving.
+
+* Hello, front desk. Can I help you?
+* Can you give me a morning call, please?
+* Sure. What time do you want to get up?
+* Please call me at 6:00 am.
+* No problem.
+* Thank you.
+
+Note:
+
+	* room service (饭店内的)客房服务(中心)
+	* front desk (饭店中的)前台
+	* morning call 特指早上叫人起床的电话
+		* wake up - call 叫人起床的电话，但不限于什么时间 
+		* Can you give me a morning call at 5 tomorrow, please?
+		* Can you give me a wake - up call at 4 pm, please?
+	* Hello, room service.
+		* 原句: Hello, this is the room service department/section. 
+		- Hello, room service.
+		- This is room 301. I'd like to order some drinks, please.
+		- Sure. What would you like?
+	* I'd like to order some food, please.
+		* I'll order a pizza for dinner tonight.
+		* 餐厅中，服务人员要求客人点菜时，一般使用:
+			* Are you ready to order, sir? 先生，您是否准备好点菜了呢？
+			* May I take your order now?  我可不可以接受您的点菜呢？ 
+				* I'm not ready to order yet. Please give me a minute. 我还没准备好，稍等下。 
+	* order 表示"命令" order + sb. + to + verb 命令某人做某事
+		* You don't have the right to order me to do things for you. 
+	* I'm sorry, but...
+		* I'm sorry, but you are wrong.
+		* I'm sorry, but I must leave now.
+		* Excuse me, but where is the post office?
+		* Excuse me, but do you have the time? 请问现在几点？  
+	* That'll be fine.
+		- Do you have any coffee?
+		- No. But we have tea.
+		- That'll be fine.  那也可以 
+	* I'm starving. = I'm very hungry.
+		* I'm starving. Do you have anthing to eat? 
+		* I'm starving to death.  
+	* in front of...
+		* There's a department store in front of the train station.  
+	* Please call me at 6:00 am. 请早上6点打电话叫我
+		* = Please give me a call at 6:00 am.
+		* = Please ring me (up) at 6:00 am.
+		* = Please give me a ring at 6:00 am.  
+		* 表示"打电话给某人"
+			* call + sb. (美式用法)
+			* give + sb. + a call(美式用法) 
+			* ring + sb. (up)(英式用法)
+			* give + sb. + a ring (英式用法)	 
+
+### Grammar
+
+	* 五种单句的基本句型
+		* S + V (主语 + 动词)
+		* S + V + O (主语 + 动词 + 宾语)
+		* S + V + C (主语 + 动词 + 补语)
+		* S + V + O + O (主语 + 动词 + 宾语 + 宾语) 
+		* S + V + O + C (主语 + 动词 + 宾语 + 补语)
+		
+		* 在所有的英语动词中，只有解释为"是"的动词是空的，完全没有意义。没有叙述能力，只能扮演引导叙述部分的角色
+			* John Smith was a soldier 动词was并未指出John Smith的任何事情。叙述主要内容放在后面的a soldier上。was只是起着连接作用。
+			* John Smith was courageous. 此句体现更为突出
+			* The soup is too hot.
+			* 英语中is是动词不能丢掉，但却缺乏叙述能力。只能把主语和后面构成叙述的部分连接起来，叫做"连缀动词(Linking Verb)",跟在这种动词后的部分，因替代了动词扮演的叙述角色，补足句子使它获得完整的意思，称之为"补语(Complement)"
+	* 需要补语的动词 (凡接补语的动词都可解释为各种各样的"是")
+		* look 看起来是 - That dress looks pretty.
+		* seem 似乎是   - The dog seems firendly.
+		* appear 显得是 - His demands appear reasonable. (他的要求显得很合理)
+		* sound 听起来是 - His trip sounds exciting. (他的旅行听起来很刺激)
+		* feel 摸起来是 - I feel sick
+		* taste 尝起来是 - The drug tastes bitter (药很苦)
+		* turn 转变为  
+		* prove 证实为 - The story proved false. (故事正是是捏造的)
+		* become 成为  - He became a teacher.
+		* make 做为    - A nurse makes a good wife. (娶护士做太太真不错)
+
+		* 以上句子全部换位be动词，意思和句型没有太大变化。 这就是S + V + C 的句型。凡动词解释为各种各样的"是"的句子都属于此类型。
+	
+	* 宾语补语的句型(S + V + O + C) - 用补语告诉读者宾语是什么，中间暗示有一个"是"的关系存在。
+		* I find the dress pretty. 
+			* the dress是宾语，pretty是补语，中间虽没有"是"，但带有这种暗示的存在 
+		* The meat made the dog friendly. 肉让狗变得很友善
+		* They consider his demands reasonable. 他们认为他的要是合理的
+		* He found the trip exciting.
+		* The food made me sick. 这种食物使我想吐
+		* I don't find the drug bitter. 我并不觉得药很苦
+		* I consider the story false.  我认为故事是捏造的
+		* His college training made him a teacher.
+		* Most people consider a nurse a good wife.
+	
+		* 验证S + V + O + C句型最简单的方法，把宾语和补语拿出来，中间加be动词，看是否能改成S + V + C
+	
+	* 补语的词类
+		* 一般为名词和形容词，因为主语和宾语都是名词，所以补语也可以是名词，经由"是"连接表达同等关系。  
+	
+	* 没有补语的be动词
+		* 如果be动词后无补语，表示它并不是做连缀动词用，此时，be动词并不解释为"是"，而需要解释为"存在"，用在最单纯的"S + V"句型中。  
+			* 笛卡尔说的"我思故为我在"，I think,therefore I am. 在翻译时I am不能翻成"我是"，此处因为"我存在"
+
+	* S + V + O + O
+		* John's father(S) gave(V) him(O) a dog(O).  
+		* gave做"给"的动作，首先要有个东西，然后要有接受者(即him)，这2个宾语，一个是给的对象，一个是给的东西，2个都是名词，但并不相同。需要区分S + V + O + C句型，宾语和补语也可以是名词，但宾语和补语间不存有"等于是"的关系。
+			* John's father(S) called(V) him(O) a dog(C). 
+	
+	* 分析句型属于哪一种
+		* The magician moved his fingers quickly.
+		* The police found the letter missing.
+		* He ordered himself a steak and a bottle of red wine. 
+		* Don't you like dancing?
+		* The president has gone abroad on a visit.
+		* That sounds like a good idea.
+		* The box feels heavy.
+		* He told his guests a dirty joke at the party.
+		* The people elected Bill Clinton President.
+		* The company has gone bankrupt.
+		* Why don't you answer me?
+		* I consider you a member of the family.
+		* You'll look better with these designer glasses on.
+		* I can see better without these reading glasses.
+		* Do you call me a liar?

@@ -443,6 +443,7 @@ for (let v of bar()){
  */
 function createApplication() {
   var app = function(req, res, next) {
+	// 将res, res逐级分发到express应用每个路由中，以便执行各个路由相匹配的操作
     app.handle(req, res, next);
   };
   // 将EventEmitter和application.js下的app类属性扩展到app上
@@ -451,11 +452,19 @@ function createApplication() {
   // 将request,response和app对象添加到app属性上	
   app.request = { __proto__: req, app: app };
   app.response = { __proto__: res, app: app };
-  app.init();  // 调用application.js 56行的init方法
+  app.init();  // 调用application.js 56行的init方法,用于初始化express应用设置
   return app;
 }
 ~~~
 
 - applicaton.js
 
+编码规范
 
+	* 回调惯例
+		* 模块应优先公开一个错误优先(error-first)的回调接口 
+		* 确保在回调中检查错误信息
+		* 将回调函数返回
+		* 仅在同步代码中使用try-catch
+
+[Original](https://juejin.im/entry/5670bd9c60b294bccfdd4ec5)
