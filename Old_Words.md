@@ -800,7 +800,43 @@ Note:
 			* call + sb. (美式用法)
 			* give + sb. + a call(美式用法) 
 			* ring + sb. (up)(英式用法)
-			* give + sb. + a ring (英式用法)	 
+			* give + sb. + a ring (英式用法)
+
+### Unit Twelve - Buying things
+
+* How much does that pen cost?
+* It costs ten dollars.
+* That's very expensive. Do you have anything cheaper?
+* Sure. This pen is only tow dollars.
+* Good. I'll take it.
+
+* How much is this book?
+* It's seven dollars.
+* Do you have change for a hundred?
+* No problem.
+* OK. Here's the money.
+* Thank you. Here's the book and your change.
+
+Note:
+
+	*	How much does that pen cost?
+		* = How much is that pen?
+	* 表示某物品要(花)多少钱
+		* How much (money) does/do + 单数物品/复数物品 cost?
+		* How much (money) is/are + 单数物品/复数物品?
+			* How much (money) does that shirt cost?
+			* How much (money) is that shirt?
+			* How much money do you have?
+			* 此处much为代名词，意为"大量"	
+			* how much money时much为adjective修饰不可数名词
+	* 不可数名词 - 指单词本身不能数，如money,water,paper没有复数形式,修饰一般用much这样的词 
+		* 一些词需要表达数量需要加上"单位"
+			* a piece of paper
+			* two piece of paper
+			* a glass of water
+	*  可数名词 - 修饰时不能用much，要用many
+		* how many books do you have?
+		* how many students are there in the room.       			 
 
 ### Grammar
 

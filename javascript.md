@@ -1382,4 +1382,10 @@ For Example: 实现非H5的拖拽，当触发mousemove事件，在对调中获�
 * 每次 resize/scroll 触发统计事件
 * 文本输入的验证（连续输入文字后发送 AJAX 请求进行验证，验证一次就好） 
 
+常用函数学习：
+
+1. Object.defineProperty  This method defines a new property directly on an object, or modifies an exisiting property on an object, and returns the object.
+
+`Object.defineProperty(obj, prop, descriptor)`
+
 
