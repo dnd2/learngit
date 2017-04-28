@@ -1242,7 +1242,7 @@ void有如下作用：
 
 1、prototype和__proto__的区别
 
-![Difference between prototype and __proto__](http://ac-Myg6wSTV.clouddn.com/2e7817d676e605e54e62.png)
+![Difference between prototype and __proto__](https://raw.githubusercontent.com/dnd2/learngit/master/images/prototype_figure.png)
 
 ~~~javascript
 var a = {};
@@ -1256,7 +1256,7 @@ console.log(b.__proto__);  //function() {}
 
 2、__proto__属性指向谁
 
-![__proto__](http://ac-Myg6wSTV.clouddn.com/414693e5821245adeb86.png)
+![__proto__](https://raw.githubusercontent.com/dnd2/learngit/master/images/prototype_figure_2.png)
 
 ~~~javascript
 /*1、字面量方式*/
