@@ -836,9 +836,224 @@ Note:
 			* a glass of water
 	*  可数名词 - 修饰时不能用much，要用many
 		* how many books do you have?
-		* how many students are there in the room.       			 
+		* how many students are there in the room. 
+	* cost 表示"价值(多少钱)"使用时不可以"人"作主语,通常以物品，东西做主语表示"某物品/东西价值若干"
+		* The dress costs twenty dollars.
+		* 也可以在cost之后接"人"，再加金钱表示"花某人多少钱"
+			* This hat costs her thirty dollars.    
+	* That's very expensive.
+		* expensive多用于修饰物品,而不可用来修饰价钱(price)
+			* The price of the car is expensive X
+			* We can say: The car is expensive.  
+		* 价钱昂贵或便宜也可用high或low表示
+			* The price of the house is high. (此处不能用expensive,只能说the house is expensive)
+			* Eggs are selling at a low price.  
+	* Do you have anything cheaper/special? 你们有没有比较便宜的/特别的?
+		* anything表示"任何事物",与something(某事、某物)及nothing(无事、无物)均为代名词，可用于代替事情或物品
+			* anything用于否定句或疑问句中
+			* something用于肯定句中
+			* nothing因具否定意味，所以不可与否定词(not,no等)并用，以避免形成双重否定   
+			* 注意: 形容词修饰名词一般置于名词前，但形容词修饰这3个词需置于其后
+				* Do you have anthing important to tell me?
+				* I don't have anything important to tell you.
+				* I have something good for you.
+				* The poor man has nothing to eat. = The poor man doesn't have anything to eat.
+				* There's nothing nice to eat in that restaurant. = There isn't anything nice to eat in that restaurant.
+	* 比较级
+		* 一般而言，原级是双音节或三音节以上的形容词，比较级是在其前加more，如:
+			* expensive -> more expensive
+			* important -> more important
+			* beautiful -> more beautiful  
+		* 原级是单音节的形容词比较级是在字尾加er
+			* cheap -> cheaper
+			* tall -> taller
+		* 原级是以辅音结尾的单音节adjective变成比较级，需先重复辅音字母,再加er
+			* hot  -> hotter
+			* fat  -> fatter 
+	* I'll take it 商店中常用会话，表示要买下某物，相当于 I'll buy it.
+		- This book is very good. You should buy it.
+		- All right. I'll take/buy it.  
+	* Do you have change for a hundred?
+		* 此处change是不可数名词
+		* How much change do you need?
+		* How much change do you have? = How much do you have in change? 你有多少零钱？
+		* I have change for ten dollars. = I have ten dollars in change. 我有10块钱零钱
+		* How much cash do you have? = How much do you have in cash? 你有多少现金
+		* I have cash for one hundred. = I have one hundred in cash. 我有100块现金 	         
+	* OK. Here's the money.  ...给你或...在这儿
+		* 我们要拿东西给某人时，常用:
+			* Here is/Here's + singular noun(单数名词)
+			* Here are/Here're + plural noun(复数名词)  
+		- That will be fifty dollars, please.
+		- Here's a hundred.
+		- Here is the money.
+		- Here's the books  
+		* 更常用的一句是: Here you are.或 Here you go 表示你要的东西在这里、拿去吧或者这儿之意
+			- Can I have a look at that shirt?
+			- Here you are. = Here you go.  			 
+
+### Unit Thirteen - At the restaurant
+
+* Do you have a table for two?
+* Yes. In the smoking or non - smoking section?
+* Non - smoking. please.
+* OK. This way, please.
+* May I have the menu?
+* Sure. Here you are.
+
+* May I take your order now?
+* Yes, please. I'll have the steak.
+* How would you like it?
+* Well - done, please.
+* Would you like some dessert?
+* No, thank you.
+* How about something to drink?
+* Hot coffee, plase.
+
+Note: 
+
+	* smoking section 吸烟区
+	* non - smoking section 禁烟区
+	* well　- done adj. (食物)煮熟的，完全熟透
+	* Do you have a table for two?
+		* = Do you have a table for two people? 你们有2个人坐的餐桌么
+		* a table for + 数字: 共...(人)坐的餐桌，餐厅用餐使用的句型(一般在较高级餐厅用餐时，不可直接到餐桌需要在餐厅门口等候服务人员带领) 
+	* 用电话预约餐桌使用句型:
+		- Hello, Lai -lai Restaurant. May I help you？
+		- Yes. I'd like to book a table for seven. = Yes. I'd like to reserve a table for seven.
+	* Yes. In the smoking or non-smoking section.
+		* 由Yes. Do you want a table in the smoking section or in the none-smoking section? 简化而来 
+			- Can I have a window seat, please?
+			- Yes. In the smoking or non-smoking section?
+	* This way, please.
+		* 原句: Follow me (in) this way, please.  
+		* in this way在使用时常省略in，说成this way  
+	* May I take your order now? 我可以接受您的点菜了吗
+		* 餐厅服务员要求客人点菜常用句型:
+			* Are you ready to order now, sir/ma'am? 您现在准备点菜了吗
+			* Would you like to order now sir/ma'am? 您现在想要点菜了吗
+				- May I take your order now?
+				- Yes, please. I'll have the chicken rice, please.
+				- Are you ready to order now, sir/ma'am?
+				- Can I have another minute, please? 请再等我一下 
+	* How would you like it/your steak?
+		* 想询问某人食物如何调理时使用的句型:
+			* How would you like your + 食物名称? 您的食物要如何调理？
+				- How would you like your steak? 你的牛排要几分熟
+				- I'd like it well - done/medium/medium rare/rare.  我要全熟/六七分熟/四五分熟/三分熟
+				- How would you like your coffee? 您的咖啡要怎么泡
+				- Black, please. 麻烦什么都不加(纯咖啡)
+				- Just sugar, please 只加糖
+				- Cream and no sugar, please 加奶精不要糖
+				- With sugar and cream, please 糖和奶精都要
+	* No, thank you.
+		* 当然询问你需不需要什么东西或任何帮忙、服务时，表示"要"与"不要"通常使用下列说法:
+			* 表示"(需)要"  Yes, please 好，麻烦你
+			* 表示"不(需)要" No, thank you/thanks. 不用了，谢谢    
+				- Would you want me to carry your bags?
+				- Yes, please
+				- No, thanks.     
+	* How about something to drink? = Would you like something to drink? 想喝点什么?
+		* How about + noun? 要不要来点...呢?
+			= Would you like + noun? How about + gerund(动名词)? 要不要...呢/...怎么样呢？
+			= Would you like to + verb?
+			- How about a cup of tea? = Would you like a cup of tea?
+			- How about going to a movie tonight? = Would you like to go to a movie tonight? 今晚要不要去看电影？
+	* something, anything, nothing之后除可接adjective外，还可接不定词短语(to + 原形动词),此时的不定词短语也作adjective用，修饰前面的something,anything或nothing。
+		* I am hungry. I need something to eat. (to eat 修饰something)
+		* Don't you have anything to do? 你难道没什么事好做么？ (to do修饰anything)
+		* I have nothing to tell you. 我没什么事要告诉你的 (to telll you 修饰nothing)
+		* I need something to read.
+	* May I have the menu? 
+	* May I have the check/bill? 可以给我帐单么       
+	* Don't you have anything to wear?
+	* I have nothing to say to you.
+	* Dialog
+		- Would you like anything to drink?
+		- I'll have a cup of hot tea, please.
+		- And would you like any dessert?
+		- Yes. But can I have a look at the menu again, please? 
+
+### Unit Fourteen - At the clothing store
+
+* Can I have a look at that jacket, please?
+* What size do you wear?
+* Extra large.
+* Here you are.
+* Can I try it on?
+* Sure. Go ahead.
+
+* May I help you?
+* Yes, please. I'm looking for a necktie.
+* Any special brand?
+* No. Just something simple and not too expensive.
+* How about this one?
+* That's fine. How much is it?
+* It's only US $10 and it's on sale.
+* OK. I'll take it. Thanks.
+
+Note:
+
+	* clothing 是不可数名词，英文中，上衣与裤子是分开的，此时表上衣和裤子的名词才是可数名词。
+		* 上衣:
+			* a jacket, two jackets
+			* a coat, two coats
+			* a shirt, two shirts
+			* a blouse, two blouses
+		* 裤子: 因裤子都是2条裤腿，所以都用复数形式
+			* a pair of trousers, two pairs of trousers
+			* a pair of pants, two pairs of pants
+			* a pair of slacks, two pairs of slacks 两条休闲裤    
+		* 以上不论上衣或裤子均成为clothing，因此不会说a clothing，但可以说some clothing, a lot of clothing, some和a lot of 都可修饰不可数名词
+			* She has a lot of clothing in her closet.
+	* clothes 衣服 不可数名词(始终为复数)
+		* 除了some clothes，a lot of clothes外，还可用many clothes，many可接复数名词，但不能说many clothing，因为clothing并无复数，但可用much来修饰   
+			* I want to buy some clothes.
+			* He has many clothes.  
+			* He doesn't has much clothing.
+	* cloth 不可数名词
+		*  a piece of cloth 一块布
+		*  some cloth 一些布
+		*  a lot of cloth 很多布
+		*  I always wipe the floor with an old piece of cloth.  
+	* Can I have a look at that jacket, please?
+		* Can I have/take a look at + noun?   我可不可以看一看...呢
+			* Can I have a look at your new watch?
+			* Sure. Go ahead.
+	* What size do you wear? = What size jacket do you wear?
+		* 询问他人穿几号的衣服或裤子等，需用size而不是number
+			* What size shoes do you wear?
+			* What size socks do you wear?  
+	* wear 穿，戴  凡身上穿的或戴的都可用此词
+		* Tom wears a red belt to work
+		* He is wearing sunglasses because it's a sunny day.  
+	* extra large  特大号
+		* 衣服、裤子等号码可分为 small (小号)，medium (中号)，large (大号)，extra large，通常用大写的"S"，"M"，"L"，"XL"表示。
+			* What size shirt do you wear?
+			* Large.   
+	* Can I try it on?
+		* try + 代名词(名词) + on/try on + noun  试穿/戴... * Before I buy this shirt, can I try it on?
+		* Can I try this cap on? = Can I try on this cap?
+	* go ahead  请便 (通常用在同意让某人(自行)做某事的情况中)
+		* Can I use your phone?
+		* Sure. Go ahead. 
+	* Any special brand? = Do you want any special brand?
+		* brand-new 表示"全新的"，"未用过的"
+		* I like that brand of coffee most. 我最喜欢那个牌子的咖啡
+		* Be careful with that car, it's brand-new. 
+	* It's only US $10 and it's on sale.
+		* on sale 减价售出，打折
+		* for sale 单纯指"出售"之意
+			* Shoes are on sale in that department store. 那家百货公司的鞋子正在特卖
+			* I'm sorry, but this painting is not for sale.很抱歉，这幅画是非卖品  
+	* I'm looking for a necktie.
+	* I'm looking for a wedding ring. 我正在物色一枚婚戒    * Any special brand/kind/type? 要任何特别的品牌/种类/样式吗？
+	* Just something simple/plain. 只要样式简单就可以了 
+	* I wear size ten shoes. 我穿十码的鞋
 
 ### Grammar
+
+**1. 基本句型**
 
 	* 五种单句的基本句型
 		* S + V (主语 + 动词)
@@ -908,3 +1123,36 @@ Note:
 		* You'll look better with these designer glasses on.
 		* I can see better without these reading glasses.
 		* Do you call me a liar?
+
+**2. 名词词组与冠词**
+
+	* 在名词短语开头，有些符合来配合标识该名词的范围，在语言学上成为"限定词(Determiners)"。它与词尾单复数符合相互呼应共同determine名词的范围，冠词为其中一种
+		*  a new book 
+		*  many good students
+		*  his beautiful wife
+		*  the best answer
+		*  those sweet roses
+		*  以上名词短语由3部分组成，(a,many,his等)即限定词，指出名词的范围。中间的adjective做修饰语，是可有可无的元素。
+			* a new book 去掉new -> a book,仍然正确
+			* the best answer 去掉名词 -> the best 同样正确
+				* 如: Of these answers, this one is best. * 从中可以知道the best就是the best asnwer
+			* those sweet roses 去掉形容词和名词 -> those，仍然正确  
+	* 什么时候不需要使用限定词 
+		* 冠词a(an)可视为one弱化结果。 a(an)代表one的意思只是语气较弱。a(an)与one同样交代它后面所接名词是"一个"的概念。如果后面的名词不适合以一个来表示，就不用加a(an)a(an)
+			* Unmarried men are a rare species these days.
+			* 名词短语Unmarried men只有形容词和名词2个部分，没有限定词，因为men已表明是复数
+			* a new book book是单数形态，因此需要加限定词配合标示它   
+		* 不能使用限定词a(an)表示的名词类型:
+			* 复数名词
+			* 抽象名词(honesty，bribery)没有具体形态不能表示一个之意。
+			* 物质名词(water, food)，虽具体东西，但形态不固定，不能用"一个"表示
+				* Honesty is not necessarily the best policy.
+				* Fresh water is a precious resource in Saudi Arabia. 
+	* 专有名词与补语位置 (人名、地名都为专有名词,因为代表的对象为一个)
+		* 一个名词不能加-s也不能加a(an)，专有名词就是如此。 
+		* 补语和主语(或宾语)之间有同等关系，如果主语(或宾语)是专有名词，那么它的补语既然和它等同，则也会被当做专有名词来使用，条件是补语位置的名词需具有"唯一"性质。
+			* Mr. Elson was president of the high school.
+			* Some say he was a better president than Mr. Robert. 
+				* 此处的从句补语president前加了一个a，这是因为上下文中和Mr. Robert做比较，这么一来就有前后两任校长，可以加-s,不是专有名词了。 
+			* Mr. Elson is also a memeber of the Council of the city. 埃尔森先生也是该城市政会委员
+				* a memeber of the Council做补语，高中校长同一时间只有1个人，但市政委员有很多人，a member需要交代是"一名"，而非专有名词。 
