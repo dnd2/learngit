@@ -1388,4 +1388,30 @@ For Example: 实现非H5的拖拽，当触发mousemove事件，在对调中获�
 
 `Object.defineProperty(obj, prop, descriptor)`
 
+~~~javascript
+/**
+ * Below is an example of how to use Object.create() 
+ * to achieve classical inheritance. This is for single  
+ * inheritance, which is all that Javascript support.
+ */
+function Shape() {
+   this.x = 0;
+   this.y = 0;
+}
+Shape.prototype.move = function(x, y) {
+    this.x = x;
+    this.y = y;
+    console.info('Shape moved.');
+}
+function Rectangle() {
+    Shape.call(this);
+}
+Rectangle.prototype = Object.create(Shape.prototype);
+Rectangle.prototype.constructor = Rectangle;
+var rect = new Rectangle();
+console.log('Is rect an instance of Rectangle', rect instanceof Rectangle);
+console.log('Is rect an instance of Sahpre', rect instanceof Shape);
+       rect.move(1, 1);
+~~~
+
 
