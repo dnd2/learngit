@@ -1132,6 +1132,69 @@ Note:
 			* Mary lives around the corner.
 			* There's a bank just around the corner.
 	* It's in/on/around the corner over there. 就在那边的角落里/转角处/转角附近   
+
+
+### Unit Sixteen - At the Shoe Store
+
+* Do you have these shoes in size 8?
+* Sure. Here you are.
+* I'm sorry, but they are too small. Do you have a bigger pair?
+* Here. Try these on.
+* Wow! These are just right.
+
+* Excuse me. Can you show me some high-heeled shoes?
+* Sure. This way, please.
+* These are too high. Do you have lower ones?
+* How about these?
+* They don't fit. Do you have smaller ones?
+* I'm afraid we don't have your size.
+* What a shame!
+
+Note:
+
+	* Do you have these shoes in size 8?
+		* Do you have + noun + in size + 尺寸? 你们有没有...(尺寸)的...(东西)呢
+			- Do you have these socks in size nine?
+			- Sure. This way, please. 
+	* Do you have a bigger pair?
+		* pair, 一双、一对，凡成双或成对的物品，通常用这个字
+			* a pair of trousers/pants
+			* a pair of jeans
+			* a pair of shorts 一条短裤
+			* a pair of glasses
+			* a pair of scissors   
+	* Wow! These are just right!
+		* wow感叹词，表示惊奇、羡慕等时发出的声音，除wow外还可用gee或gee-whiz代替
+			* wow通常用于好的方面
+			* gee/gee-whiz用于好、坏两方面皆可 
+				- My dad will buy me a new bike.
+				- Wow! you're lucky
+				- My feet hurt.
+				- Gee! That's too bad. 哇!太糟了
+	* Can you show me some high-heeled shoes? = Can you show me some high-heels?
+		* show + sb. + sth.  拿/将某物给某人看
+			* Can you show me those earrings?
+			* I'll show you my new watch tomorrow. 
+		* show + sb. + somewhere  指某人往某地的路
+			* Please show me the way to the train station.
+	* These are too high. Do you have lower ones?
+		* ones为代名词，用来替代前面的shoes
+			* 原句： These(= These high-heeled shoes) are too high. Do you have lower high-heeled shoes? (high-heeled shoes重复了一次，就修饰而言应避免，故用ones代替，one用来替代前面提过的单数名词)
+				* Those mangos are delicious, especially the red mangos (bad)
+				* Those mangos are delicious, especially the red ones. (The better)   
+				 
+	* They don't fit. = They don't fit me.
+		* fit表示"适合、合身"，可单独使用，也可在后面加 		
+			* Do these socks fit?
+			* This jacket fits you very well.
+	* I'm afraid we don't have your size. = I'm afraid that we don't have your size.
+		* I'm afraid + (that) + 主语 + 动词 ... 恐怕...(表示给某人不愉快讯息或消息时使用的婉转措辞)
+			* I'm afraid(that) I have some bad news for you.
+			* I'm afraid(that) we don't have what you want.   
+	* They don't fit./don't fit me./ aren't my size.
+	* I'm afraid ....
+		* I'm afraid we don't have your size/I can't help you. 	       
+
 ### Grammar
 
 **1. 基本句型**
