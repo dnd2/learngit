@@ -1414,4 +1414,13 @@ console.log('Is rect an instance of Sahpre', rect instanceof Shape);
        rect.move(1, 1);
 ~~~
 
+**深拷贝和浅拷贝区别**
+
+* 针对对象如Object，Array等
+* 浅拷贝只是拷贝属性所指向对象的引用
+* 深拷贝会将属性指向的对象完全复制一份成为一个独立的实例
+* 如果拷贝的对象层级比较深则可能存在性能问题
+
+[JavaScript 的深复制](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
+
 
