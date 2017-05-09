@@ -1051,6 +1051,150 @@ Note:
 	* Just something simple/plain. 只要样式简单就可以了 
 	* I wear size ten shoes. 我穿十码的鞋
 
+### Unit Fifteen - At the Department Store
+
+* Can you help me, please?
+* Sure. What can I do for you?
+* I'm looking for a gift for my son's birthday.
+* How about this video game?
+* That's a good idea. Can you gift - wrap it, please?
+* Sure. No problem.
+
+* Excuse me, ma'am. Do you have a blue dress my size?
+* I think so. Let me take your measurements. OK. How about this dress over here?
+* Do you have a fitting room?
+* It's in the corner over there.
+* Thank you.
+* You're welcome.
+
+Note:
+
+	* git-wrap v. （尤指商店里）将…包装成礼品
+	* Please wrap the baby in a blanket. 请把小宝宝包在毯子里
+	* Can you help me, please?
+		* = Can you do me a favor, please?
+		* = Can you give me a hand, please?
+		* help + sb. 帮某人忙，帮助某人
+			* = do + sb. + a favor
+			* = give + sb. + a hand   
+		* Will you do me a favor? 你愿意帮我一个忙么
+			* I need to move this table over there, Can you give me a hand?
+		* give + sb. + a hand与give + sb. + a big hand区别
+			* give + sb. + a hand表示"帮助某人"
+			* give + sb. + a big hand 表示"给某人热烈鼓掌" 
+				* Let me give you a hand with the box. 我帮你拿下那个箱子
+				* Thanks a lot.
+				* Let's give the speaker a big hand!  
+		* I'm looking for a gift for my son's birthday.
+			* 表示"买/送东西给某人做为生日礼物"
+				* I'm going to buy a necklace for my wife's birthday. = I'm going to buy a necklace as my wife's birthday gift.    
+				* I'll give my friend a book for her birthday. = I'll give my friend a book as her birthday gift. 我会送一本书给我朋友做为生日礼物
+	* That's a good idea.
+		* 在回应别人提议、想法时，除上句外的类似用法:
+			* That sounds like a good idea. 口语中常将that省略 -> Sounds like a good idea.
+			- Let's take a walk in the park.
+			- That's a good idea.
+			- That sounds like a good idea.
+			- Sounds like a good idea.   
+
+	* Excuse me, ma'am. Do you have a blue dress my size?
+		* ma'am 是对女士尊称，为madam的简写，男士尊称通常用sir
+			* Excuse me, ma'am. Can you tell me the way to the train station? 
+		* 句中my size前省略了in，但实际使用in不写出来。 in my size 意为"合乎我的尺寸"
+			* We have a shirt your size.
+			* I'm sorry. We don't have any shoes your size. 很抱歉，我们没有合乎你尺寸的鞋子 
+	* I think　so.
+		* so是用来代替前面句中所提的概念，表示"我认为如此，我也这么想"之意。
+		* 本句I think so是由下句简化
+			* I think (that) we have blue dress (in) your size.
+			* Is this umbrella yours?
+			* I think so = I think that this umbrella is mine. (我想是的)   
+		* 表示不同意对方说法、想法或对某事不以为然，可用I don't think so表示
+			* Are we going to be late?
+			* I don't think so. = I don't think so we're going to be late.
+	* Let me take your measurements.
+		* measurement 是指所量得的长度、高度、大小等，此处用复数是因为身材所量部位不止一处(如：腰围、肩宽、手长等)，因此为复数。
+			* What's your waist measurement?
+			* If you want to have a tailer-made suit, the tailor must take your measurements. 如果你想订做西装，裁缝师必须量你的尺寸。
+	* How about this dress over here?
+		* here,there 均为副词，表示"(在)这里"、(在)那里，通常置于句尾
+			* John is standing here.
+			* I see a man there. 我看到那里有个人 
+		* 口语中，常here和there前加over以加强语气，表示"就在这里、就在那里"的距离感     
+			* The book you are looking for is over here. 你要找的书在这里
+			* Jack is next to the door over there. 杰克就在那里的门边
+	* It's in the corner over there.
+		* in the corner 在角落里(指在空间的角落)
+		* on the corner 在转角处(指针空间外的转角处)
+		* around the corner 在转角附近 (指转角附近)
+			* Helen is sitting in the corner of the room.
+			* There's a grocery store on the corner. 在转角处有家杂货店
+			* Mary lives around the corner.
+			* There's a bank just around the corner.
+	* It's in/on/around the corner over there. 就在那边的角落里/转角处/转角附近   
+
+
+### Unit Sixteen - At the Shoe Store
+
+* Do you have these shoes in size 8?
+* Sure. Here you are.
+* I'm sorry, but they are too small. Do you have a bigger pair?
+* Here. Try these on.
+* Wow! These are just right.
+
+* Excuse me. Can you show me some high-heeled shoes?
+* Sure. This way, please.
+* These are too high. Do you have lower ones?
+* How about these?
+* They don't fit. Do you have smaller ones?
+* I'm afraid we don't have your size.
+* What a shame!
+
+Note:
+
+	* Do you have these shoes in size 8?
+		* Do you have + noun + in size + 尺寸? 你们有没有...(尺寸)的...(东西)呢
+			- Do you have these socks in size nine?
+			- Sure. This way, please. 
+	* Do you have a bigger pair?
+		* pair, 一双、一对，凡成双或成对的物品，通常用这个字
+			* a pair of trousers/pants
+			* a pair of jeans
+			* a pair of shorts 一条短裤
+			* a pair of glasses
+			* a pair of scissors   
+	* Wow! These are just right!
+		* wow感叹词，表示惊奇、羡慕等时发出的声音，除wow外还可用gee或gee-whiz代替
+			* wow通常用于好的方面
+			* gee/gee-whiz用于好、坏两方面皆可 
+				- My dad will buy me a new bike.
+				- Wow! you're lucky
+				- My feet hurt.
+				- Gee! That's too bad. 哇!太糟了
+	* Can you show me some high-heeled shoes? = Can you show me some high-heels?
+		* show + sb. + sth.  拿/将某物给某人看
+			* Can you show me those earrings?
+			* I'll show you my new watch tomorrow. 
+		* show + sb. + somewhere  指某人往某地的路
+			* Please show me the way to the train station.
+	* These are too high. Do you have lower ones?
+		* ones为代名词，用来替代前面的shoes
+			* 原句： These(= These high-heeled shoes) are too high. Do you have lower high-heeled shoes? (high-heeled shoes重复了一次，就修饰而言应避免，故用ones代替，one用来替代前面提过的单数名词)
+				* Those mangos are delicious, especially the red mangos (bad)
+				* Those mangos are delicious, especially the red ones. (The better)   
+				 
+	* They don't fit. = They don't fit me.
+		* fit表示"适合、合身"，可单独使用，也可在后面加 		
+			* Do these socks fit?
+			* This jacket fits you very well.
+	* I'm afraid we don't have your size. = I'm afraid that we don't have your size.
+		* I'm afraid + (that) + 主语 + 动词 ... 恐怕...(表示给某人不愉快讯息或消息时使用的婉转措辞)
+			* I'm afraid(that) I have some bad news for you.
+			* I'm afraid(that) we don't have what you want.   
+	* They don't fit./don't fit me./ aren't my size.
+	* I'm afraid ....
+		* I'm afraid we don't have your size/I can't help you. 	       
+
 ### Grammar
 
 **1. 基本句型**
