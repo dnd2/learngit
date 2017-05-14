@@ -1193,7 +1193,195 @@ Note:
 			* I'm afraid(that) we don't have what you want.   
 	* They don't fit./don't fit me./ aren't my size.
 	* I'm afraid ....
-		* I'm afraid we don't have your size/I can't help you. 	       
+		* I'm afraid we don't have your size/I can't help you. 
+		 
+
+### Unit Seventeen - At the Bookstore
+
+* Excuse me, Do you have A Tale of Two cities?
+* Who is the author?
+* Charles Dickens
+* Sorry, We're sold out right now. Please come back next week.
+* Ok. Thanks!
+
+* Do you have good English - Chinese dictionary?
+* Sure. How about this one?
+* Is this the latest edition?
+* Yes. We have both the paperback and the hardcover.
+* What's the difference?
+* The hardcover is more expensive.
+* Oh! I see. I'll have the paperback, please.
+
+Note:
+
+	* Do you have A Tale of Two Cities?
+		* tale: 故事，是比较文绉绉的用法，一般口语用story
+		* John likes to listen to stories.
+		* A Tale of Two Cities, 书名一般在印刷或打字时用斜体表示，如果书写时，则在该书名下加下划线
+	* Sorry. We're sold out right now.
+		* = I'm sorry. We're sold out right now.
+		* = I'm sorry, butt we're sold out right now.
+		* I'm sorry, but I can't go to your party tonight.  (I'm sorry, but可替换为I'm sorry/Sorry) 
+	* We're sold out right now.
+		- Do you have this book here?
+		- I'm sorry, but we're sold out.
+		* 表示已将某物卖完
+			* We're sold out of + something
+				* We're sold out of shoes in your size.
+			* We have sold out of + something  
+				* We have sold out of milk. 	       
+	* Please come back next week.
+		* 表示下(一)个...(时间)，通常用next + 时间名词
+			* next month
+			* next year
+			* next Sunday
+				* John will graduate from college next month.
+				* They will get married next year.  
+				* I'll see you next Monday.
+	* Do you have a good English - Chinese dictionary?
+		* consult the dictionary 查词典
+		* look up the word in the dictionary 在词典里查单词   * I will consult the dictionary for the meaning of that word. 我会在词典里查那个单词的意思
+		  * I must look up that difficult word in the dictionary. 我必须在词典里查那个难理解的单词
+	* Is this the latest edition?
+		* I am more beautiful than she.
+		* She is the most beautiful girl in our class. most beautiful的最高级要与定冠词the并用 
+		* 比较级用法
+			* 双音节或三音节以上的adjective:
+				* 比较级: more + 原级
+				* 最高级: most + 原级   
+				* expensive/more expensive/most expensive
+			* 原级是单音节的adjective
+				* 比较级: 原级 + er
+				* 最高级: 原级 + est
+				* small/smaller/smallest
+			* 原级是以辅音结尾的单音节adjective
+				* 比较级: 重复该辅音字母 + - er
+				* 最高级: 重复该辅音字母 + - est 
+				* hot/hotter/hottest
+			* 原级以-e结尾的单音节adjective，或以- le结尾的双音节adjective
+				* 比较级: 原级 + -r
+				* 最高级: 原级 + -st
+				* wise/wiser/wisest  
+			* 形容词结尾为"辅音 + -y"时
+				* 比较级: 将y改成i + er
+				* 最高级: 将y改成i + est
+				* pretty/prettier/prettiest
+			* 以上为规则变化，但也有不规则变化
+				* good/better/best
+				* bad/worse/worst  
+			* 形容词最高级需注意使用时要与定冠词the并用
+				* John is a best student in his class.   
+	* We have both the paperback and the hardcover.
+		* = We have both the paperback dictionary and the hardcover dictionary.       
+	* What's the difference?
+		* = What's the difference between the paperback and the hardcover?
+		* the difference between A and B A与B之间的差别/不同
+			* The difference between Jack and Jeff is not big. 杰克和杰夫间的差异并不大
+	* Who is the author/writer? 作者是谁
+	* Please come back next week/Friday/month.
+	* Do you have a good English-Chinese/Chinese-English/English-English dictionary?    
+	* We have both the paperback and the hardcover.
+	* Both he and I are students.
+	* Dialog
+		- I need a good Chinese-English d....
+		- Is this o... Ok?
+		- Is this t... best one you have?
+		- No. But it is the cheapest.
+		- Do you have a b... one?
+		- Yes. But it is more e...
+		- Oh, I see, Is this the l... edition?
+		- Yes.
+		- OK. I'll t... it. 
+
+### Unit Eighteen - Taking a taxi
+
+* Where to, ma'am?
+* The train station, please.
+* (arrives) Here we are, ma'am.
+* How much do I owe you?
+* It's 135 Yuan on the meter.
+* Here's 150 Yuan, keep the change.
+* Thanks!
+
+* To the airport, please.
+* The international or domestic one?
+* The international airport.
+* Got it!
+* Could you speed up, please? I don't want to miss my flight.
+* What time's your flight?
+* 10:45 pm.
+* Don't worry! I'll get you there in time.
+
+Note:
+
+	* 表示搭乘某种交通工具通常使用take表示，此时在该交通工具前加不定冠词a/an或定冠词the
+		* take the/a taxi
+		* take the/a bus
+		* take the/a train
+		* take the/an airplane
+		* take the/a ship/boat
+			* Let's take a taxi to the restaurant.
+			* Jimmy takes the bus to school every day.
+			* We must take a boat to get to that island. 我们必须乘船才能到那座岛上
+	* 介词by + 交通工具也可表示搭乘交通工具，此时交通工具前不能放定冠词或不定冠词
+		* by taxi
+		* by bus
+		* by train
+		* by ship/boat
+		* by airplane/plane
+		* by bicycle   
+			* 以上使用take的例句可替换为
+			* Let's go to the restaurant by taxi.
+			* Jimmy goes to school by bus every day.
+			* We must get to that island by boat. 
+	* 表示"步行"，使用"on foot"
+		* The only way to get to the village is on foot. 到那个村庄去的唯一途径是步行	  
+	* Where to, ma'am? = Where are you going, ma'am?
+		* 司机询问乘客到哪儿的口语用法
+	* Here we are, ma'am. 习惯用语
+		* Here you are/go. 在这儿/拿去吧 = There you go
+		* 给任何人所要东西时，均可使用"here you are"，"here you go"，"there you go"
+		* There you are. 在那里/原来你在这儿 = There it is
+		* 到处找某人而找不到最后终于找到时，也可使用there you are 
+			* There you are! Where have you been? I've been looking all over for you.原来你在这儿！你跑哪儿去了？我一直到处找找你
+		* There you go again. 你又来(这一套)了/你老毛病又犯了  
+	* How much do I owe you? 我要给你多少钱
+		* owe + sb. + money  欠某人...（钱)
+			- I remember you still owe me US$10.
+			- Really?   
+	* Keep the change. 
+		- That'll be 90 Yuan, please. 麻烦总共要90元
+		- Here's a hundred. Keep the change. 这儿是100元。不用找了 	
+	* To the airport, please. 麻烦到机场
+		* = Take me to the airport, please. 
+		* 表示"(用车)载某人到某地" take + sb. + to + somewhere
+			* Helen takes her daughter to school every morning.
+	* The international or domestic one? 
+		* = Do you want me to take your to the international airport or the domestic airport?
+		* These apples are good, but I prefer the green ones.  
+	* Got it! = I've got it! 了解/知道/明白了! 也就等于I see 或I understand
+		* Just follow this map and you won't get lost. Got it?
+		* Git it!   
+	* Could you speed up, please?
+		* speed up 加速，反义词: slow down
+			* I'm in a hurry. Could you speed up, please?
+			* No problem.
+			* Slow down! You're driving too fast.
+	* I don't want to miss my flight.
+		* miss 表示"错过，未赶上"
+			* If you miss the bus, you'll be late.
+		* miss 还可表示"想念"
+			* Jim misses his mom's cooking very much. Jim想念他妈妈煮的菜
+	* Don't worry! 
+		* Don't worry! Everything will be OK. 比担心，一切都会没事的
+		* I hope so.  我希望如此
+	* I'll get you there in time.
+		* = I'll get you to the airport in time.
+		* in time 及时，除可单独使用外，常常在后加"for + noun"或"to + 原形动词"表示"及时赶上(做)..."
+			* Am I in time for dinner?
+			* You're just in time to help us paint the wall.
+			* I'm sure we will finish the project on time. 
+		* on time 准时         
 
 ### Grammar
 
