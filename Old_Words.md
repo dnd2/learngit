@@ -1383,6 +1383,191 @@ Note:
 			* I'm sure we will finish the project on time. 
 		* on time 准时         
 
+### Unit Nineteen - Booking a room
+
+* Excuse me. Do you have single room?
+* Sorry. We're fully booked. The only room avaiable at the moment is a twin room.
+* OK. I'll take it.
+* May I have your name, please?
+* I'm John Li.
+* How many days do you want to stay?
+* Five days.
+
+* Excuse me. My name is Jack Wu. I'd like to book a room.
+* Single or double?
+* What are the rates?
+* It's US $100 for a single and US $150 for a double.
+* I'll take a single for 3 days.
+* OK. Just come to the front desk at the lobby.
+* OK. I'll arrive tomorrow.
+
+Note:
+
+	* twin
+		* twin room (有两张单人床的)双人房
+		* double room (有一张双人床或两张单人床的)双人房
+		* The twins look exactly the same. 那对双胞胎看起来一模一样
+	* "预订"旅馆房间、飞机票、餐厅座位或门票等时可用book表示
+		* I am going to book a suite at the hotel in Tokyo.
+		* I will book two seats for tonight's concert.
+	* 表示"预订"、"预约"、"订票"等除book外，还可用reserve，make a reservation等表示
+		* I am going to reserve/make a reservation for a suite at the hotel in Tokyo.   
+		* 三种用法中，以book多用于口语，也最常用
+		* I'd like to book a room.
+		* I'd like to book two tickets to Taipei.
+		* I'd like to book a table for twelve.
+	* Do you have a single room?
+		* single room 单人房
+		* twin room
+		* double room
+		* suite (备有卧房、客厅及浴室的) 套房
+		* deluxe suite 豪华套房
+		* presidential suite 总统套房  
+	* Sorry. We're fully booked.
+		* fully booked. 常见用法，表示旅馆房间、座位、餐桌、门票等已全被预订完了，fully作副词表示"完完全全地" booked作形容词表示"预订的"  
+			* I'd like to book a table for four tonight.
+			* Sorry. We're fully booked.
+	* The only room available at the moment is a twin room.
+		* 一般形容词修饰名词多置于该名词前
+			* Mary is a pretty girl.
+		* 少数形容词修饰名词会置于其后，如此句room available  
+			* The only doctor available in the hospital does not have much experience. 这家医院唯一有空的一位医生没什么经验 
+	* How many days do you want to stay? = How long do you want to stay?
+		* 中文说"住"旅馆，但英文不用live而用stay(停留、待)，因为使用live值长期居住某个地方，把那个地方当成家一样，而住在旅馆是短期行为，所以要用stay
+			* I have lived in Taipei for three years. 我已经在台北住了三年了
+			* I'll stay in that hotel when I am in New York. 我去纽约时会住在那家旅馆   
+			* This weekend I'm going to stay(over) at a friend's house. 这周末我要待在朋友家过夜
+			* I live with a friend in a small apartment. 我和朋友住在一间小公寓里
+	* single or double?
+		* = Do you want to book a single or a double room?
+	* What are the rates?
+		* = What are the charges?
+		* rate及charge指"价格"、"费用"，使用时一般用复数rates，charges, 住旅馆或请人当家教时都可使用
+			* What are your rates for tutoring at a student's home? 你到学生家去当家教费用怎么算
+		* rate 还可作"速度/率"
+			* at the rate of ...  以...的速度/率
+			* The chicken lays eggs at the rate of one a day. 那只鸡一天下一个蛋  lay[lei] 下/生(蛋)     
+	* It's US $100 for a single and US $150 for a double.
+		* = It's US $100 for a single room and US $150 for a double room.
+		* US $100 念法为"one hundred US dollars"
+		* US $150 -> one hundred fifty US dollars 
+		* 关于"金钱"的写法，除了把货币名置于数字前面外，还可把数字些在前面，这时代表钱的符号$就不用写了
+			* US $150 = 150 US(dollars)
+	* See you then  到那时候见
+		* = See you at that time.
+		* = See you when you arrive.   
+		* 一般表示"再见"说法有: bye、 goodbye、See you、See you later，但有约定时间再见面时，这时就可以在See you后加上then形成See you then用法，表示"到时候见"
+			- Don't forget our date tomorrow night at 8 pm. 别忘了我们明晚八点多约会
+			- I won't. See you then. 我不会忘，到时见
+			- I'll arrive at about ten tonight. 
+			- See you then.
+	* Dialog
+		- Do you have any seats available for tonight's concert?
+		- Yes. But you must book early.
+		- I'd like to make a room now.
+		- Okay. Do you want to know the rates for the different types of tickets?
+		- Just reserve the cheapest kind for me.
+		- Sure. How many do you want?
+		- Just two. How much are they?
+		- They'll cost you 1,000 US dollars  
+
+### Unit Twenty - Checkint into a hotel
+
+* Good morning. I'm Mr. Jack Wu. I have a reservation for a suite.
+* Oh, yes, Mr. Wu. Please fill out this form.
+* Here you are.
+* Will you pay by cash or charge?
+* Do you take traveler's checks?
+* Certainly.
+
+* Excuse me. I'd like to check in, please. My name is Jack Wu.
+* One moment, please. Oh, yes. You have a reservation for a single room, right?
+* That's right.
+* May I have a look at your passport?
+* Here you go.
+* OK. You're booked in Room 609. Do you have any luggage?
+* Yes. These two suitcases.
+* No problem. The bellboy will take them and show you to your room.
+
+Note:
+
+	* Here you go = Here you are. 在这儿/拿去吧
+	* be booked in Room + No.  预订...(号码)的房间
+		* I booked in Room 215. What about you?
+	* show + sb. + to + somewhere 将某人带到某地
+		* I'll show you to your table. 我会带你们到餐桌去   
+	* check into a/the hotel, 指针旅馆或饭店登记办理住宿的手续，也等于"check in(at a/the hotel)"的用法
+		* We will check into a hotel as soon as we get to Taichung. 我们一抵达台中就会去饭店办理住宿手续
+		* Let's check in before we have lunch at the hotel. 我们先走饭店办住宿手续再吃午餐吧
+	* 表示"办理退房手续"，可用"check out(of a/the hotel)"
+		* The clerk says we have to check out of the hotel before noon. 职员说我们必须在中午前办理退房手续
+		* If you check out after 12 noon, you'll have to pay for another day.  如果你在中午12点后退房，你就必须多付一天的钱   
+	* I have a reservation for a suite.
+		* have a reservation for... (已经)预订了...,强调是预订的事实，而make a reservation for...则强调预订的动作
+			* I have a reservation for a table for two.
+			* Are you ready for your trip? 你的旅行准备好了吗
+			* I still have to make a reservation for the hotel. 我还得订旅馆
+	* Please fill out this form. = Please fill in this form.
+		* fill out(美式用法)，fill in(英式用法)，表示"填写(表格、文件等)"
+		* Before the job interview, you have to fill out an application form. 工作面试前，你必须先填申请表 
+	* Will you pay by cash or charge? = Will you pay by cash or (by) credit card? 你付现金还是刷卡
+		* by charge = by credit card 指用"信用卡付款"
+		* I always pay for things by cash. 我买东西向来是付现金
+		* It's very easy to overspend when you have a credit card. 当你有信用卡时就很容易会花钱过度   
+		* charge 作动词时表示"收费、索价"
+			* charge + sb. + money + for + something 因某物向某人索取...(金钱)的费用
+			* The tutor charges his students US $1 an hour for English lessons. 那个家教教1小时英文课向学生收一美元  
+	* Do you take traveler's checks?
+		* = Do you accept traveler's checks? 你们收旅行支票么
+		* 此处的take和accept都表示"接受"，向对方询问"接不接受...(的付款方式)"时，都可用Do you take/accept ...?
+			- Do you take credit cards?
+			- Sure. No problem.   
+	* Certainly = Of course
+		* 在对话中用来回答对方表示"肯定"或"同意"别人的说法、看法或请求、帮助时就可用"Certainly"来回答
+			- Do you have time to see me now?
+			- Certainly/Of course\
+			- Can you help me fix my bike?
+			- Certainly/Of course.
+			- May I use your phone?
+			- Certainly/Of course
+	* One moment, please 请稍后
+		* = One minute, please
+		* = Just a moment, please
+		* = Just a minute, please 
+	* You have a reservation for a single room, right?
+		* = You have a reservation for a single room, don't you?
+		* 此处right = don't you表示"对不对(呀)"，这种叙述句之后加right的用法(right语气要上扬)称做反问句，在英文中这种反问句通常有5种，其形成的基本原则是:
+			* 肯定句要以否定反问
+			* 否定句要以肯定反问
+			* 反问部分的主语始终为人称代词(he,she,they,you,we...)   
+				* 句子有be动词时，以be动词形成反问句
+					* John is nice, right? = John is nice, isn't he? 约翰人很好，对不对
+					* 否定句: Tom and Mary aren't students,right? = Tom and Mary aren't students, are they? tom和mary都不是学生,对吗 
+				* 句中有助动词时，以该助动词形成反问
+					* 肯定句: You will come, right? = You will come, won't you? 你会来，对不对
+					* 否定句: She can't speak English, right? = She can't speak English, can she? 她不曾说英语，对吗
+				* 肯定句中有一般动词时，则按主语人称及动词时态，以don't或doesn't形成反问,否定句因已有do或does，故反问部分仍使用do或does
+					* 肯定句: Helen loves flowers, right? = Helen loves flowers, doesn't she?
+					* 否定句: You don't like me, right? = You don't like me, do you?   
+				* 以let's引导的祈使句，其反问句部分固定用shall we
+					* Let's go to the movies tonight, shall we? 咱们今晚去看电影吧，好不好
+				* 以原形动词起首的命令句，其反问部分固定用will you?    
+					* Close the door, will you? 把门关上，好吗
+					* Speak louder, will you？ 
+	* Do you have any luggage?
+		* luggage和baggage都表示"行李"的集合名词，都是不可数，使用时不能说"a luggage/bagger,two luaggage/baggage",而需要加上"a piece of..."这样的单位名称
+			* I never take more than two piece of luggage when I travel. 我旅行时从不会带超过两件以上的行李
+	* The best time to check into a hotel is about 2 pm.
+	* This piece of luggage is really heavy.    
+	* Dialog
+		- Exceuse me. I have a reservation for a double room.
+		- May I have your passport?
+		- Here you are.
+		- You want the room for 3 days, don't you?
+		- Yes. That's right.
+		- Okay. Will you pay by cash or credit card/charge?
+		- Do you accept/take Visa cards?
+		- Sure. Please just fill out this form.
 ### Grammar
 
 **1. 基本句型**
