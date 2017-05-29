@@ -1471,7 +1471,7 @@ Note:
 		- Just two. How much are they?
 		- They'll cost you 1,000 US dollars  
 
-### Unit Twenty - Checkint into a hotel
+### Unit Twenty - Checking into a hotel
 
 * Good morning. I'm Mr. Jack Wu. I have a reservation for a suite.
 * Oh, yes, Mr. Wu. Please fill out this form.
@@ -1568,6 +1568,111 @@ Note:
 		- Okay. Will you pay by cash or credit card/charge?
 		- Do you accept/take Visa cards?
 		- Sure. Please just fill out this form.
+
+### Unit Twenty One - Changing money
+
+* I would like to cash these traveler's checks, please.
+* How much do you have?
+* Five hundred US dollars.
+* Do you have any identification?
+* Will my passort do?
+* That'll be fine.
+
+* What's the exchange rate for US dollars, please.
+* Which currency do you want to change your money into?
+* Hong Kong dollars, please.
+* It's 7.89 Hong Kong dollars to 1 US dollar.
+* Can you change US $100?
+* How do you want your money?
+* Seven hundreds, eight tens and the rest in change, please.
+* No problem.
+
+Note:
+
+	* exchange rate (外汇)汇率
+		* exchange v.& n. 兑换，交换
+		* exchange A for B 把A换成B
+		* exchange + something + with + sb. 和某人交换某物 
+			* Could you please exchange this ten - dollars bill for two fives? 可不可以请你把这张10块钱换成两个5块的
+			* Would you like to exchange gifts with me? 你愿意和我交换礼物吗
+	* change money 换钱 (可以同上互换)
+		* change A into B 把A换成B
+		* I want to change HK $30000 into US dollars.
+		* 念法： thirty thousand HK dollars或 thirty thousand HK(HK dollars是Hong Kong dollars的缩写)  
+	* I would like to cash these traveler's checks, please.
+		* cash 表示为"兑换现金"
+			* Can you cash this check for me? 你能将这种支票兑换成现金吗
+		* cash 做名词，表示"现金" 和money、change一样为不可数名词     
+			* How much cash/change do you have? = How much do you have in cash/change? 你有多少现金/零钱
+			* I have 20 dollars in cash/change.
+	* Do you have any identification?
+		* identification 是指"证明身份的文件"，一般有3种证件可证明:
+			* ID card = identity card 身份证
+			* driver's license 驾驶执照
+			* passport 护照
+	* Will my passport do ?
+		* do 原表示"做(工作)"，此处表示"行"或"可以"
+			- I do my homework every day.
+			- What would you like to drink?
+			- Just water will do. 只要白开水就行了
+			- Can you lend me some money?
+			- Will 100 dollars do? 100块够不够
+	* That'll be fine. 那就可以了
+		* = That'll be OK.
+		* = That'll be do.
+			- Let's meet at 8 in the morning. Will it be too early for you? 早上8点见，对你而言会不会太早？
+			- No, that'll be fine.
+			- OK, see you then.   
+	* What's the exchange rate for US dollars, please? 请问美元的汇率是多少
+		* What's the exchange rate for + 货币名称 表示某货币的汇率是多少
+		* What's the exchange rate between + 货币名称 + and + 货币名称? 某货币兑某货币的汇率是多少
+			* What's the exchange rate for the pound today? 今天英镑的汇率是多少
+			* What's the exchange rate between HK dollars and US dollars?  港币兑美金的汇率是多少         
+	* Which currency do you want to change your money into? 你要把钱换成哪一种货币
+		* currency 指某一国实际通用货币而言
+		* How much foreign currency do you have? 你有多少外币
+	* It's 7.89 Hong Kong dollars to 1 US dollar.
+		* 7.89 读法为： seven point eight nine   
+		* 小数点后的数字需分开念
+			* 18.18 - eighteen　point one eight
+			* 0.235 - zero point two three five
+	* How do you want your money? 你要多少面额的钱
+	* Seven hundreds, eight tens and the rest in change, please.
+		* = Seven one - hundred - dollar bills, eight ten - dollar bills and the rest in change, please. 七张100元，八张10元的，其余换成零钱
+		* bill 表示"纸钞"
+		* 此处the rest 为代名词，是the rest of the money的省略方式 
+			* Only two students are absent, and the rest (of the students) are all present today. 今天只有2位学生缺席，其余的均出席了
+	* No problem
+		- Can you kill Roger for me, James Bond? 詹姆士庞德，你能帮干掉罗杰么
+		- No problem. He's dead man. 没问题，他死定了
+	
+	* Sentences
+		* I would like to cash these traveler's checks, please.
+		* I would like to cash this check, please.
+		* Will my passport do ?
+			* That'll do. 那可以
+			* That won't do. 那不行
+		* What's the exchange rate for US dollars, please?
+		* What's the exchange rate between US dollars and Hong Kong dollars, please?
+		* How much do you have in cash/change?
+		* I have only ten dollars in cash/change.
+		* I need some money. Fifty dollars will __
+		* I need some __ to make a phone call.
+		* I would like to __ this check, please.
+		* Tom always carries his __ card with him.
+		* Do you want to exchange your toy gun __ my model airplane?       
+		* What's the exchange rate __ the Yen and US dollars?
+		* __ do you want your money?
+		* I'll take these books, the __ are for you.
+	* Dialog
+		- Can you c__ these traveler's checks for me, please?
+		- Sure. I need some i__, though.
+		- OK. Here's my ID c__
+		- That'll d__. Which c__ do you want your money in?
+		- In US dollars, please. Can I have the money in hundreds?
+		- No problems. That'll be twenty hundreds and the r__ in tens, Okay?  
+		- That'll be f__.
+
 ### Grammar
 
 **1. 基本句型**
