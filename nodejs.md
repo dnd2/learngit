@@ -468,3 +468,9 @@ function createApplication() {
 		* 仅在同步代码中使用try-catch
 
 [Original](https://juejin.im/entry/5670bd9c60b294bccfdd4ec5)
+
+### windows设置全局模块安装位置
+
+* 默认安装在C:\Users\hey\AppData\Roaming\npm下
+* 可以通过 npm get prefix 查看
+* 重新设置： npm set prefix D:\nodejs

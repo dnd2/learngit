@@ -1673,6 +1673,214 @@ Note:
 		- No problems. That'll be twenty hundreds and the r__ in tens, Okay?  
 		- That'll be f__.
 
+### Unit Twenty two - Booking an airline ticket
+
+* Hi! My name is John Lin, I'd like to book a flight to Rome, please.
+* Do you wish to fly first class, business or economy?
+* Economy.
+* Date of departure?
+* OK. You're booked on flight number CX167. It departs at 11:15 AM.
+
+* Japan Airlines. Can I help you?
+* Yes. I'm Peter Lai. I'd like to reserve a round-trip ticket to Paris, please.
+* Which class? And for when?
+* Business class, for this Sunday.
+* One moment, please. OK. I've booked you on flight number 007. It departs at 5:30 AM. Please call back on Friday to reconfirm.
+* OK.
+* Your confirmation code number is XE3849.
+* Thank you.
+
+Note:
+	
+	* first class 头等舱，business class 二等舱，经济舱
+	* flight number 航班号
+	* confirmation code number 确认代码
+	* Do you wish to fly first class, business or economy? = Do you wish to fly first class, business class or economy class?
+		* wish to + verb  想要... = hope to + verb
+		* I wish to study abroad. = I hope to study abroad.
+	* Date of departure?
+		* = What's the date of your departure? 出发日期呢
+		* date of birth 出生日期
+			* date of birth 与birthday不同的是: 前者包括出生的年、月、日，而后者不包括出生的年份
+				* If you tell me your date of birth, I'll know how old you are. 如果你告诉我你的出生日期，就知道你几岁了
+				* My birthday is on December 25.
+	* It departs at 11:15 AM.
+		* depart 表示"出发，离开"，除单独使用还可与介词for连用
+			* depart for + somewhere  出发/动身前往某地
+				* The train departs on schedule every morning.
+					* on schedule 按时，照时间表
+				* Mr. Wang will depart for Hong Kong tomorrow.
+		* 一般指确切的时间或时刻，前面通常用at表示
+			* at ten (o'clock)
+			* at noon
+			* at night
+			* at midnight
+				* Jimmy usually arrives at school at 6:30 am.
+		* 表示年、月/季节、上/下午及晚上时，前面的介词要用in
+			* in 2000
+			* in March
+			* in spring
+			* in the morning
+			* in the afternoon
+			* in the night = at night   	
+				* I will return to America in 2000.
+				* Mr. Li works best in the morning. 李先生早上的工作效率最好
+		* 表示日期或星期几时，介词需用on表示
+			* on July 4
+			* on Christmas
+			* on Sunday
+				* My birthday is on February 29
+				* I have to go to church on Sunday.
+	* I'd like to reserve a round-trip ticket to Paris, please.
+		* = I'd like to book a round-trip ticket to Paris, please
+		* a round-trip ticket 来回票
+		* a one-way ticket 单程票 
+		* one-way adj. 单程的
+			* one-way street 单行道
+		* How much is it for a round-trip ticket to Los Angeles?
+		* I will buy a one-way ticket to New York because I don't intend to return. 我要买张到纽约的单程票，因为我不打算回来了
+		* You can't drive in there, it's a one-way street. 你不能开进那里，那是单行道
+	* Which class? And for when?
+		* = Which class would like to fly? and when do you want to leave?
+		* 你要搭乘哪一种舱位? 还有你什么时候离开?
+	* I've booked you on flight number 007.
+		* book 预订后除可接旅馆房间，座位等，还可接"人"作宾语，表示"为某人预订..."
+			* I'd like to book a room for three nights.
+			* Please book me on the next flight to Canada. 请帮我订下一班到加拿大的班机
+			* The secretary books Mr. Li in at the hotel every time he travels abroad.
+	* Please call back on Friday to reconfirm.
+		* 未避免机位被取消，在出发前三天会打电话给航空公司确认，确保机位
+			* To be safe, I always reconfirm my flight three days before the flight. 为保险起见，我都会在三天前确认我的班机  
+	* Sentence
+		* I wish/hope to travel around the world.
+		* Mr. Wang will depart/leave for Hong Kong tomorrow.
+		* John goes to bed at midnight/ten (o'clock) every day.
+		* How much is it for a round-trip/one-way ticket to Los Angeles?    
+		* School begins on September 1 every year.
+		* Dad works at night and sleeps during the day. 
+		* Do I have to reconfirm my return flight when I arrive in Tokyo?    
+	* Dialog
+		- Excuse me. My name is John Smith. I'd like to r__ my flight back to Taiwan.
+		- Which c__ are you booked in?
+		- The e__ class.
+		- And what is the f__ number?
+		- It's XE707.
+		- Oh, yes. You're booked to leave o__ Sunday, right?
+		- That's right. The flight is a__ 8 pm, right?
+		- Right. It d__ at that time, so you'll have to be there about an hour before 8 pm.                   
+### Unit Twenty Three - At the airport
+
+* This is the arrival lounge.
+* I know. Where is the departure lounge?
+* Come. Follow me.
+* There! The check-in counters are over there.
+* Don't we have to go pay the airport tax first?
+* No. We pay it after we check in.
+* 
+* Good morning. May I have your passport, please?
+* Here you are.
+* Somoking or non-smoking?
+* Non-smoking.
+* Aisle or window seat?
+* Window seat, please.
+* Do you have any luggage to check in?
+* Yes. This is my carry-on luggage and I'll check in these two suitcases.
+
+
+Note:
+
+	* check-in counter 办理登机手续的柜台
+	* carry-on adj. 随身携带的
+	* take a seat, please. = sit down, please.
+	* This is the arrival lounge.
+		* arrival
+			* The fans are waiting for the arrival of the moive star. 影迷们正等那位影星抵达
+		* arrive
+			* When will the plane arrive?  
+			* arrive at + 地点(建筑物如：邮局、车站等)  到达...
+			* arrive in + 地方(大地方如：城市、国家等) 到达...
+				* They will arrive at the hotel before six o'clock.
+				* The plane will arrive in New York tonight.
+		* arrival lounge n. (机场)入境大厅 
+		* departure lounge n.  (机场)出境大厅
+			* 这2个大厅都在机场航站大厦(air terminal)里 
+			* lounge 指大厅或休息室，teacher's lounge, 旅馆或饭店内的大厅则叫做lobby
+	* Come. Follow me.
+		* follow me 表示"跟我走"，口语中等于this way
+			- Where can I find the bathroom? 洗手间在哪里
+			- Follow me (This way). 
+	* There! The check-in counters are over there.
+		* check-in counter 指办理报到手续的柜台，在机场办理的是登机手续，在旅馆则是办理住宿手续
+		* over there, over here
+			* over作强调用的副词
+			* over there/here为目视距离内的指示用法，通常可在前加另一个强调副词right，=> right over there(就在那里)和right over here(就在这里)，此外，可省略over形成right there/here，但此时无距离的含义
+			  * Who is the man standing over there? 站在那里的那位男子是谁?
+			  * The thing we are looking for is right over here. 我们所要找的东西就在这里
+			  * I will be right here waiting for you. 我将在这里等你     
+			  * 注意: right也可用来强调介词短语，over则不可
+			  	* There's a beautiful fountain right in the middle of the park. 在公园正中央有一座漂亮的喷水池 
+	* Don't we have to go pay the airport tax first?
+		* = Don't we have to go and pay the airport tax first?
+		* 英语中2个动词在一个句子时，必须有连接词连接，否则是错误句型。 但go和come以原型动词出现时，则可将连接词and省略。
+			* They　sing, dance happily day after day. (X) -> They sing and dance happliy day after day. 
+			* Please go and buy me a newspaper. = Please go buy me a newspaper. 请帮我去买份报纸
+			* When you have time, come and visit me. = When you have time, come visit me.
+		* pay为动词表示"付钱"，常见用法:
+			* pay + money + for... 付钱买
+			* pay sb. + money + for... 为...付钱给某人
+				* I will not pay one hundred dollars for the toy. 我不会付100块买这个玩具
+				* She pays me a lot of money for doing this work. 她付了我很多钱做这个工作
+		* the airport tax 机场建设税 
+		* first 此处表示"首先",可置于句首或句尾，置于句首等于first of all， 置于句尾不可用first of all取代
+			- What can I do better my English?
+			- First/First of all, you have to get a good dictionary.
+	* We pay it after we check in.
+		* 此处指机场办理登记手续，前文已学的check in指在(旅馆)办理住宿手续
+	* May I have your passport, please?
+		* May I have your..., please? 请把你的...给我好吗? 客气的要求，your后可接各种名词
+			* May I have your attention, please? The plane will take off in five minutes. 各位请注意，飞机将于5分钟后起飞
+	* Smoking or non-smoking? 
+		* = Would you like to sit in the smoking section or the non-smoking section?
+		* 以前飞机上分为吸烟和非吸烟区，现在由于考虑飞行安全，大部分都禁烟了，空服人员会做下列广播:
+			* Ladies and gentlemen, this is a non-smoking flight. Please do not smoke during the flight. Thanks for your cooperation.
+	* Aisle or window seat?
+		* = Would you like an aisle seat or a window seat?   
+		* aisle seat 指飞机或火车上等靠过道的座位，window seat为靠窗的座位    
+	* Do you have any luggage to check in? 你有任何行李要托运么
+		* luggage/baggage 为集合名词，是不可数名词，需要说成:  a piece of luggage, two pieces of luggage, a lot of luggage     
+		* 集合名词指任何同类东西的总称     
+
+
+### Sentences
+
+	* This is the arrival/departure lounge.
+	* Jack usually arrives at the school at seven o'clock.
+	* Rose will arive in Taipei tomorrow.
+	* Follow me./ This way
+	* The check-in counters are over here/right over there.
+	* Don't we have to go pay the airport tax first?
+	* My friends and I will go see a moive tonight.
+	* May I have your passport/coat, please? 
+	* The plane will arrive at the airport on time.
+	* It hurts right here, doctor.
+	* Please go pick up the clothes at the laundromat.
+	* You can check in tow pieces of luggage.
+	* First of all, you must fill out this form.
+	* Uncle Paul pays me US $100 for teaching my cousin English.
+
+
+### Dialog
+
+	- May I h__ your passport, please?
+	- Sure. Here you are. Do I have to pay the airport tax f__?
+	- No. You can pay it later.
+	- Okay. Can I have a w__ eat, please?
+	- In the smoking or non-smoking s__?
+	- Non-smoking, please.
+	- Any l__ to check in?
+	- Just this big one o__ here.
+	- I see.
+
 ### Grammar
 
 **1. 基本句型**
