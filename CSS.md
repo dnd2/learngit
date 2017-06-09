@@ -277,3 +277,13 @@ Note:  inherit 关键字 用于显式地指定继承性，可用于继承性/非
 
 [You Don't Know CSS](https://zhuanlan.zhihu.com/p/23829153)
 
+### px, em和rem
+
+px 用来设置字体大小是稳定和精确的
+em 是相对于父元素来设定字体尺寸大小的。 [em介绍](https://www.w3cplus.com/css3/define-font-size-with-css3-rem) 
+	
+	* 浏览器默认的字体尺寸是16px,因此未做调整时1em = 16px，那么12px = 0.75em, 10px = 0.625em，
+	* 为了简化计算，通常在body中将字体大小设置为font-size: 62.5%, 这样em的值为 16px * 62.5% = 10px, 12px = 1.2em, 10px = 1em... 即将px除以10得到em的值。 
+
+rem 相对于根元素的字体大小单位。
+相关介绍: [web app变革之rem](https://isux.tencent.com/web-app-rem.html)	

@@ -1423,4 +1423,5 @@ console.log('Is rect an instance of Sahpre', rect instanceof Shape);
 
 [JavaScript 的深复制](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
 
-
+**解决jQuery重复绑定事件**
+[案例](http://bookshadow.com/weblog/2014/08/21/jquery-duplicate-bind-demo-and-solution/)
