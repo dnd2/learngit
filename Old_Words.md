@@ -1881,6 +1881,122 @@ Note:
 	- Just this big one o__ here.
 	- I see.
 
+### Unit Twenty Four - At the Airport II
+
+* Please fill out these tags and attach them to your suitcases. Then put them on the scale.
+* OK.
+* I'm afraid your luggage is overweight. You'll have to pay an excess baggage charge.
+* How much will that be?
+* Le me see -- US $10.
+* That's not too bad.
+
+* Here are your tickets. The baggage claim stubs are attached to them.
+* Thank you.
+* And here is your boarding pass. You board at Gate 12.
+* OK. Is that all?
+* No. Please wait here till your luggage goes through the X - ray machine.
+* OK.
+* Have a nice flight.
+* Thank you.
+
+Note:
+
+	* baggage claim stub 提领行李的存根
+	* boarding pass 登记证
+	* X-ray machine X光机
+	* Please fill out these tags and attach them to your suitcases.
+		* fill out... 填写... = fill in
+			* Please fill out this form and give it to me.
+		* attach 表示"缚，系、固定"，常与介词to连用
+			* attach A to B 把A系在/到B上
+				* He attaches the string to his kite. 他把绳子系在风筝上
+	* I'm afraid your luggage is overweight.
+		* = I'm afraid that your luggage is overweight.
+		* I'm afraid + that + 主语 + verb  恐怕... (that常被省略)
+			* I'm afraid (that) it is going to rain this afternoon.
+		* overweight 表示"超重的"
+			* somebody + be overweight  某人体重过重
+				* Anyone can see that you're overweight, you should go on a diet. 任何人都看得出来你体重过重，你应该要节食了
+				* go on a diet 节食
+	* You'll have to pay an excess baggage charge. 你必须支付额外的行李超重费
+		* have to 和 must区别
+			* 两者都可译为"必须", have to 含有被勉强而不得不的意味。而must则除此意之外，还有道德上不得不然的意味
+				* you have to/must do this work whether you like it or not. 不管你喜不喜欢，你都必须做这个工作
+				* We must love our country. 我们必须爱国         
+			* excess baggage charge 超重行李费
+	* How much will that be? 那要多少钱
+		* 购物时，不论你买多少东西，汇总后得到的价钱，总额是一个整字，故代名词用that
+			- How much will that be?  一共多少钱
+			- That will be 50 dollars in all. 总共是50元       
+	* Let me see -- US $10
+		* Let me see或Let's see 之后常接破折号，表示停顿之意，说话者此时可能在看，计算或思考等
+			- How long are you going to stay here?
+			- Let me see/Let's see --- five days, I think. 让我看看--我想是5天吧
+	* That's not too bad 那还不算太糟
+		* That's too bad = What a shame! 太可惜了
+			- How much money have you lost?
+			- Only five dollars.
+			- That's not too bad, is it?
+			- I'm afraid I can't go to your party tonight.
+			- Oh, that's too bad/what a shame!  
+	* Here are your tickets. The baggage claim stubs are attached to them.
+		* Here is + 单数名词   这里是...
+		* Here are + 复数名词  这里是...
+			- Here is a little gift for you. 这是送你的一份小礼物
+			- Oh, thank you so much!  哦，真是太感谢了
+			* Here are the cookies I like. 这些是我所喜欢的饼干 
+		* baggage claim stub 指"提领行李的存根"，此处claim为名词，意为"(对某事物的)要求权，所以权,索取"  
+			* Where can I claim my baggage? 我要去哪儿提领我的行李呢
+	* And here is your boarding pass. You board at Gate 12.
+		* = And here is your boarding pass. You board at Gate Number 12.
+			* boarding pass 登机牌
+			* board v. 表示"登上(飞机、火车、巴士、轮船等交通工具)"         * Flight 251 for Singapore is now boarding at Gate 10.  飞往新加坡的251次班机正在10号门登机
+				* Passenger should board the train now. 乘客们现在该上火车了
+	* Is that all? 就这样吗
+		- Your mother wants me to tell you that you have to go home before 10 o'clock.
+		- Is that all?
+		- Please buy me a paper, a beer and a pack of cigarettes. 
+		- Is that all?
+	* Please wait here till your luggage goes through the X-ray machine.
+		* till = until 可作连接词，之后接主语和动词，也可作介词之后接名词作宾语
+			* They will not leave till/until the sun goes down. 他们直到太阳下山才会离开
+			* I'll stay here till/until Friday. 我将一直待到这个礼拜五
+		* go through... 通过
+			* She is afraid to go through dark alleys at night.
+	* Have a nice flight.
+		* = May you have a nice flight.
+		* = I hope (that) you (may) have a nice flight. 祝你飞行愉快    
+		
+**Sentences**
+
+	* I'm afraid your luggage is overweight.
+	* I'm afraid I have to leave now.
+	* You have to/must finish the job by twelve o'clock. 你必须在12点前完成这项工作
+	* That's too bad!/What a shame!
+	* Here are your tickets./Here is your book.
+	* You board at Gate 12/Gate Number 12.
+	* Please wait here till/until your luggage goes through the X-ray machine.
+	* Have a nice flight./May you have a nice flight/I hope that you may have a nice flight.
+	* To apply for a driver's license, you must fill out this application form.
+	* Please attach this tag to your luggage.
+	* I'm afraid that I won't be able to get up on time.
+	* Parents must take care of their children.
+	* Bill has to play very well to win the games.
+	* Let's see --- I think I have enough money for lunch.
+	* I have to pay US $10. Is that all?
+	* My grandfather's health is not too bad
+	 
+**Dialog**
+
+	- Please put your luggage on the s___. Wow! I'm afraid they're too heavy. You've got to pay an excess baggage c___.
+	- How much will t___ be?
+	- Let me s___ --- US $20.
+	- Here you are.
+	- Here are your baggage c___ stubs and your boarding p___.
+	- So I should go t___ Gate 5.
+	- That's right. Have a nice f___.
+		          
+
 ### Grammar
 
 **1. 基本句型**
