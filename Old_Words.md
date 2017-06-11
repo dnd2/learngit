@@ -1996,6 +1996,119 @@ Note:
 	- So I should go t___ Gate 5.
 	- That's right. Have a nice f___.
 		          
+### Unit Twenty Five - At the post office
+
+* I'd like to register this letter, please.
+* Where to?
+* Los Angeles.
+* OK. Let me weigh it. That'll be three dollars, please.
+* Here you are. Do I have to fill out a form?
+* No. Just give me your name, address and telephone number.
+
+* I'd like to send this by air mail, please.
+* Is it birthday card?
+* Yes. Why do you ask?
+* Cards are cheaper than letters.
+* Oh! Really?
+* You can't seal the envelope, though.
+* OK. How much for the stamps?
+* Two dollars.
+
+Note:
+
+	* at the post office  在邮局
+	* in the post office  在邮局里面
+		* at和in的区别
+			* at 表示在某
+			* 栋建筑物的里面或外面并不一定，而用in时则强调是在建筑物里面  
+				* I'll meet you at the station. 我会在车站和你碰面
+				* I'll meet you in the station. 我会在车站里面和你碰面
+	* I'd like to register this letter, please. 麻烦你，我想用挂号寄这封信
+		* register the letter 寄挂号信
+			- Do you want to register this letter?
+			- Yes, please.
+	* Where to?
+		* = Where do you want to send this letter?
+		* Where to? 是口语上的简介问句，通常是Where are you going? (你要去哪里)的意思，但此处表示"你要把信寄到哪儿"
+		* Where are you going? 不可以说成 Where are you going to?, 因为where是副词，修饰going，不能作to的宾语   
+			- I'm getting out of here. 我要离开这里
+			- Where to? / Where are you going? 去哪儿
+			- Out for some fresh air.  出去呼吸些新鲜空气
+	* Let me weigh it.
+		* Let + somebody + verb 让某人...
+			* Let him do it alone. 让他自己一个人做
+		* weigh 表示"称...的重量"
+			* Do you often weigh yourself? 你常称体重么
+	* That'll be three dollars, please.
+		* That'll be + money  是/要...(钱)
+			- How much is it?
+			- That'll be twenty dollars. 
+		* please 表示"请"，是客气的里面用词，可置于句首，句中，句尾
+			* Sit down, please = Please sit down.
+			* Open the door, please = Please open the door
+			* Would you please do me a favor?
+				* would you please + verb 可不可以请你...?
+		* Do I have to fill out a form?
+			* fill out a form = fill in a form
+				* Please fill out/in the form in detail.
+	* I'd like to send this by air mail, please.
+		* by air mail  寄空运
+		* by sea mail  寄海运
+		* by regular mail 寄平信
+		* by registered mail 寄挂号
+		* by special delivery = by express delivery  寄即时专送
+			* It's cheaper to send a package by sea mail than by air mail.
+			* I want to send the letter by special delivery. 
+			* = I want to send the letter by express delivery.
+		* mail 作名词时表示"各种邮件的总称(包括信及包裹)"，为不可数名词，作动词时表示"邮寄"
+			* mail a letter 寄一封信
+			* = send a letter
+			* = post a letter
+			* I usually receive many mails every day. (X)
+			* -> I usually receive a lot of mail every day.
+			* Please mail/send/post the letter for me.          
+	* You can't seal the envelope, though.
+		* seal 动词表示"(密)封"
+			* Seal the letter before you mail it. 寄信前要把信封好
+		* though 有以下2种重要用法:
+			* 作副词，表示"不过，然而"，使用时通常置于句尾，前面加逗号
+				- Can I borrow your bike?
+				- Yes, you can. Don't break it, though.
+			* 作连接词，表示"虽然"，通常置于句首。 需注意: 中文虽有"虽然...但是..."的用法，但英文中没有此类句型用法，因为though和but都是连接词，英文中，一句中只能有一个连接词，故两者不可同时用。
+				* Though he is nice, I don't like him.
+				* = He is nice, but I don't like him.
+				* Because he is nice, I like him.
+				* = He is nice, so I like him.
+
+**Sentences**
+
+	* I'll meet you at the restaurant
+	* I'll meet you in the restaurant
+	* Let me weigh it/Let me help you
+	* Would you please do me a favor/open the door for me?
+	* I'd like to send this by air mail/sea mail/regular mail/registered mail/special delivery, please.
+	* Though he is rich, he is very stingy.
+	* He is rich, but he is very stingy
+	* Because I am busy, I can't go with you
+	* I am busy, so I can't go with you.
+	* 
+	* Would you please carry this heavy box for me?
+	* Do you have much ___ every day?
+	* If you're going to the post office, can you post this letter for me?
+	* This bike is cheaper than that one.
+	* Though he is old, he is very healthy.
+	* Because Tom is kind, he has many friends.
+	* Jack is handsome, so Mary doesn't like him.	             
+**Dialog**
+
+	- I'd like to send this letter b___ air mail, please.
+	- I'll have to w___ it.
+	- Okay. H___ much is it?
+	- Thirty US. Would you like to r___ the letter?
+	- But regular mail is c___, isn't it?
+	- Of course. It's safer, t___
+	- But it'll be more expensive, right?
+	- Okay I understand. T___ will be US $30, please.      
 
 ### Grammar
 
