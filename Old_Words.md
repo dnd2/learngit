@@ -2110,6 +2110,159 @@ Note:
 	- But it'll be more expensive, right?
 	- Okay I understand. T___ will be US $30, please.      
 
+# Unit Twenty Six - At the doctor's
+
+* Doctor, I think I have the flu.
+* Do you have a cough, too?
+* No, not really.
+* Do you have a sore throat?
+* A little. But I have a bit of a fever.
+* OK. let me have a look.
+
+* Open your mouth and say, "Ah..."
+* Ah...
+* Yes. it's quite serious. I think you need a shot.
+* Is it going to hurt?
+* Don't worry. It'll soon be over.
+* Ouch!
+* OK. It's done. Also, take these pills 3 times a day after meals.
+* OK. Thanks, doctor. Bye.
+
+Notes
+
+	* at the doctor's = at the doctor's office  在医生诊疗室
+	* Doctor, I think (that) I have the flu.
+		* think后省略了that。 本句也可用: I'm afraid that I have the flu. (医生，我恐怕是得了流行感冒) 本来自己是否得了流行感冒，自己应该很清楚，但如果直接说"Doctor, I have the flu" 则未免太过武断，对医生来说也不太尊重，故用，I think或I'm afraid来缓和语气。
+			* It is going to rain today. 今天会下雨 比较下列句子:
+			* I think (that) it is going to rain today. 我想今天会下雨
+			* I'm afraid that it is going to rain today. 恐怕今天会下雨
+		* have the flu flu之前需加定冠词the，而不能用a
+			* John is not well because he has the flu. John因得了流行感冒，所以身体不舒服  
+			* have a cold = catch a cold = catch cold 得了感冒
+				* Pull　on your coat, or you will catch a cold.
+	* Do you have a cough, too?
+		* have a cough 咳嗽, couch此处是名词但也可作动词用
+			* My father has a bad cough today. 我父亲今天咳嗽很厉害
+			* Cover your mough when you cough. 咳嗽的时候要把嘴捂住
+	* No. Not really. 不，算不上真的咳嗽
+		- You swim a lot, you must enjoy swimming. 你经常游泳，你一定很喜欢游泳
+		- No. Not really. I swim for my health.  不，算不上真的喜欢，只是为了健康而游
+	* Do you have a sore throat? 喉咙会痛么
+		* have a sore throat  喉咙痛
+		* sore形容词表示"疼痛的"， 指发炎或受伤部位一碰就痛的感觉，此外，sore还可表示肌肉方面的"酸痛的"， 如: have a sore arm (手臂酸痛)、have a sore leg (腿部酸痛); ache 也可表示"疼痛",常和其他字并用形成复合字，但ache是指某部位持续疼痛的感觉
+			* have a headache   头痛
+			* have a toothache  牙痛 
+			* have a stomachache  胃痛
+				* Don't talk too much when you have a sore throat/toothache
+	* A little. But I have a bit of a fever.
+		* = I have a little of a sore throat. But I have a bit of fever. 一点点。 但我有一点发烧
+		* a bit of...  一点点...
+		* = a little bit of...
+	    * = a little of...
+	    	* Let me give you a bit of advice. 让我来给你一点建议吧
+		    * have a fever 发烧
+		 	  * The child is having a high fever. 这孩子正在发高烧
+	* Let me have a look. 让我看看
+		* have a look at + noun  看一看...
+			* May I have a look at your picture?                 
+	* It's quite serious. I think you need a shot.
+		* quite, fairly, rather(相当地), very(很), extremely(极，非常)等均为程度副词，在句中加强形容词或副词的词意。 所谓副词是可修饰动词、形容词和副词的词类，所谓形容词可修饰名词和代词的词类。
+			* He studies hard.
+			* She looks very beautiful. 
+			* She is beautiful.  
+		* 按程度强弱排列以上副词为： fairly(最弱), quite, rather, very, extremely 
+			* It is fairly/quite/rather hot today. 今天相当热 -- 但不是很热
+			* The cart runs very fast. 这辆车跑起来很快
+			* I feel extremely tired. 我觉得疲倦极了
+		* shot表示"注射、打针"，是口语用法，正式的词为injection
+			* give + sb. + a shot 给某人打针
+			* = give + sb. + an injection
+			* get/take a shot (接受)打针
+			* = get/take a injection
+				* The nurse will give you a shot. 护士会替你打针
+				* Most children are afraid to take the injection. 大部分小孩都害怕打针
+	* Is it going to hurt? 打针会不会痛呢
+		* 本句为"It is going to hurt"变化而来的问句
+			* be going to + verb  将会...
+			* = will + verb
+				* It is going to rain this afternoon.
+				* = It will rain this afternoon.
+				* I'm going to/will take a trip next week.      
+			* hurt之后无宾语时译为"疼痛"，有宾语时译为"伤害"
+				* My fingers hurt. 我的手指痛
+				* Nobody will hurt you. 没有人会伤害你
+	* Don't worry. It'll soon be over. 别担心，很快会结束的
+		* worry v. 担心
+		* worried adj. 担心的
+		* worry about... 担心... = be worried about...
+			- Oh, no. We'll miss the bus. We'll be late for school.
+			- Don't worry. We can take a taxi.
+			* We all worry about you very much.
+			* = We are all worried about you very much.
+	* Ouch! 
+		* 表示突入而来的疼痛而发出的叫声
+		* 其他常见的声音词有: 
+			* Wow! 表示惊叹、赞叹  
+			* Unoh! 呃喔！ 表示事情不妙
+			* Uh-huh! 嗯哼！ 表示赞同
+				- Ouch! My stomach hurts.
+				- You'd better go to a doctor.    
+				- Wow! What a beautiful girl!
+				- Don't forget you are married. 别忘记你已结婚了
+				- Johnny, stop drinking so much!
+				- Uh-oh! There she goes again.  呃喔！ 她又来了
+				- How can we get the money we need? 我们要如何得到所需的钱
+				- We can borrow it from the bank. 我们可以找银行借
+				- Uh-huh! Let's do that.  嗯哼！就这么办 
+	* OK. It's done.
+		* = OK. It is done.
+		* = OK. It is finished.
+		* done此处表示"做完的"等于finished
+			* Have you finished your job?
+			* Yes, it's done already.
+	* Also, take these pills 3 times a day after meals. 还有，饭后服用这些药丸，一天3次
+		* 表示"吃药"的动词需用take，"喝汤"的动词用eat，表示"喝饮料、咖啡、牛奶等"时用drink
+			* I really hate taking medicine. 我实在很讨厌吃药
+			* Don't make noises when you eat soup.
+			* I drink a cup of coffee every day.   
+		* 3 times a day
+			* 表示"次数、频率"的说法，英文中把次数或频率放在前面，后接时间
+				* Jack eats 4 meals a day.
+				* They work 5 days a week.
+				* The magazine is pulished once a month. 
+		* meal名词指"一餐、一顿饭"  
+			* She always has a small meal at lunch time. 她午餐时都吃的很少
+			* Don't read the newspaper at meals. 吃饭时不要看报纸
+			* My little sister likes to eat between meals. 我小妹喜欢吃零食     
+
+**Sentences**
+
+	* Doctor, I think I have the flu/a cold.
+	* Do you have a cough/sore throat/fever, too?
+	* It's quite/very/extremely serious.
+	* I think you need a shot/an injection.
+	* Is it going to hurt/rain? 会不会痛/下雨呢
+	* Peter isn't at work because he has the flu.
+	* The noise is giving me a headache.
+	* Tommy always makes noises when he eat soup.
+	* Can I have a look at your new watch?
+	* It's very dangerous to drive when it's snowning.
+	* If you get a shot, you'll get well very quickly.
+	* I'm worried about my father's health.
+	* It's done. I can stop working and go home now.
+
+**Dialog**
+
+	- Doctor, is it okay if I don't get a s___?
+	- Why? What are you w___ about?
+	- I think it will h___.
+	- It'll soon be o___.
+	- But can't I just t___ some pills?
+	- It will take q___ a long time to get well.
+	- It's alright.
+	- Here. Take these pills three t___ a day after meals.
+	- Thanks, doctor.
+
 ### Grammar
 
 **1. 基本句型**
