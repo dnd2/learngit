@@ -2263,6 +2263,158 @@ Notes
 	- Here. Take these pills three t___ a day after meals.
 	- Thanks, doctor.
 
+
+### Unit Twenty Seven - At the zoo
+
+* Can I take a picture with the lion, Dad?
+* Sure. But don't go too near the cage.
+* I'll stand behind the railing.
+* OK. Are you ready? Say "Cheese!"
+* Cheese!
+* That's a good one.
+* Lions are beautiful, aren't they?
+* They sure are. After all, the lion is "king of the beasts."
+
+* Wow! Look at that elephant. It's gigantic!
+* It's sure is.
+* Can I feed it?
+* No. There's a no-feeding sign over there.
+* Poor elephant.
+* There aren't many elephants left in the world, are there?
+* People kill them for their tusks. Now they are an endangered species.
+* Man sometimes behaves worse than animals.
+
+Note
+
+	* Can I take a picture with the lion, Dad?
+		* take a picture with + sb./sth. 和某人/物拍照
+		* take a picture of + sb./sth. 拍某人/物的照片
+		* take a picture for + sb. 替某人(做)拍照(的工作)
+			* May I take a picture with you? 我可以和你拍一张照么
+			* I want to take a picture of these flowers. 我要拍一张这些花的照片
+			* Mister, can you take a picture for us? 先生，可以请你为我们拍一张照片么  
+	* But don't go too near the cage.
+		* = But don't go too close to the cage. 不过不要太靠近笼子
+		* 此处near是介词，即等于close to
+			* His house is near the school. = His house is close to the school.
+	* I'll stand behind the railing.
+		* There is a man sitting on the railing. 有一名男子坐在栏杆上
+	* Are you ready? Say "Cheese!"
+		* ready是形容词，表示"准备好的"，常见用法有:
+			* be ready to + verb  准备好要...
+			* be ready for + noun 为...准备妥当
+				* Are you ready to go home? 你准备好要回家了么
+				* They are ready for the final exams. 他们已为期末考试准备妥当  
+			* cheese 本是"乳酪、干酪"之意，此处表示照相时为取得笑容的用语，因为说cheese这个词时，嘴角向两边拉开，看起像在笑一样，因此"Say cheese!" 表示要被照相的人微笑，即像我们照相时所说"来，笑一个"
+	* That's a good one. 这张照得很棒
+		* 表示赞许的话，字面意思为"这个很不错"，通常在他人说了一句好词或好笑的笑话，我们可以说"That's a good one"以示嘉许之意，但依上下文判断，此处指照相者拍的效果不错，洗出来一定是一张很棒的照片。
+	* Lions are beautiful, aren't they?
+		* 反问句的原则
+			* 叙述句为肯定时，接否定反问句
+			* 叙述句为否定时，接肯定反问句
+			* 此外，反问句的主语一定为代词
+			* 叙述句有be动词，反问句沿用be动词，此处即属于这种用法。 Lions are beautiful, aren't they?
+				* He is nice, isn't he?   
+				* You are not a student, are you?
+			* 叙述句有助动词will, can, have等，反问句沿用该助动词
+				* She can dance, can't she?
+				* You haven't done it, have you? 你还没有做那件事，不是吗
+			* 叙述句只有动词，反问句则使用助动词do, does
+				* He gets up early, doesn't he?
+				* You like movies, don't you?
+			* 叙述句为命令句时，反问句一律用will you
+				* Come over here, will you?
+				* Stop smoking, will you?
+			* 叙述句为Let's...开头，反问句一律用shall we
+				* Let's go home, shall we?
+				* Let之后若接其他的人作宾语，则反问句要用will you
+					* Let him go, will you?
+					* Let me do it, will you?
+	* They sure are. After all, the lion is "king of the beasts".
+		* = They sure are beautiful. After all, the lion is "king of the beasts"
+		* 此处sure为副词，表示"当然，的确"，等于surely
+		* after all 主语 + 动词  毕竟, ...
+			- We can't give him too much work. 我们不能给他太多工作
+			- You're right. After all, he's just a new hand. 你说的对，毕竟，他只是个新手
+	* Wow! Look at that elephant. It's gigantic! 哇！看那头大象，好大喔！
+		* look at + noun 看一看...
+		* = take a look at + noun
+		* = have a look at + noun
+			* Look at that girl. Isn't she beautiful?
+			* = Take a look at that girl. Isn't she beautiful?
+			* = Have a look at that girl. Isn't she beautiful? 看那位女孩，是不是很漂亮   
+	* It sure is. = It sure is gigantic. 它的确是很大
+	* Can I feed it?
+		* feed动词，表示"喂食"
+			* John feeds his dog every day.
+	* Poor elephant.
+		* poor形容词，表示"可怜的"，也可以表示"贫穷的"
+			- Mommy, Tom is pulling my hair. 妈咪，tom拉我的头发
+			- Oh, poor girl. I'll tell him to stop.  噢，可怜的小女孩。 我会叫他不要再这样了
+			* The poor man has no money to buy food.
+	* There aren't many elephants left in the world, are there? 世界上所剩的大象不多了，不是吗
+		* 此处left由动词leave演变后来的形容词，表示"剩下来的"，使用时置于名词后
+			* I have no money left. 我没有剩下的钱
+	* People kill them for their tusks. Now they are an endangered species.
+		* tusk指"象、海象、野猪等动物的长牙"，而ivory指"象牙质料(材质)"之意
+			* An elephant has two tusks.
+			* The pipe is made of ivory. 这个烟斗是象牙材质做的 
+		* endangered species 频临绝种的动植物
+			* Tigers are one of the endangered species.
+			* species是单复数同形的名词，亦即可说one species, two species, many species等。 
+	* Man sometimes behaves worse that animals. 人类有时的行为连禽兽都不如
+		* behave动词，表示"行为，举止"，相关用法:
+			* behave oneself 循规蹈矩，守规矩
+			* behave well 行为表现良好
+				* Behave yourself, or you will be punished. 规矩一点，否则你会被处罚的
+				* Tom behave well in school. Tom在校行为表现良好
+		* worse副词，表示"更坏地" badly的比较级
+			* worst副词，表示"最坏地"  badly最高级
+				* She dances badly.
+				* I dance worse than she. 我的舞跳得比她更糟
+				* Peter dances worst of the three boys.
+			* better 较好地  well比较级
+				* best 最好地  well最高级 	
+					* She sings well.
+					* I sing better than she.
+					* Mary sings best of the three girls. 
+			
+**Sentences**
+
+	* Can I take a picture with the lion, Dad?
+		* Can I take a picture of the monkey, Mom?
+		* Excuse me. Can you take a picture for us?
+	* Are you ready?
+		* Are you ready to go? 你准备好要走了吗
+		* Are you ready for lunch?  你准备好吃午餐了吗
+	* Lions are beautiful, aren't they?
+		* Bill can't speak Japanese, can he?
+		* May goes to bed late, doesn't she? 小梅都很晚睡，对不对
+		* Stop talking, will you? 别讲话了，好吗
+		* Let's take a break, shall we?  咱们休息一下吧，好不好
+	* Take a look/Have a look at that elephant. 看那头大象
+	* Are you ready? We're all set to leave.
+	* Jane's coming to the party, isn't she?
+	* Tom can speak English, can't he?
+	* Thomas and James work for you, do they?
+	* Let's go home now, shall we?
+	* Leave him alone, will you?
+	* She sings worse than her sister.
+	* Peter likes to take pictures of people.
+	
+
+**Dialog**
+
+	- Are lions an endangered s___, Dad?
+	- They s___ are.
+	- How come? They're "king of the beasts", a___ they?
+	- Yes. But people kill them for their hide(兽皮).
+	- That's bad. P___ lions.
+	- Sometimes man really b___ worse than animals.
+	- They sure do. Let's go home, s___ we? I don't feel well suddenly.
+	- Okay. I'm r___. Let's go. 
+	                 
+
 ### Grammar
 
 **1. 基本句型**
