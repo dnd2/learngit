@@ -1881,6 +1881,540 @@ Note:
 	- Just this big one o__ here.
 	- I see.
 
+### Unit Twenty Four - At the Airport II
+
+* Please fill out these tags and attach them to your suitcases. Then put them on the scale.
+* OK.
+* I'm afraid your luggage is overweight. You'll have to pay an excess baggage charge.
+* How much will that be?
+* Le me see -- US $10.
+* That's not too bad.
+
+* Here are your tickets. The baggage claim stubs are attached to them.
+* Thank you.
+* And here is your boarding pass. You board at Gate 12.
+* OK. Is that all?
+* No. Please wait here till your luggage goes through the X - ray machine.
+* OK.
+* Have a nice flight.
+* Thank you.
+
+Note:
+
+	* baggage claim stub 提领行李的存根
+	* boarding pass 登记证
+	* X-ray machine X光机
+	* Please fill out these tags and attach them to your suitcases.
+		* fill out... 填写... = fill in
+			* Please fill out this form and give it to me.
+		* attach 表示"缚，系、固定"，常与介词to连用
+			* attach A to B 把A系在/到B上
+				* He attaches the string to his kite. 他把绳子系在风筝上
+	* I'm afraid your luggage is overweight.
+		* = I'm afraid that your luggage is overweight.
+		* I'm afraid + that + 主语 + verb  恐怕... (that常被省略)
+			* I'm afraid (that) it is going to rain this afternoon.
+		* overweight 表示"超重的"
+			* somebody + be overweight  某人体重过重
+				* Anyone can see that you're overweight, you should go on a diet. 任何人都看得出来你体重过重，你应该要节食了
+				* go on a diet 节食
+	* You'll have to pay an excess baggage charge. 你必须支付额外的行李超重费
+		* have to 和 must区别
+			* 两者都可译为"必须", have to 含有被勉强而不得不的意味。而must则除此意之外，还有道德上不得不然的意味
+				* you have to/must do this work whether you like it or not. 不管你喜不喜欢，你都必须做这个工作
+				* We must love our country. 我们必须爱国         
+			* excess baggage charge 超重行李费
+	* How much will that be? 那要多少钱
+		* 购物时，不论你买多少东西，汇总后得到的价钱，总额是一个整字，故代名词用that
+			- How much will that be?  一共多少钱
+			- That will be 50 dollars in all. 总共是50元       
+	* Let me see -- US $10
+		* Let me see或Let's see 之后常接破折号，表示停顿之意，说话者此时可能在看，计算或思考等
+			- How long are you going to stay here?
+			- Let me see/Let's see --- five days, I think. 让我看看--我想是5天吧
+	* That's not too bad 那还不算太糟
+		* That's too bad = What a shame! 太可惜了
+			- How much money have you lost?
+			- Only five dollars.
+			- That's not too bad, is it?
+			- I'm afraid I can't go to your party tonight.
+			- Oh, that's too bad/what a shame!  
+	* Here are your tickets. The baggage claim stubs are attached to them.
+		* Here is + 单数名词   这里是...
+		* Here are + 复数名词  这里是...
+			- Here is a little gift for you. 这是送你的一份小礼物
+			- Oh, thank you so much!  哦，真是太感谢了
+			* Here are the cookies I like. 这些是我所喜欢的饼干 
+		* baggage claim stub 指"提领行李的存根"，此处claim为名词，意为"(对某事物的)要求权，所以权,索取"  
+			* Where can I claim my baggage? 我要去哪儿提领我的行李呢
+	* And here is your boarding pass. You board at Gate 12.
+		* = And here is your boarding pass. You board at Gate Number 12.
+			* boarding pass 登机牌
+			* board v. 表示"登上(飞机、火车、巴士、轮船等交通工具)"         * Flight 251 for Singapore is now boarding at Gate 10.  飞往新加坡的251次班机正在10号门登机
+				* Passenger should board the train now. 乘客们现在该上火车了
+	* Is that all? 就这样吗
+		- Your mother wants me to tell you that you have to go home before 10 o'clock.
+		- Is that all?
+		- Please buy me a paper, a beer and a pack of cigarettes. 
+		- Is that all?
+	* Please wait here till your luggage goes through the X-ray machine.
+		* till = until 可作连接词，之后接主语和动词，也可作介词之后接名词作宾语
+			* They will not leave till/until the sun goes down. 他们直到太阳下山才会离开
+			* I'll stay here till/until Friday. 我将一直待到这个礼拜五
+		* go through... 通过
+			* She is afraid to go through dark alleys at night.
+	* Have a nice flight.
+		* = May you have a nice flight.
+		* = I hope (that) you (may) have a nice flight. 祝你飞行愉快    
+		
+**Sentences**
+
+	* I'm afraid your luggage is overweight.
+	* I'm afraid I have to leave now.
+	* You have to/must finish the job by twelve o'clock. 你必须在12点前完成这项工作
+	* That's too bad!/What a shame!
+	* Here are your tickets./Here is your book.
+	* You board at Gate 12/Gate Number 12.
+	* Please wait here till/until your luggage goes through the X-ray machine.
+	* Have a nice flight./May you have a nice flight/I hope that you may have a nice flight.
+	* To apply for a driver's license, you must fill out this application form.
+	* Please attach this tag to your luggage.
+	* I'm afraid that I won't be able to get up on time.
+	* Parents must take care of their children.
+	* Bill has to play very well to win the games.
+	* Let's see --- I think I have enough money for lunch.
+	* I have to pay US $10. Is that all?
+	* My grandfather's health is not too bad
+	 
+**Dialog**
+
+	- Please put your luggage on the s___. Wow! I'm afraid they're too heavy. You've got to pay an excess baggage c___.
+	- How much will t___ be?
+	- Let me s___ --- US $20.
+	- Here you are.
+	- Here are your baggage c___ stubs and your boarding p___.
+	- So I should go t___ Gate 5.
+	- That's right. Have a nice f___.
+		          
+### Unit Twenty Five - At the post office
+
+* I'd like to register this letter, please.
+* Where to?
+* Los Angeles.
+* OK. Let me weigh it. That'll be three dollars, please.
+* Here you are. Do I have to fill out a form?
+* No. Just give me your name, address and telephone number.
+
+* I'd like to send this by air mail, please.
+* Is it birthday card?
+* Yes. Why do you ask?
+* Cards are cheaper than letters.
+* Oh! Really?
+* You can't seal the envelope, though.
+* OK. How much for the stamps?
+* Two dollars.
+
+Note:
+
+	* at the post office  在邮局
+	* in the post office  在邮局里面
+		* at和in的区别
+			* at 表示在某
+			* 栋建筑物的里面或外面并不一定，而用in时则强调是在建筑物里面  
+				* I'll meet you at the station. 我会在车站和你碰面
+				* I'll meet you in the station. 我会在车站里面和你碰面
+	* I'd like to register this letter, please. 麻烦你，我想用挂号寄这封信
+		* register the letter 寄挂号信
+			- Do you want to register this letter?
+			- Yes, please.
+	* Where to?
+		* = Where do you want to send this letter?
+		* Where to? 是口语上的简介问句，通常是Where are you going? (你要去哪里)的意思，但此处表示"你要把信寄到哪儿"
+		* Where are you going? 不可以说成 Where are you going to?, 因为where是副词，修饰going，不能作to的宾语   
+			- I'm getting out of here. 我要离开这里
+			- Where to? / Where are you going? 去哪儿
+			- Out for some fresh air.  出去呼吸些新鲜空气
+	* Let me weigh it.
+		* Let + somebody + verb 让某人...
+			* Let him do it alone. 让他自己一个人做
+		* weigh 表示"称...的重量"
+			* Do you often weigh yourself? 你常称体重么
+	* That'll be three dollars, please.
+		* That'll be + money  是/要...(钱)
+			- How much is it?
+			- That'll be twenty dollars. 
+		* please 表示"请"，是客气的里面用词，可置于句首，句中，句尾
+			* Sit down, please = Please sit down.
+			* Open the door, please = Please open the door
+			* Would you please do me a favor?
+				* would you please + verb 可不可以请你...?
+		* Do I have to fill out a form?
+			* fill out a form = fill in a form
+				* Please fill out/in the form in detail.
+	* I'd like to send this by air mail, please.
+		* by air mail  寄空运
+		* by sea mail  寄海运
+		* by regular mail 寄平信
+		* by registered mail 寄挂号
+		* by special delivery = by express delivery  寄即时专送
+			* It's cheaper to send a package by sea mail than by air mail.
+			* I want to send the letter by special delivery. 
+			* = I want to send the letter by express delivery.
+		* mail 作名词时表示"各种邮件的总称(包括信及包裹)"，为不可数名词，作动词时表示"邮寄"
+			* mail a letter 寄一封信
+			* = send a letter
+			* = post a letter
+			* I usually receive many mails every day. (X)
+			* -> I usually receive a lot of mail every day.
+			* Please mail/send/post the letter for me.          
+	* You can't seal the envelope, though.
+		* seal 动词表示"(密)封"
+			* Seal the letter before you mail it. 寄信前要把信封好
+		* though 有以下2种重要用法:
+			* 作副词，表示"不过，然而"，使用时通常置于句尾，前面加逗号
+				- Can I borrow your bike?
+				- Yes, you can. Don't break it, though.
+			* 作连接词，表示"虽然"，通常置于句首。 需注意: 中文虽有"虽然...但是..."的用法，但英文中没有此类句型用法，因为though和but都是连接词，英文中，一句中只能有一个连接词，故两者不可同时用。
+				* Though he is nice, I don't like him.
+				* = He is nice, but I don't like him.
+				* Because he is nice, I like him.
+				* = He is nice, so I like him.
+
+**Sentences**
+
+	* I'll meet you at the restaurant
+	* I'll meet you in the restaurant
+	* Let me weigh it/Let me help you
+	* Would you please do me a favor/open the door for me?
+	* I'd like to send this by air mail/sea mail/regular mail/registered mail/special delivery, please.
+	* Though he is rich, he is very stingy.
+	* He is rich, but he is very stingy
+	* Because I am busy, I can't go with you
+	* I am busy, so I can't go with you.
+	* 
+	* Would you please carry this heavy box for me?
+	* Do you have much ___ every day?
+	* If you're going to the post office, can you post this letter for me?
+	* This bike is cheaper than that one.
+	* Though he is old, he is very healthy.
+	* Because Tom is kind, he has many friends.
+	* Jack is handsome, so Mary doesn't like him.	             
+**Dialog**
+
+	- I'd like to send this letter b___ air mail, please.
+	- I'll have to w___ it.
+	- Okay. H___ much is it?
+	- Thirty US. Would you like to r___ the letter?
+	- But regular mail is c___, isn't it?
+	- Of course. It's safer, t___
+	- But it'll be more expensive, right?
+	- Okay I understand. T___ will be US $30, please.      
+
+# Unit Twenty Six - At the doctor's
+
+* Doctor, I think I have the flu.
+* Do you have a cough, too?
+* No, not really.
+* Do you have a sore throat?
+* A little. But I have a bit of a fever.
+* OK. let me have a look.
+
+* Open your mouth and say, "Ah..."
+* Ah...
+* Yes. it's quite serious. I think you need a shot.
+* Is it going to hurt?
+* Don't worry. It'll soon be over.
+* Ouch!
+* OK. It's done. Also, take these pills 3 times a day after meals.
+* OK. Thanks, doctor. Bye.
+
+Notes
+
+	* at the doctor's = at the doctor's office  在医生诊疗室
+	* Doctor, I think (that) I have the flu.
+		* think后省略了that。 本句也可用: I'm afraid that I have the flu. (医生，我恐怕是得了流行感冒) 本来自己是否得了流行感冒，自己应该很清楚，但如果直接说"Doctor, I have the flu" 则未免太过武断，对医生来说也不太尊重，故用，I think或I'm afraid来缓和语气。
+			* It is going to rain today. 今天会下雨 比较下列句子:
+			* I think (that) it is going to rain today. 我想今天会下雨
+			* I'm afraid that it is going to rain today. 恐怕今天会下雨
+		* have the flu flu之前需加定冠词the，而不能用a
+			* John is not well because he has the flu. John因得了流行感冒，所以身体不舒服  
+			* have a cold = catch a cold = catch cold 得了感冒
+				* Pull　on your coat, or you will catch a cold.
+	* Do you have a cough, too?
+		* have a cough 咳嗽, couch此处是名词但也可作动词用
+			* My father has a bad cough today. 我父亲今天咳嗽很厉害
+			* Cover your mough when you cough. 咳嗽的时候要把嘴捂住
+	* No. Not really. 不，算不上真的咳嗽
+		- You swim a lot, you must enjoy swimming. 你经常游泳，你一定很喜欢游泳
+		- No. Not really. I swim for my health.  不，算不上真的喜欢，只是为了健康而游
+	* Do you have a sore throat? 喉咙会痛么
+		* have a sore throat  喉咙痛
+		* sore形容词表示"疼痛的"， 指发炎或受伤部位一碰就痛的感觉，此外，sore还可表示肌肉方面的"酸痛的"， 如: have a sore arm (手臂酸痛)、have a sore leg (腿部酸痛); ache 也可表示"疼痛",常和其他字并用形成复合字，但ache是指某部位持续疼痛的感觉
+			* have a headache   头痛
+			* have a toothache  牙痛 
+			* have a stomachache  胃痛
+				* Don't talk too much when you have a sore throat/toothache
+	* A little. But I have a bit of a fever.
+		* = I have a little of a sore throat. But I have a bit of fever. 一点点。 但我有一点发烧
+		* a bit of...  一点点...
+		* = a little bit of...
+	    * = a little of...
+	    	* Let me give you a bit of advice. 让我来给你一点建议吧
+		    * have a fever 发烧
+		 	  * The child is having a high fever. 这孩子正在发高烧
+	* Let me have a look. 让我看看
+		* have a look at + noun  看一看...
+			* May I have a look at your picture?                 
+	* It's quite serious. I think you need a shot.
+		* quite, fairly, rather(相当地), very(很), extremely(极，非常)等均为程度副词，在句中加强形容词或副词的词意。 所谓副词是可修饰动词、形容词和副词的词类，所谓形容词可修饰名词和代词的词类。
+			* He studies hard.
+			* She looks very beautiful. 
+			* She is beautiful.  
+		* 按程度强弱排列以上副词为： fairly(最弱), quite, rather, very, extremely 
+			* It is fairly/quite/rather hot today. 今天相当热 -- 但不是很热
+			* The cart runs very fast. 这辆车跑起来很快
+			* I feel extremely tired. 我觉得疲倦极了
+		* shot表示"注射、打针"，是口语用法，正式的词为injection
+			* give + sb. + a shot 给某人打针
+			* = give + sb. + an injection
+			* get/take a shot (接受)打针
+			* = get/take a injection
+				* The nurse will give you a shot. 护士会替你打针
+				* Most children are afraid to take the injection. 大部分小孩都害怕打针
+	* Is it going to hurt? 打针会不会痛呢
+		* 本句为"It is going to hurt"变化而来的问句
+			* be going to + verb  将会...
+			* = will + verb
+				* It is going to rain this afternoon.
+				* = It will rain this afternoon.
+				* I'm going to/will take a trip next week.      
+			* hurt之后无宾语时译为"疼痛"，有宾语时译为"伤害"
+				* My fingers hurt. 我的手指痛
+				* Nobody will hurt you. 没有人会伤害你
+	* Don't worry. It'll soon be over. 别担心，很快会结束的
+		* worry v. 担心
+		* worried adj. 担心的
+		* worry about... 担心... = be worried about...
+			- Oh, no. We'll miss the bus. We'll be late for school.
+			- Don't worry. We can take a taxi.
+			* We all worry about you very much.
+			* = We are all worried about you very much.
+	* Ouch! 
+		* 表示突入而来的疼痛而发出的叫声
+		* 其他常见的声音词有: 
+			* Wow! 表示惊叹、赞叹  
+			* Unoh! 呃喔！ 表示事情不妙
+			* Uh-huh! 嗯哼！ 表示赞同
+				- Ouch! My stomach hurts.
+				- You'd better go to a doctor.    
+				- Wow! What a beautiful girl!
+				- Don't forget you are married. 别忘记你已结婚了
+				- Johnny, stop drinking so much!
+				- Uh-oh! There she goes again.  呃喔！ 她又来了
+				- How can we get the money we need? 我们要如何得到所需的钱
+				- We can borrow it from the bank. 我们可以找银行借
+				- Uh-huh! Let's do that.  嗯哼！就这么办 
+	* OK. It's done.
+		* = OK. It is done.
+		* = OK. It is finished.
+		* done此处表示"做完的"等于finished
+			* Have you finished your job?
+			* Yes, it's done already.
+	* Also, take these pills 3 times a day after meals. 还有，饭后服用这些药丸，一天3次
+		* 表示"吃药"的动词需用take，"喝汤"的动词用eat，表示"喝饮料、咖啡、牛奶等"时用drink
+			* I really hate taking medicine. 我实在很讨厌吃药
+			* Don't make noises when you eat soup.
+			* I drink a cup of coffee every day.   
+		* 3 times a day
+			* 表示"次数、频率"的说法，英文中把次数或频率放在前面，后接时间
+				* Jack eats 4 meals a day.
+				* They work 5 days a week.
+				* The magazine is pulished once a month. 
+		* meal名词指"一餐、一顿饭"  
+			* She always has a small meal at lunch time. 她午餐时都吃的很少
+			* Don't read the newspaper at meals. 吃饭时不要看报纸
+			* My little sister likes to eat between meals. 我小妹喜欢吃零食     
+
+**Sentences**
+
+	* Doctor, I think I have the flu/a cold.
+	* Do you have a cough/sore throat/fever, too?
+	* It's quite/very/extremely serious.
+	* I think you need a shot/an injection.
+	* Is it going to hurt/rain? 会不会痛/下雨呢
+	* Peter isn't at work because he has the flu.
+	* The noise is giving me a headache.
+	* Tommy always makes noises when he eat soup.
+	* Can I have a look at your new watch?
+	* It's very dangerous to drive when it's snowning.
+	* If you get a shot, you'll get well very quickly.
+	* I'm worried about my father's health.
+	* It's done. I can stop working and go home now.
+
+**Dialog**
+
+	- Doctor, is it okay if I don't get a s___?
+	- Why? What are you w___ about?
+	- I think it will h___.
+	- It'll soon be o___.
+	- But can't I just t___ some pills?
+	- It will take q___ a long time to get well.
+	- It's alright.
+	- Here. Take these pills three t___ a day after meals.
+	- Thanks, doctor.
+
+
+### Unit Twenty Seven - At the zoo
+
+* Can I take a picture with the lion, Dad?
+* Sure. But don't go too near the cage.
+* I'll stand behind the railing.
+* OK. Are you ready? Say "Cheese!"
+* Cheese!
+* That's a good one.
+* Lions are beautiful, aren't they?
+* They sure are. After all, the lion is "king of the beasts."
+
+* Wow! Look at that elephant. It's gigantic!
+* It's sure is.
+* Can I feed it?
+* No. There's a no-feeding sign over there.
+* Poor elephant.
+* There aren't many elephants left in the world, are there?
+* People kill them for their tusks. Now they are an endangered species.
+* Man sometimes behaves worse than animals.
+
+Note
+
+	* Can I take a picture with the lion, Dad?
+		* take a picture with + sb./sth. 和某人/物拍照
+		* take a picture of + sb./sth. 拍某人/物的照片
+		* take a picture for + sb. 替某人(做)拍照(的工作)
+			* May I take a picture with you? 我可以和你拍一张照么
+			* I want to take a picture of these flowers. 我要拍一张这些花的照片
+			* Mister, can you take a picture for us? 先生，可以请你为我们拍一张照片么  
+	* But don't go too near the cage.
+		* = But don't go too close to the cage. 不过不要太靠近笼子
+		* 此处near是介词，即等于close to
+			* His house is near the school. = His house is close to the school.
+	* I'll stand behind the railing.
+		* There is a man sitting on the railing. 有一名男子坐在栏杆上
+	* Are you ready? Say "Cheese!"
+		* ready是形容词，表示"准备好的"，常见用法有:
+			* be ready to + verb  准备好要...
+			* be ready for + noun 为...准备妥当
+				* Are you ready to go home? 你准备好要回家了么
+				* They are ready for the final exams. 他们已为期末考试准备妥当  
+			* cheese 本是"乳酪、干酪"之意，此处表示照相时为取得笑容的用语，因为说cheese这个词时，嘴角向两边拉开，看起像在笑一样，因此"Say cheese!" 表示要被照相的人微笑，即像我们照相时所说"来，笑一个"
+	* That's a good one. 这张照得很棒
+		* 表示赞许的话，字面意思为"这个很不错"，通常在他人说了一句好词或好笑的笑话，我们可以说"That's a good one"以示嘉许之意，但依上下文判断，此处指照相者拍的效果不错，洗出来一定是一张很棒的照片。
+	* Lions are beautiful, aren't they?
+		* 反问句的原则
+			* 叙述句为肯定时，接否定反问句
+			* 叙述句为否定时，接肯定反问句
+			* 此外，反问句的主语一定为代词
+			* 叙述句有be动词，反问句沿用be动词，此处即属于这种用法。 Lions are beautiful, aren't they?
+				* He is nice, isn't he?   
+				* You are not a student, are you?
+			* 叙述句有助动词will, can, have等，反问句沿用该助动词
+				* She can dance, can't she?
+				* You haven't done it, have you? 你还没有做那件事，不是吗
+			* 叙述句只有动词，反问句则使用助动词do, does
+				* He gets up early, doesn't he?
+				* You like movies, don't you?
+			* 叙述句为命令句时，反问句一律用will you
+				* Come over here, will you?
+				* Stop smoking, will you?
+			* 叙述句为Let's...开头，反问句一律用shall we
+				* Let's go home, shall we?
+				* Let之后若接其他的人作宾语，则反问句要用will you
+					* Let him go, will you?
+					* Let me do it, will you?
+	* They sure are. After all, the lion is "king of the beasts".
+		* = They sure are beautiful. After all, the lion is "king of the beasts"
+		* 此处sure为副词，表示"当然，的确"，等于surely
+		* after all 主语 + 动词  毕竟, ...
+			- We can't give him too much work. 我们不能给他太多工作
+			- You're right. After all, he's just a new hand. 你说的对，毕竟，他只是个新手
+	* Wow! Look at that elephant. It's gigantic! 哇！看那头大象，好大喔！
+		* look at + noun 看一看...
+		* = take a look at + noun
+		* = have a look at + noun
+			* Look at that girl. Isn't she beautiful?
+			* = Take a look at that girl. Isn't she beautiful?
+			* = Have a look at that girl. Isn't she beautiful? 看那位女孩，是不是很漂亮   
+	* It sure is. = It sure is gigantic. 它的确是很大
+	* Can I feed it?
+		* feed动词，表示"喂食"
+			* John feeds his dog every day.
+	* Poor elephant.
+		* poor形容词，表示"可怜的"，也可以表示"贫穷的"
+			- Mommy, Tom is pulling my hair. 妈咪，tom拉我的头发
+			- Oh, poor girl. I'll tell him to stop.  噢，可怜的小女孩。 我会叫他不要再这样了
+			* The poor man has no money to buy food.
+	* There aren't many elephants left in the world, are there? 世界上所剩的大象不多了，不是吗
+		* 此处left由动词leave演变后来的形容词，表示"剩下来的"，使用时置于名词后
+			* I have no money left. 我没有剩下的钱
+	* People kill them for their tusks. Now they are an endangered species.
+		* tusk指"象、海象、野猪等动物的长牙"，而ivory指"象牙质料(材质)"之意
+			* An elephant has two tusks.
+			* The pipe is made of ivory. 这个烟斗是象牙材质做的 
+		* endangered species 频临绝种的动植物
+			* Tigers are one of the endangered species.
+			* species是单复数同形的名词，亦即可说one species, two species, many species等。 
+	* Man sometimes behaves worse that animals. 人类有时的行为连禽兽都不如
+		* behave动词，表示"行为，举止"，相关用法:
+			* behave oneself 循规蹈矩，守规矩
+			* behave well 行为表现良好
+				* Behave yourself, or you will be punished. 规矩一点，否则你会被处罚的
+				* Tom behave well in school. Tom在校行为表现良好
+		* worse副词，表示"更坏地" badly的比较级
+			* worst副词，表示"最坏地"  badly最高级
+				* She dances badly.
+				* I dance worse than she. 我的舞跳得比她更糟
+				* Peter dances worst of the three boys.
+			* better 较好地  well比较级
+				* best 最好地  well最高级 	
+					* She sings well.
+					* I sing better than she.
+					* Mary sings best of the three girls. 
+			
+**Sentences**
+
+	* Can I take a picture with the lion, Dad?
+		* Can I take a picture of the monkey, Mom?
+		* Excuse me. Can you take a picture for us?
+	* Are you ready?
+		* Are you ready to go? 你准备好要走了吗
+		* Are you ready for lunch?  你准备好吃午餐了吗
+	* Lions are beautiful, aren't they?
+		* Bill can't speak Japanese, can he?
+		* May goes to bed late, doesn't she? 小梅都很晚睡，对不对
+		* Stop talking, will you? 别讲话了，好吗
+		* Let's take a break, shall we?  咱们休息一下吧，好不好
+	* Take a look/Have a look at that elephant. 看那头大象
+	* Are you ready? We're all set to leave.
+	* Jane's coming to the party, isn't she?
+	* Tom can speak English, can't he?
+	* Thomas and James work for you, do they?
+	* Let's go home now, shall we?
+	* Leave him alone, will you?
+	* She sings worse than her sister.
+	* Peter likes to take pictures of people.
+	
+
+**Dialog**
+
+	- Are lions an endangered s___, Dad?
+	- They s___ are.
+	- How come? They're "king of the beasts", a___ they?
+	- Yes. But people kill them for their hide(兽皮).
+	- That's bad. P___ lions.
+	- Sometimes man really b___ worse than animals.
+	- They sure do. Let's go home, s___ we? I don't feel well suddenly.
+	- Okay. I'm r___. Let's go. 
+	                 
+
 ### Grammar
 
 **1. 基本句型**
