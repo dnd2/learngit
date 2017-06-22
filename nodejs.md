@@ -459,6 +459,17 @@ function createApplication() {
 
 - applicaton.js
 
+### body-parser [原文链接](https://juejin.im/post/59222c5d2f301e006b1616ae)
+
+作用: 对post请求的请求体进行解析。
+
+* 处理不同类型的请求体,如: text/plain, application/json, application/x-www-form-urlencoded etc.
+* 处理不同的编码，客户端请求不一定是utf-8，有可能是gbk等其他编码类型
+* 处理不同的压缩类型,如 gzip
+
+
+
+
 编码规范
 
 	* 回调惯例
@@ -474,3 +485,12 @@ function createApplication() {
 * 默认安装在C:\Users\hey\AppData\Roaming\npm下
 * 可以通过 npm get prefix 查看
 * 重新设置： npm set prefix D:\nodejs
+
+
+
+## Typescript
+
+### Interface
+
+
+

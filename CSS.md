@@ -287,3 +287,83 @@ em 是相对于父元素来设定字体尺寸大小的。 [em介绍](https://www
 
 rem 相对于根元素的字体大小单位。
 相关介绍: [web app变革之rem](https://isux.tencent.com/web-app-rem.html)	
+
+
+### 清除浮动
+
+由于浮动的特性，是元素不在占用原有空间，如果容器没有明确设定高度，则会按照普通元素高度设置，这样会影响其后元素的布局。
+
+1. 采用一个HTML标签，以及css的clear属性，来手工清理浮动 
+2. 采用伪类:after，动态建立一个块元素，设定 clear 属性，清理之前的浮动元素
+3. 建立 Block Formatting Contexts 来包含浮动元素，而以上两种方法就是清除浮动，跟包含概念还是不同的
+
+    * 如采用overflow ，非 visible 值(overflow:auto/overflow:hidden)
+    * 采用display:table/display:table-cell 等table系列属性将父元素变成 table 形式自动包含浮动元素
+    * float:left/float:right 方式将父元素同样浮动，就可以包含浮动内容
+
+4. 而在 IE 6/7 的标准文档模式中设置 “width/height/zoom” 等样式触发IE的layout（类似Block Formatting Contexts）来包含浮动元素 
+
+ **Examples** 
+
+ * clear:both 由于定义的清理浮动样式元素所在位置处于浮动元素之下，容器计算后的实际高度就包含了浮动元素。
+ * 使用伪元素:after清除 .div:after{display:block;content:'\020';clear:both}  
+    
+    * after 伪元素是在 CSS 2 规范内提出,IE 6/7 并不支持
+    * 在指定该伪元素元素内，所有子元素最后自动生成一个伪元素，并可以为这个伪元素设定样式
+    * :after{display:block;clear:both} 通过伪类创建一个块元素，也可用display:table
+    * content:'\020', 不使用content:'.'为了节省代码，如使用必须加上visibility:hidden;height:0，将.隐藏，而\020表示空白符的Unicode码 
+    * overflow使用
+        * overflow 样式值为 非 visilbe 时，实际上是创建了 CSS 2.1 规范定义的 Block Formatting Contexts。创建了它的元素，会重新计算其内部元素位置，从而获得确切高度。这样父容器也就包含了浮动元素高度。这个名词过于晦涩，在 CSS 3 草案中被变更为名词 Root Flow，顾名思义，是创建了一个新的根布局流，这个布局流是独立的，不影响其外部元素的。实际上，这个特性与 早期 IE 的 hasLayout 特性十分相似。
+        * 但是当定位子元素部分在父元素外面时，父元素就会对超出其外的子元素进行裁剪，而且CSS3中的box-shadow也会被影藏掉。
+        * 注意兼容问题：Block Formatting Contexts 概念是在 CSS 2.1 规范内被提出。因此 IE6/7 中并不被支持，这是由于之前的 IE 版本仅完全实现了 CSS 1 规范标准，以及一部分 CSS 2.0 规范。在 IE 7 中，overflow 值为非 visible 时，可以触发 hasLayout 特性。这同样使得 IE 7 同样可以使容器包含浮动元素。
+
+[浮动元素说明](http://kayosite.com/remove-floating-style-in-detail.html)  
+[Block Formatting Context](http://kayosite.com/block-formatting-contexts-in-detail.html)
+
+**overflow**
+
+* overflow:hidden并不隐藏所有溢出元素
+    * 拥有overflow:hidden的块元素的父元素不具有position:relative或absolute
+    * 内部溢出元素通过postion:absolute定位 
+* 根据css2.1规范关于overflow的描述
+    * This property specifies whether content of a block container element is clipped when it overflows the element's box. It affects the clipping of all of the element's content except any descendant elements (and their respective content and descendants) whose containing block is the viewport or an ancestor of the element. (此属性(overflow)规定，当一个块元素容器的内容溢出元素的盒模型边界时是否对其进行剪裁。它（此属性）影响被应用元素的所有内容的剪裁。但如果后代元素的包含块是整个视区（通常指浏览器内容可视区域）或者是该容器（定义了overflow的元素）的父级元素时，则不受影响)
+    * A descendant box is positioned absolutely, partly outside the box. Such boxes are not always clipped by the overflow property on their ancestors; specifically, they are not clipped by the overflow of any ancestor between themselves and their containing block。(一个绝对定位的后代块元素，部分位于容器之外。这样的元素是否剪裁并不总是取决于定义了overflow属性的祖先容器；尤其是不会被位于他们自身和他们的包含块之间的祖先容器的overflow属性剪裁)
+
+~~~html
+    <div class="position">
+        <h2>position box</h2>
+        <div class="overflow">
+            <h3>overflow box</h3>
+            <div class="static">
+                <p>This is static child element. This is static child element. This is static child element. This is static child element.</p><p>
+                </p><p>This is static child element. This is static child element. This is static child element. This is static child element.</p><p>
+            </p></div>
+            <div class="absolute">This is absolute child element. This is absolute child element. This is absolute child element. This is absolute child element.</div>
+        </div>
+    </div>
+~~~   
+
+~~~css
+        h2,h3 {margin:0;padding:0.8em 0;}
+        p {margin:0;pading:5px 10px;}
+        body {background:#000;color:#fff;}
+        .position {margin:100px auto;width:300px;background:#000;border:1px solid #fff;position:relative;#zoom:1;}
+        .overflow {width:100%;background:#f00;overflow:hidden;#zoom:1;}
+        .static {height:150px;width:450px;background:#00f;}
+        .absolute {position:absolute;width:350px;height:80px;top:150px;left:-100px;background:#0c0;}
+~~~ 
+
+**CSS样式层叠权重值**
+
+    * 参照CSS2规范 [Calculating a selector's specificity](https://www.w3.org/TR/CSS2/cascade.html#specificity)
+    * 选择器权重值的计算
+        * A：如果规则是写在标签的style属性中（内联样式），则A=1，否则，A=0. 对于内联样式，由于没有选择器，所以 B、C、D 的值都为 0，即 A=1, B=0, C=0, D=0（简写为 1,0,0,0，下同）
+        * B：计算该选择器中ID的数量。（例如，#header 这样的选择器，计算为 0, 1, 0, 0）
+        * C：计算该选择器中伪类及其它属性的数量（包括类选择器、属性选择器等，不包括伪元素）。 （例如， .logo[id='site-logo'] 这样的选择器，计算为 0, 0, 2, 0）
+        * D：计算该选择器中伪元素及标签的数量。（例如，p:first-letter 这样的选择器，计算为0, 0, 0, 2） 
+    * !important
+        * !important 用于单独指定某条样式中的单个属性。对于被指定的属性，有 !important 指定的权重值大于所有未用 !important 指定的规则  
+    * 关于inherit
+        * 继承而来的属性值，权重永远低于明确指定到元素的定义。只有当一个元素的某个属性没有被直接指定时，才会继承父级元素的值
+
+    [原文链接](https://ofcss.com/2011/05/26/css-cascade-specificity.html)        
