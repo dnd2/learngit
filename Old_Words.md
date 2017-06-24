@@ -2413,7 +2413,142 @@ Note
 	- Sometimes man really b___ worse than animals.
 	- They sure do. Let's go home, s___ we? I don't feel well suddenly.
 	- Okay. I'm r___. Let's go. 
+
+
+### Unit Twenty Eight - Going to the Moives
+
+* Can I have two tickets for Titanic, please?
+* For what time?
+* The 9:30 p.m. show, please.
+* I'm afraid it's full. How about the midnight show?
+* That'll be fine. Can I have our seats up front, please?
+* Sure. That'll be twenty dollars, please.
+
+* Where were you last night?
+* I was at the movies. I went to see Titanic.
+* How was it?
+* It was fantastic. The main actor and actress really did a good job.
+* Sounds like it was a very good movie.
+* You can say that again!
 	                 
+
+Note:
+
+	* show noun (电影、电视、戏剧、广播的)演出节目
+		* midnight show 午夜场
+	* go to the movies 看电影
+		* movies必须用复数，但表示"看一场电影"可用
+			* watch a movie = see a movie = take in a movie
+				* He seldom goes to the moives.
+				* We are going to watch/see/take in a moive tonight.  今晚我们要去看场电影
+	* Can I have two tickets for Titanic, please?
+		* Molly has two free tickets for the concert. 茉莉有2张免费的演唱会门票
+	* For what time?
+		* = For what time would you like the tickets? (什么时间的/你要什么时间的票)
+	* The 9:30 p.m. show, please.
+		* = I'd like to have tickets for the 9:30 p.m. show, please.
+			* We will go to see the 3:00 p.m. show (of the movie) = We will go to see the movie that is shown at 3:00 p.m. 我们将去看下午3点放映的那场电影
+	* I'm afraid it's full. How about the midnight show?
+		* = I'm afraid that the tickets are sold out. What about the midnight show?
+		* full adj. 表示"满的"
+			* be full of ... 充满...
+				* The house is full of people. 房子里挤满了人
+			* be sold out 卖光/完
+				* The tickets for the movie have been sold out.
+			* How about + 名词/动名词?
+				* = What about + 名词/动名词
+					- How/What about another piece of pizza? 再来块比萨饼如何
+					- No, thanks. I have had enough. 不，谢了，我已经饱了
+					* How about/What about going to the movies tonight?  今晚去看电影如何
+	* Can I have our seats up front, please? 请给我前排的座位好吗
+		* Can I have a seat... please? 请给我...的座位好吗
+			* Can I have a seat <in the back>, please? 请给我后面的座位好吗
+			* Can I have a seat <near/by the aisle>, please? 请给我靠走道的座位好吗
+			* Can I have a seat <towards the center>, please  请给我靠中间的座位好吗         
+			* Can I have a seat <on the left/right side>, please  请给我靠左/右边的座位好吗
+	* That'll be twenty dollars, please. 麻烦你总共是20美元
+		* That'll be + money   一共是...(钱)
+		* = That'll be + money + in total
+		* = All this comes to + money      
+			- How much do I owe you? 我要付你多少钱
+			- That'll be 50 dollars. 一共50美元
+				- = That'll be 50 dollars in total.
+				- = All this comes to 50 dollars.   
+	* 其他和电影有关的用语
+		* When will the new moive/film be on?  这部新片何时上映
+		* Let me treat you to a movie, OK? 我请你去看电影，去不去？
+		* Is Titanic showing yet?  Titanic上映了吗
+		* That movie is a rerun, that's why it's cheaper. 那部电影是二轮片，所以比较便宜
+			* rerun n. 重播的影片/节目
+	* Where were you last night?
+		* 过去式表示过去时间所发生的事，中英文过去时差别:
+			* 中文表示过去时间，动词不变
+			* 英文动词有词性变化    
+		* 过去式使用时机
+			* 过去式表示过去发生的事、动作或状态，通常和过去时间并用
+				* I go to school every day.
+				* I went to school yesterday
+	* I was at the movies.
+		* be at the movies 在看电影
+			* They are probably at the movies now. 他们现在可能在看电影
+	* It was fantastic.
+		* = It was great.
+		* = It was wonderful 它很棒
+			- How was the party last night?
+			- It was fantastic, everyone had a great time.     
+	* The main actor and actress really did a good job.
+		* main actor = lead actor 男主角
+		* main actress = lead actress 女主角
+			* Harrison Ford is the main actor in the movie. 哈里逊 - 福特是这部影片的男主角
+		* do a good job = do (very) well
+			* He did a good job in the speech contest.
+			* = He did very well in the speech contest. 他在演讲比赛中表现优异
+	* Sounds like it was a very good movie.
+		* Sounds like + subject + verb  听起来好像...
+		* 本句由"It sounds like + subject + verb"省略而来
+			- What do you think of the singer's voice? 你觉得这位歌手的声音如何 
+			- Not very good. Sounds like he has a cold. 不太好，听起来好像感冒了
+		* 就语法而言，sound like... 中的like为介词，之后只能接名词作宾语，不能接主语和动词；若要接主语和动词，则需改用"sound as if" 听起来仿佛...，因为as if才是连接词。 但现代英语中，已把like既视为介词后接名词作宾语，又视为连接词后接主语和动词。
+			* It sounds like a good idea.
+			* He sounds as if he knows everything about it. = He sounds like he knows everything about it. 听他的口气仿佛他对这件事知道得一清二楚
+	* You can say that again! 你说的一点没错
+		* 本句为赞同他人意见的用语
+			- Mary is very beautiful.
+			- You can say that again!
+			 
+**Sentences**
+
+	* We are going to watch/see/take in a movie tonight.
+	* I'm afraid (that) it's full.
+	* I'm afraid (that) the tickets are sold out.
+	* Can I have a seat up front/in the back/by the aisle/towards the center/on the left side, please? 
+	* That'll be twenty dollars, please.
+	* That'll be twenty dollars in total, please.
+	* All this comes to twenty dollars, please.
+	* Where were you/were they/was she last night?
+	* It was fantastic/great/wonderful.
+	
+	* I'm bored. Let's go ___ in a movie tonight.
+	* The seven o'clock show is sold ___. I'm afraid.
+	* When I go to the movies, I like to sit in the ___.
+	* The room is ___ of noisy kids.
+	* Jack ___ very well on the test.
+	* Wendy sings as ___ she has something in her throat.
+	* Sounds ___ nobody is interested in going to the park.
+	* I ___ a cold last week and I'm still feeling bad.
+
+**Dialog**
+
+	- Where's Sue? I thought she was g___ to the movies with me.
+	- She's a___ the movies.
+	- Whom did she go with?
+	- She w___ with Uncle John.
+	- Which movie did they go to s___?
+	- I think Uncle John t___ her to see a A Bug's Life.
+	- That's a great movie.
+	- You can s___ that again!
+	- Let's go see the ten o'clock s___.
+	- Sure. Why not?		 			              
 
 ### Grammar
 
