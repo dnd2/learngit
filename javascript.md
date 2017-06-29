@@ -1425,3 +1425,103 @@ console.log('Is rect an instance of Sahpre', rect instanceof Shape);
 
 **解决jQuery重复绑定事件**
 [案例](http://bookshadow.com/weblog/2014/08/21/jquery-duplicate-bind-demo-and-solution/)
+
+**位运算**
+
+~~~javascript
+// 乘2的幂 除2的幂
+console.log(63 >> 1); // 31
+console.log(1 << 4); // 16
+
+
+// 判断奇偶  
+var a = 10;
+console.log(a & 1); // 0偶 1奇
+
+// 小数向下取整
+var b = 1.25
+  , c = -1.25;
+
+console.log(b | 0); // 1
+console.log(~~b); // 1
+console.log(b << 0); // 1
+console.log(b >> 0); // 1
+
+console.log(c | 0); // -1
+console.log(~~c); // -1
+console.log(c << 0); // -1
+console.log(c >> 0); // -1
+
+
+// 交换数字
+var a = 10, b = 20;
+a = a ^ b;
+b = a ^ b;
+a = a ^ b;
+console.log(a, b); // 20 10
+
+
+// 正负转换
+var a = 10, b = -5;
+console.log(~a + 1); // -10
+console.log(~b + 1); // 5
+console.log((a ^ -1) + 1); // -10
+console.log((b ^ -1) + 1); // -5
+
+// 模2的幂
+var a = 153;
+console.log(a % 16); // 9
+console.log(a & (1 << 4) - 1); // 9
+
+
+// 判断两数符号是否相同 （注意有0的情况）
+var sign = a * b > 0;
+var sign = (a ^ b) > 0;
+
+
+// 取绝对值
+// 写法1
+i = x < 0 ? -x : x;
+// 写法2
+i = (x ^ (x >> 31)) - (x >> 31);
+// 写法3
+i= x ^ ( ~(x >> 31) + 1) + (x >> 31);
+
+
+// 判断是不是2的幂
+var isPowerOfTwo = function(n) {
+  return (!(n & (n - 1)) && n > 0);
+};
+
+// 枚举集合子集 枚举出一个集合的子集。设原集合为mask，则下面的代码就可以列出它的所有子集：
+var mask = 5; // 1101
+for (i = mask; i; i = (i - 1) & mask) {
+  console.log(i); // 5 4 1
+}
+~~~
+
+
+**call比apply方法更快**
+
+~~~javascript
+function work(a, b, c) {}
+
+var a = [1, 2, 3];
+
+for (var j = 0; j < 5; j++) {
+  console.time('apply');
+  for (var i = 0; i < 1000000; i++) {
+    work.apply(this, a);
+  }
+  console.timeEnd('apply');
+
+  console.time('call');
+  for (var i = 0; i < 1000000; i++) {
+    work.call(this, 1, 2, 3);
+  }
+  console.timeEnd('call');
+}
+~~~
+
+原因在与.apply在运行前要对作为参数的数组进行一系列检验和深拷贝，.call则没有这些步骤。参考ecma规范[apply方法](http://yanhaijing.com/es5/#322)
+

@@ -366,4 +366,122 @@ rem 相对于根元素的字体大小单位。
     * 关于inherit
         * 继承而来的属性值，权重永远低于明确指定到元素的定义。只有当一个元素的某个属性没有被直接指定时，才会继承父级元素的值
 
-    [原文链接](https://ofcss.com/2011/05/26/css-cascade-specificity.html)        
+    [原文链接](https://ofcss.com/2011/05/26/css-cascade-specificity.html)   
+
+ **line-height**
+
+ line-height被用来控制行与行之间垂直距离。行高指的是文本行的基线间的距离，但是文本之间的空白距离不仅仅是行高决定的，同时也受字号的影响。
+
+行高指的是文本行的基线间的距离。而基线（Base line），指的是一行字横排时下沿的基础线，基线并不是汉字的下端沿，而是英文字母x的下 端沿，同时还有文字的顶线（Top line）、中线（Middle line）和底线（Bottom line），用以确定文字行的位置
+ ![文字的基线](http://files.jb51.net/file_images/article/201408/201408022334032.gif)   
+
+1.1 行高与字体尺寸的差称为行距
+
+![行高与行距](http://files.jb51.net/file_images/article/201408/201408022334033.gif)
+
+* 内容区域: 一行中的每个元素都有一个内容区域，它是由字体尺寸决定的
+
+![内容区域](http://files.jb51.net/file_images/article/201408/201408022334034.gif)
+
+* 行内元素会生成一个行内框（inline box），行内框只是一个概念，它无法显示出来，但是它又确实存在。在没有其他因素影响的时候，行内框等于内容区域，而设定行高则可以增加或者减少行内框的高度，即：将行距的值（行高-字体尺寸）除以2，分别增加到内容区域的上下两边
+![行内框与行高](http://files.jb51.net/file_images/article/201408/201408022334035.gif)
+
+* 由于行高可以应用在任何元素上，因此同一行内的若干元素可能有不同的行高和行内框高，例如有如下代码
+~~~html
+<p style=”line-height:20px;”>行高20px。<strong style=”line-height:50px;”> 行高50px。</strong><span style=”line-height:30px;”>行高30px。</span></p>
+~~~
+
+![行内框与行框](http://files.jb51.net/file_images/article/201408/201408022334036.gif)
+
+* 这里又有一个新的概念——行框（line box）。同行内框类似，行框是指本行的一个虚拟的矩形框，其高度等于本行内所有元素中行高最大的值。因此，当有多行内容时，每行都会有自己的行框，
+![多行内容的行框](http://files.jb51.net/file_images/article/201408/201408022334037.gif)
+
+注意：行框的高度只同本行内元素的行高有关，而和父元素的高度（height）无关
+
+1.2 行高的计算与继承
+
+以em、ex和百分比为单位的行高，其基数是元素本身的字体尺寸。例如有代码如下：
+
+~~~html
+<p style="font-size:20px;line-height:2em;">字高20px，行高2em。</p> <p style="font-size:30px;line-height:2em;">字高30px，行高2em。</p>
+~~~
+
+![行高的计算](http://files.jb51.net/file_images/article/201408/201408022334038.gif)
+
+* 行高可以设定得比字体高度小，此时多行的文字将叠加到一起
+~~~html
+<style>p { font-size : 20px; line-height :10px; }</style>
+<p>字高20px，行高10px。此时多行的文字将叠加到一起。</p>
+~~~
+
+![比字体高度小的行高](http://files.jb51.net/file_images/article/201408/201408022334039.gif)
+
+* 行高是可继承的，但是继承的是计算值，例如有如下代码：
+~~~html
+<style>p { font-size :20px; line-height : 2em; }
+p span { font-size : 30px; }</style>
+
+<p>字高20px。<span>字高30px。</span></p>
+~~~
+
+![行高的不同表现](http://files.jb51.net/file_images/article/201408/2014080223340310.gif)
+
+~~~html
+<!--由于继承的是计算值，因此当元素内的文字字体尺寸不一样的时候，如果设定固定的行高很可能造成字体的重叠，例如有如下代码，其显示如图7-26所示。-->
+
+<style>p { font-size : 20px; line-height : 1em; }
+p span { font-size : 30px; }</style>
+
+<p>字高20px，行高1em，当文本为多行时可能会发生文字重叠的现象。<span>字高30px。</span></p>
+~~~
+
+* 为了避免这种情况，可以为每个元素单独定义行高，但是这样很烦琐，因此可以定义一个没有单位的实数值作为缩放因子来统一控制行高，缩放因子是直接继承的，而不是继承计算值。例如修改上例中的行高为：p { line-height : 1; } 则上例中的XHTML代码显示：
+![缩放因子对行高的影响](http://files.jb51.net/file_images/article/201408/2014080223340312.gif)
+
+* 当内容中含有图片的时候，如果图片的高度大于行高，则含有图片行的行框将被撑开到图片的高度
+
+![含有图片的行](http://files.jb51.net/file_images/article/201408/2014080223340313.gif)
+
+注意：图片虽然撑开了行框，但是不会影响行高，因此也不会影响到基于行高来计算的其他属性。
+提示：当行内含有图片的时候，图片和文字的垂直对齐方式默认是基线对齐
+
+1.3 浏览器的差别与错误
+
+* 浏览器在显示的时候往往会有自己的表现形式，例如在Opera内，行高将按照CSS定义的将行距除以2增加到内容区域的上下两边，而IE和Firefox则不是完全平分
+
+![不同浏览器对行高的显示](http://files.jb51.net/file_images/article/201408/2014080223340314.gif)
+
+* 相差的1至2个像素在实际显示中一般不会有太大的影响，因此可以忽略不计。比较严重的错误是IE 6.0对于含有图片或者表单元等可替换行内元素的行高失效的问题，不过，在IE 7.0中已经修正了这个错误，但是其表现同其它浏览器也不相同。例如有如下代码
+
+~~~html
+<style>#lineHeight4 p { line-height : 60px; }
+#lineHeight4 fieldset{ border : 0; }</style>
+
+<div id=”lineHeight4″> 
+   <p>内容含有图片在[IE 6]内浏览line-height将失效。<img src=”../../img/ddcat_anim.gif” _fcksavedurl="”../../img/ddcat_anim.gif”" _fcksavedurl="”../../img/ddcat_anim.gif”" alt=”图片” width=”88″ height=”31″ /></p> 
+   <form id=”testForm” action=”#”> 
+        <fieldset> 
+            <p><label for=”test1″>表单元素</label>
+            <input type=”text” maxlength=”16″ value=”IE6内行高失效” /></p> </fieldset> 
+    </form> 
+</div>
+~~~
+
+![包含替换元素的行高在IE内失效](http://files.jb51.net/file_images/article/201408/2014080223340315.gif)
+
+IE 7.0中，将半行距分别加在了图片的上下，而由于图片默认是基线对齐，因此文字的基线下移了，这显然不符合CSS中的规定。
+对于IE 6.0中行高失效的问题，需要使用CSS Hack手段来针对IE 6.0设定替换元素的上下补白来修正。
+
+[原文](http://www.jb51.net/css/199172.html)
+
+
+web移动开发
+http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept
+
+blog:
+https://zhuanlan.zhihu.com/p/26141351
+articles:
+http://www.cnblogs.com/PeunZhang/archive/2013/01/30/2883464.html
+https://segmentfault.com/t/%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91/blogs?page=2
+框架
+http://www.cnblogs.com/fang-beny/p/5234272.html
