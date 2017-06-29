@@ -2413,8 +2413,274 @@ Note
 	- Sometimes man really b___ worse than animals.
 	- They sure do. Let's go home, s___ we? I don't feel well suddenly.
 	- Okay. I'm r___. Let's go. 
+
+
+### Unit Twenty Eight - Going to the Moives
+
+* Can I have two tickets for Titanic, please?
+* For what time?
+* The 9:30 p.m. show, please.
+* I'm afraid it's full. How about the midnight show?
+* That'll be fine. Can I have our seats up front, please?
+* Sure. That'll be twenty dollars, please.
+
+* Where were you last night?
+* I was at the movies. I went to see Titanic.
+* How was it?
+* It was fantastic. The main actor and actress really did a good job.
+* Sounds like it was a very good movie.
+* You can say that again!
 	                 
 
+Note:
+
+	* show noun (电影、电视、戏剧、广播的)演出节目
+		* midnight show 午夜场
+	* go to the movies 看电影
+		* movies必须用复数，但表示"看一场电影"可用
+			* watch a movie = see a movie = take in a movie
+				* He seldom goes to the moives.
+				* We are going to watch/see/take in a moive tonight.  今晚我们要去看场电影
+	* Can I have two tickets for Titanic, please?
+		* Molly has two free tickets for the concert. 茉莉有2张免费的演唱会门票
+	* For what time?
+		* = For what time would you like the tickets? (什么时间的/你要什么时间的票)
+	* The 9:30 p.m. show, please.
+		* = I'd like to have tickets for the 9:30 p.m. show, please.
+			* We will go to see the 3:00 p.m. show (of the movie) = We will go to see the movie that is shown at 3:00 p.m. 我们将去看下午3点放映的那场电影
+	* I'm afraid it's full. How about the midnight show?
+		* = I'm afraid that the tickets are sold out. What about the midnight show?
+		* full adj. 表示"满的"
+			* be full of ... 充满...
+				* The house is full of people. 房子里挤满了人
+			* be sold out 卖光/完
+				* The tickets for the movie have been sold out.
+			* How about + 名词/动名词?
+				* = What about + 名词/动名词
+					- How/What about another piece of pizza? 再来块比萨饼如何
+					- No, thanks. I have had enough. 不，谢了，我已经饱了
+					* How about/What about going to the movies tonight?  今晚去看电影如何
+	* Can I have our seats up front, please? 请给我前排的座位好吗
+		* Can I have a seat... please? 请给我...的座位好吗
+			* Can I have a seat <in the back>, please? 请给我后面的座位好吗
+			* Can I have a seat <near/by the aisle>, please? 请给我靠走道的座位好吗
+			* Can I have a seat <towards the center>, please  请给我靠中间的座位好吗         
+			* Can I have a seat <on the left/right side>, please  请给我靠左/右边的座位好吗
+	* That'll be twenty dollars, please. 麻烦你总共是20美元
+		* That'll be + money   一共是...(钱)
+		* = That'll be + money + in total
+		* = All this comes to + money      
+			- How much do I owe you? 我要付你多少钱
+			- That'll be 50 dollars. 一共50美元
+				- = That'll be 50 dollars in total.
+				- = All this comes to 50 dollars.   
+	* 其他和电影有关的用语
+		* When will the new moive/film be on?  这部新片何时上映
+		* Let me treat you to a movie, OK? 我请你去看电影，去不去？
+		* Is Titanic showing yet?  Titanic上映了吗
+		* That movie is a rerun, that's why it's cheaper. 那部电影是二轮片，所以比较便宜
+			* rerun n. 重播的影片/节目
+	* Where were you last night?
+		* 过去式表示过去时间所发生的事，中英文过去时差别:
+			* 中文表示过去时间，动词不变
+			* 英文动词有词性变化    
+		* 过去式使用时机
+			* 过去式表示过去发生的事、动作或状态，通常和过去时间并用
+				* I go to school every day.
+				* I went to school yesterday
+	* I was at the movies.
+		* be at the movies 在看电影
+			* They are probably at the movies now. 他们现在可能在看电影
+	* It was fantastic.
+		* = It was great.
+		* = It was wonderful 它很棒
+			- How was the party last night?
+			- It was fantastic, everyone had a great time.     
+	* The main actor and actress really did a good job.
+		* main actor = lead actor 男主角
+		* main actress = lead actress 女主角
+			* Harrison Ford is the main actor in the movie. 哈里逊 - 福特是这部影片的男主角
+		* do a good job = do (very) well
+			* He did a good job in the speech contest.
+			* = He did very well in the speech contest. 他在演讲比赛中表现优异
+	* Sounds like it was a very good movie.
+		* Sounds like + subject + verb  听起来好像...
+		* 本句由"It sounds like + subject + verb"省略而来
+			- What do you think of the singer's voice? 你觉得这位歌手的声音如何 
+			- Not very good. Sounds like he has a cold. 不太好，听起来好像感冒了
+		* 就语法而言，sound like... 中的like为介词，之后只能接名词作宾语，不能接主语和动词；若要接主语和动词，则需改用"sound as if" 听起来仿佛...，因为as if才是连接词。 但现代英语中，已把like既视为介词后接名词作宾语，又视为连接词后接主语和动词。
+			* It sounds like a good idea.
+			* He sounds as if he knows everything about it. = He sounds like he knows everything about it. 听他的口气仿佛他对这件事知道得一清二楚
+	* You can say that again! 你说的一点没错
+		* 本句为赞同他人意见的用语
+			- Mary is very beautiful.
+			- You can say that again!
+			 
+**Sentences**
+
+	* We are going to watch/see/take in a movie tonight.
+	* I'm afraid (that) it's full.
+	* I'm afraid (that) the tickets are sold out.
+	* Can I have a seat up front/in the back/by the aisle/towards the center/on the left side, please? 
+	* That'll be twenty dollars, please.
+	* That'll be twenty dollars in total, please.
+	* All this comes to twenty dollars, please.
+	* Where were you/were they/was she last night?
+	* It was fantastic/great/wonderful.
+	
+	* I'm bored. Let's go ___ in a movie tonight.
+	* The seven o'clock show is sold ___. I'm afraid.
+	* When I go to the movies, I like to sit in the ___.
+	* The room is ___ of noisy kids.
+	* Jack ___ very well on the test.
+	* Wendy sings as ___ she has something in her throat.
+	* Sounds ___ nobody is interested in going to the park.
+	* I ___ a cold last week and I'm still feeling bad.
+
+**Dialog**
+
+	- Where's Sue? I thought she was g___ to the movies with me.
+	- She's a___ the movies.
+	- Whom did she go with?
+	- She w___ with Uncle John.
+	- Which movie did they go to s___?
+	- I think Uncle John t___ her to see a A Bug's Life.
+	- That's a great movie.
+	- You can s___ that again!
+	- Let's go see the ten o'clock s___.
+	- Sure. Why not?	
+
+### Unit Twenty Nine - Job Interviews
+
+* Tell me, Mr. Wang. Why do you want to join our company?
+* It has a good reputation.
+* Do you have any work experience?
+* Not much. But I am willing to learn.
+* Why did you quit your last job?
+* I think i'll have a better future with your company.	 
+* 
+* Do you have any questions?
+* Yes. Will I have to work overtime?
+* Sometimes.
+* How about holidays?
+* After a year, you'll get an annual leave of seven days.
+* And is there a year - end bonus?
+* That depends. If you work hard and the company makes money, you'll get one.
+* That sounds fair.
+
+Note
+
+	* Why do you want to join our company?
+		* Why do you want to + verb 为何你想/要...
+			* Why do you want to learn English?
+		* join表示"加入、参加"，常见用法：
+			* join + sb. + in + 动名词  加入某人做...
+				* Let's join them in singing the song. 咱们加入他们唱歌的行列吧
+	* Do you have any work experience?
+		* work expreience 工作经验
+			* He has a lot of work experience.
+	* But I am willing to learn. 但我愿意学习
+		* be willing to + verb  愿意(做)...
+		* be unwilling to + verb 不愿意(做)...
+			* She is willing to help the poor.
+			* He is unwilling to work in his father's company.
+	* Why did you quit your last job?
+		* = Why did you resign from your last job? 你为什么辞去上一个工作
+		* quit和resign都可表示"辞(职)"，但quit直接加宾语job，resign则需先加from再接宾语job。 此外，quit还可表示"戒除、放弃"，此时可等于"give up"。
+			* Carlos will never quit his job.
+				* = Carlos will never resign from his job. 卡洛士绝不会辞去他的工作
+			* My doctor told me to quit smoking.
+				* = My doctor told me to give up smoking. 我的医生叫我戒烟
+	* I think I'll have a better future with your company.
+		* future名词表示"未/将来"，用法如下:
+			* carve out a bright future 开创光明的前途
+				* carve v. 开创(命运、事业等)
+				* bright adj. 光明的
+					* You should carve out a bright future by working hard.
+	* Will I have to work overtime?
+		* work overtime 加班
+			* They're working overtime to finish the job on time. 他们正在加班以便准时完成这项工作
+	* Sometimes
+		* = on occasion
+		* = occasionally
+		* = every now and then
+			* He sometimes visits me.
+			* = He visits me on occasion.
+			* = He visits me occasionally.
+			* = He visits me every now and then. 他有时会来看我
+	* After a year, you'll get an annual leave of seven days. 满1年后，你每年会有7天年假
+		* ask　for leave  请假
+			* The workers seldom ask for leave.
+		* be on leave  休假中
+		* be on holiday 度假中
+		* = be on vacation    
+		* be on leave指一般休假而言，时间较短约1天或2天，be on holiday/vacation则指时间较长的度假，有时可达1个月之久
+			* The soldiers are on leave.
+			* They are on holiday in Hawaii.
+			* = They are on vacation in Hawaii.
+	* And is there a year-end bonus?
+		* year-end bonus 年终奖
+			* The workers will get a year-end bonus this year.
+	* That depends. = It depends. 要视情况而定
+		- Will　you buy me a bicycle, Dad?
+		- That/It depends. If you do well on the exam, yes. 那要看情况而定，如果你考试考得好就会买给你
+	* If you work hard and the company makes money, you'll get one.
+		* make表示"赚钱"，还可用earn表示
+		* make money  赚钱 = earn money
+		* make a fortune 赚打钱
+			* = earn a fortune
+			* = make/earn a lot of money
+		* make a living by... 靠...维生
+			* = earn a living by...
+		* Eric made a fortune in the stock market.
+			* = Eric earned a fortune in the stock market.
+			* = Eric made/earned a lot of money in the stock market.                                
+		* He makes a living by driving a taxi.
+			* = He earns a living by driving a taxi. 他靠开出租车维生
+	* That sounds fair. 听起来很合理
+		* 此处sound为感官动词，表示"听起来"。 感官动词有：look(看起来)，sound(听起来)，taste(尝起来)，smell(闻起来)，feel(感觉起来)，之后接形容词或"like + 名词"
+			* The little boy looks shy.
+			* The music sounds beautiful.
+			* The medicine tastes sweet.
+			* The perfume smells like flowers. 这香水闻起来像话的味道
+			* Her hair feels like silk. 她的头发摸起来像丝一样
+			
+**Sentences**
+
+	* Why do you want to join our company?
+	* Why do you want to wear long hair? 为何你想留长发呢
+	* But I am willing to learn.
+	* Helen is unwilling to work overtime.
+	* The doctor told my father to quit/give up drinking.
+	* That/It depends.
+	* Carlos makes/earns a living by teaching/writing novels.
+	* That sounds fair.
+	* You look terrible.
+	* The steak tastes good.
+	* The milk smells sour.
+	* I'm feeling better today. 我今天感觉好多了
+	* 
+	* If you're not happy with your job, just ___.
+	* The doctor told me to give up drinking.
+	* The smart young man has a bright future.
+	* Mr. Li takes his family on a trip on occasion.
+	* Mr. Black isn't in the office today. He's ___ leave.
+	* Mr. Chen makes a ___ by selling houses.
+	* This chicken tastes ___ fish.
+	* You should go for an ___ check-up(体检).
+	
+**Dialog**
+	
+	- Do you have any e___ in teaching English?
+	- No. But I'm w___ to work hard.
+	- That's good. So you won't mind working o___, will you?
+	- No, not at all. But I won't have to work during the summer v___, will I?
+	- It d___. If you like, you can teach summer classes.
+	- How much can I if I do?
+	- Not much.
+	- That doesn't s___ very good.
+	- I thought you said you're willing to work hard!            			              
+ 
 ### Grammar
 
 **1. 基本句型**
