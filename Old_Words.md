@@ -143,7 +143,19 @@ Note:
 			* I hope I can see you tomorrow.
 			* Me too. = I hope I can see you tomorrow, too. 
 
-### Unit Two
+**Sentences**
+
+	* Good morning/afternoon/evening, May.
+	* How are you?
+	* How are you doing?
+	* I'm fine/OK.
+	* What/How about you?
+	* Not bad/Great/Fine. Thanks.
+	* Thanks/Thank you/Thank you very much/Thanks a lot.
+	* Good.See you/See you later/Bye/Goodbye.
+	* How's it going?/What's up/What's happening? 近来如何
+
+### Unit Two - Courtesy
 
 * Excuse me. Are you Ann?
 * No, i'm not.
@@ -161,6 +173,7 @@ Note:
 
 Notes:
 
+	* courtesy n. 礼貌
 	* Exceuse 用于唤起别人的注意；I'm sorry 多表示“抱歉”，尤其是在犯错或有不好消息要告诉对方时使用
 		* Excuse me. Where is the station?
 		* I'm sorry. I'm new here.(我刚到这儿/我在这儿人生地不熟)
@@ -168,7 +181,7 @@ Notes:
 		* Excuese me 或 I'm sorry 之后可使用句号也可使用逗号，再加上连词but，连接另一个句子。but意为‘但是’，此处可不必译出，以上例句也可写成：
 			* Excuse me, but where is the station?
 			* I'm sorry, but i'm new here.
-			* I'm sorry, but i'm can't see you today. 
+			* I'm sorry, but i can't see you today. 
 	* You're welcome 对方表示谢谢时以下句子回答，他们都可译成“别客气”
 		* Thank you for your help.
 		* You're welcome.
@@ -193,6 +206,16 @@ Notes:
 			* I'm a boy.
 			* It's a book
 			* You're very kind.   
+
+**Sentences**
+
+	* You're welcome.
+	* Don't mention it.
+	* Not at all.
+	* No problem.
+	* I beg your pardon?/Beg your pardon?/Pardon me?/Pardon?
+	* Nice/Pleased/Glad to meet you.
+	* I'm Tom/She's May/They're students.
 
 ### Unit Three - Name, Age and Nationality
 
