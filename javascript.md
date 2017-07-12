@@ -1525,3 +1525,8 @@ for (var j = 0; j < 5; j++) {
 
 原因在与.apply在运行前要对作为参数的数组进行一系列检验和深拷贝，.call则没有这些步骤。参考ecma规范[apply方法](http://yanhaijing.com/es5/#322)
 
+[CSS3特性做跨域](http://alili.tech/2017/06/20/Javascript/CSST%20(CSS%20Text%20Transformation)%20%E4%BD%BF%E7%94%A8CSS3%E7%89%B9%E6%80%A7%E5%81%9A%E8%B7%A8%E5%9F%9F/)
+
+[我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
+
+[浮点数精度](https://juejin.im/post/594a31d0a0bb9f006b0b2624)

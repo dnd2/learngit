@@ -485,3 +485,22 @@ http://www.cnblogs.com/PeunZhang/archive/2013/01/30/2883464.html
 https://segmentfault.com/t/%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91/blogs?page=2
 框架
 http://www.cnblogs.com/fang-beny/p/5234272.html
+
+原子设计方法论
+https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c8d6eb1ab2d8d6b37155f9487ac&chksm=883fd7e9bf485effd51d5f7b512647dbae11a88d5e870276ea8f7fa214a0ab136a480159ae8d#rd
+
+### CSS权威指南
+
+* CSS元素有"替换元素"和"非替换元素"
+    * 替换元素 指元素内容部分并非由文档内容直接表示
+        * img是替换元素，因为其没有具体内容 <img src="hover.gif" alt=""> 需要通过src属性获取内容
+        * input取决于元素类型
+    * 非替换元素 大多数HTML/XHTML元素都是此类 比如:<span>,<p> 即内容是直接放在标签元素间的,<span>Text</span>
+* 按元素角色分为2种基本类型  
+    * 块级元素(block-level)和行内元素(inline-level) 
+    * 块级元素和行内元素区别： 
+        * 块级元素会独占一行，而行内元素会并排连接 
+        * 块级元素不能继承自行内元素(不能嵌套在行内元素中)
+        * CSS可以通过display属性切换这2种元素，(即行内元素可嵌套块级元素)但在XHTML里是不合法的
+
+    * XHTML层次结构要求：行内元素可以继承块元素，反之不允许。    
