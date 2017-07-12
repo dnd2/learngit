@@ -143,7 +143,19 @@ Note:
 			* I hope I can see you tomorrow.
 			* Me too. = I hope I can see you tomorrow, too. 
 
-### Unit Two
+**Sentences**
+
+	* Good morning/afternoon/evening, May.
+	* How are you?
+	* How are you doing?
+	* I'm fine/OK.
+	* What/How about you?
+	* Not bad/Great/Fine. Thanks.
+	* Thanks/Thank you/Thank you very much/Thanks a lot.
+	* Good.See you/See you later/Bye/Goodbye.
+	* How's it going?/What's up/What's happening? 近来如何
+
+### Unit Two - Courtesy
 
 * Excuse me. Are you Ann?
 * No, i'm not.
@@ -161,6 +173,7 @@ Note:
 
 Notes:
 
+	* courtesy n. 礼貌
 	* Exceuse 用于唤起别人的注意；I'm sorry 多表示“抱歉”，尤其是在犯错或有不好消息要告诉对方时使用
 		* Excuse me. Where is the station?
 		* I'm sorry. I'm new here.(我刚到这儿/我在这儿人生地不熟)
@@ -168,7 +181,7 @@ Notes:
 		* Excuese me 或 I'm sorry 之后可使用句号也可使用逗号，再加上连词but，连接另一个句子。but意为‘但是’，此处可不必译出，以上例句也可写成：
 			* Excuse me, but where is the station?
 			* I'm sorry, but i'm new here.
-			* I'm sorry, but i'm can't see you today. 
+			* I'm sorry, but i can't see you today. 
 	* You're welcome 对方表示谢谢时以下句子回答，他们都可译成“别客气”
 		* Thank you for your help.
 		* You're welcome.
@@ -193,6 +206,16 @@ Notes:
 			* I'm a boy.
 			* It's a book
 			* You're very kind.   
+
+**Sentences**
+
+	* You're welcome.
+	* Don't mention it.
+	* Not at all.
+	* No problem.
+	* I beg your pardon?/Beg your pardon?/Pardon me?/Pardon?
+	* Nice/Pleased/Glad to meet you.
+	* I'm Tom/She's May/They're students.
 
 ### Unit Three - Name, Age and Nationality
 
@@ -2679,7 +2702,120 @@ Note
 	- How much can I if I do?
 	- Not much.
 	- That doesn't s___ very good.
-	- I thought you said you're willing to work hard!            			              
+	- I thought you said you're willing to work hard!     
+### Unit Thirty - Emergency Call
+
+* This is an emergency call! Get an ambulance here right away.
+* Where are you calling from?
+* I'm at No. 10 Zhong Hua Road.
+* What's the matter?
+* A taxi ran into a truck.
+* 
+* Fire! There's a fire. Come quick!
+* Where's the fire?
+* At No.7 Kaifeng Street.
+* What's burning?
+* My restaurant is on fire.
+* How did it happen?
+* A gas tank exploded.
+* We'll be right there.
+
+Note:
+
+	* explode v. 爆炸
+		* Be careful! The bomb will explode at any moment.  小心！这颗炸弹随时都会爆炸
+	* This is an emergency call!
+		* emergency adj. 紧急的，也可以作名词，表示"紧急(情况)"
+			* This KTV has no emergency exits. 这家KTV没有紧急逃生门 exit 名词表示"出口，安全门"
+			- What should you do in case of an emergency? 万一发生紧急情况时你该怎么办
+			- Call 911. 打电话给119
+			* 国内紧急电话是119，美国是911
+	* Get an ambulance here right away.
+		* 本句是命令句。 所谓命令句是以原形动词开头的句子
+			* You　should put on your coat. 一般句
+			* -> Put on your coat. (命令句)
+			* You should be quiet. 一般句
+			* -> Be quiet!  安静！ (命令句) 
+			* You should keep away from that dog. 一般句
+			* -> Keep away from that dog. 不要靠近那只狗 (命令句) 
+		* right away 立刻，马上
+			* = immediately adv.
+			* = instantly adv.
+				* The police came to help me right away/immediately/instantly. 警察立刻赶来援助我
+		* I'm at No.10 Zhong Hua Road.
+			* 通常与数字有关的介词都用at表示
+				* at + 门牌号码   在几号
+					* I live at No.10 Zhong Hua Road. 我住在中华路10号
+					* I live on Zhong Hua Road. 我住在中华路上
+				* at + (表年龄的)数字  在几岁时
+					* = at the age of + Number
+						* He got married at 27.
+						* = He got married at the age of 27. 他在27岁时结婚
+				* at the speed of + Number  以...速度
+					* The bus was going at the speed of 60 miles per hour. 那辆公交车当时正以每小时60英里速度前进
+	* What's the problem? 发生了什么事 
+		* = What's the matter?
+		* = What's wrong?   
+			- You look sad. What's the problem? 看你愁容满面的，发生了什么事
+			- My girlfriend left me.  我的女友离开我了。   
+	* A taxi ran into a truck.
+		* = A taxi hit a truck. 一辆出租车撞上了一部卡车
+		* run　into... 撞到
+		* = hit v. 碰撞
+			* The car ran into the tree at a high speed.
+			* = The car hit the tree at a high speed.  
+		* run into + sb. 和某人不期而遇 = bump　into　+ sb.
+			* bump v. 撞击
+				* I ran/bumped into an old friend on my way here. 在我来这里途中，我和一位老朋友不期而遇
+	* Fire! There's fire. 失火了! 发生火灾了
+		* fire 表示"火"时，是不可数名词，"火灾"时，为可数名词，可以说a fire, two fires...
+			* Little Billy is afraid of fire.
+			* A fire broke out in the downtown area yesterday. 昨天在市区发生了一起火灾
+		* 其他有关fire的重要用法如下：
+			* be on fire 着火，燃烧中
+			* set fire to + noun  放火烧...
+			* = set + noun + on fire
+				* The house is on fire!
+				* Someone set fire to the building.
+				* = Someone set the building on fire. 有人放火烧了那栋楼
+			* Come quick! = Come quickly! 快点来
+				* quick原为形容词，表示"快/迅速的"，但在口语中也可以作副词用，等于"quickly"， 由于quick比quickly说起来较简洁，故在口语中常用quick代替quickly。
+					* David is a quick walker. 大卫走路很快
+					* Come quick, something terrible has happened. 快来呀，发生可怕的事情啦
+	* What's burning? 什么东西在燃烧/着火了
+		* The whole building is burning. 整栋建筑都烧起来了
+		* The bad guys burned the house to the ground. 那些坏蛋把房子烧为平地
+	* We'll be right there! 我们马上到, 此处right为副词，作强调用法
+		* = We'll be there right away!
+		* = We'll be there immediately!               
+		
+**Sentences**
+
+	* Get an ambulance here right away/immediately/instantly.
+	* He graduated from college at 15/at the age of 15. 他15岁时就大学毕业了
+	* What's the problem/the matter/wrong?
+	* A taxi ran into/hit a truck.
+	* I ran into/bumped into one of my high school classmates last night.		         
+    * come quick/quickly!
+    * The crazy man set fire to his own house/set his own house on fire. 那个疯子放火烧了自己的房子
+    * 
+    * In case of an emergency, calmly leave through that door.
+    * Please come right away, doctorl. My mother is very sick.
+    * My friend's restaurant is on Sesame Street.
+    * I bumped into my teacher in the library.
+    * Jenny ran into a glass door and broke here glasses.
+    * The little shop was burned to the ground.
+    * A fire broke out on the seventh floor.
+    * Be quiet, please. I can't hear the student's answer.
+
+**Dialog**
+	
+	- Police! Come q___!
+	- Why? What's the m___?
+	- I think someone is robbing the bank.
+	- Where are you c___ from?
+	- I'm o___ Hoping East Road. Come right away.
+	- We'll be r___ there.      			              
  
 ### Grammar
 
