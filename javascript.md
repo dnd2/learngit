@@ -1530,3 +1530,16 @@ for (var j = 0; j < 5; j++) {
 [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
 
 [浮点数精度](https://juejin.im/post/594a31d0a0bb9f006b0b2624)
+
+**App UI framework**
+http://vycool.com/Jingle/index.html
+http://code.kik.com/app/2/index.html
+
+http://htmldog.com/guides/javascript/
+
+java学习
+http://yanhuili.github.io/categories/Java/
+https://github.com/Cenyol/SpringMVC
+
+JS正则
+https://juejin.im/entry/5965c09051882568a9536923

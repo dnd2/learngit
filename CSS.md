@@ -477,6 +477,7 @@ IE 7.0中，将半行距分别加在了图片的上下，而由于图片默认�
 
 web移动开发
 http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept
+移动布局: https://juejin.im/entry/596465c951882568b00311b4
 
 blog:
 https://zhuanlan.zhihu.com/p/26141351
@@ -489,7 +490,7 @@ http://www.cnblogs.com/fang-beny/p/5234272.html
 原子设计方法论
 https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c8d6eb1ab2d8d6b37155f9487ac&chksm=883fd7e9bf485effd51d5f7b512647dbae11a88d5e870276ea8f7fa214a0ab136a480159ae8d#rd
 
-### CSS权威指南
+## CSS权威指南
 
 * CSS元素有"替换元素"和"非替换元素"
     * 替换元素 指元素内容部分并非由文档内容直接表示
@@ -504,3 +505,31 @@ https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c
         * CSS可以通过display属性切换这2种元素，(即行内元素可嵌套块级元素)但在XHTML里是不合法的
 
     * XHTML层次结构要求：行内元素可以继承块元素，反之不允许。    
+
+1. CSS选择器
+
+* 每个规则包含2部分：选择器(selector)和声明块(declartion block), 如 body{}
+* 每个规则是属性-值的格式 如: font-size:12px
+
+#### 元素选择器
+
+* 文档元素是最基本的选择器
+* XML中，定义的元素都可以作为选择器
+* 属性中如果有过个值则以空格分隔 如：p{font: medium Helvetica;}
+
+**选择器分组**
+
+* 我们可以将多个标签应用成一组样式，如: h2, p{font-size:12px}
+* 通过分组可以将相同样式的标签定义在一起，减少代码量，方便维护
+
+**通配选择器**
+
+* 该选择器可以与任何元素匹配，用*表示，如: *{margin:0;padding:0}
+* 使用方便，可以一次性应用所以的元素，但性能较差，一般不建议应用所有元素。
+
+**简单属性选择器**
+
+* <h1 class="">Hello</h1>  h1[class]{color:silver}
+* 可以使用*[title]针对所有包含title属性的元素
+* 也可以根据具体属性值应用样式：a[href="http://www.zbj.com"]{font-weight:700}
+
