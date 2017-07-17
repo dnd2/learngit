@@ -1523,6 +1523,57 @@ for (var j = 0; j < 5; j++) {
 }
 ~~~
 
+### 常用DOM相关方法
+
+window.getComputedStyle(element, [pseudoElt]) 给出应用活动样式表后的元素的所有CSS属性的值,并解析这些值可能包含的任何基本计算。[详情](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/getComputedStyle)
+
+* element The element for which to get the computed style. (第一个参数必须是Element对象，传非节点元素，如：#text节点，会抛出错误)
+* pseudoElt (optional) A string specifying the pseudo-element to match. Must be omitted (or null) for regular elements.
+* defaultView 通常情况下，window.getComputedStyle和document.defaultView.getComputedStyle是通用的。除了一种情况，即在fiexfox3.6上访问子框架的样式(iframe)
+* 返回的解析值, 可能是计算值或应用值。
+
+
+~~~javascript
+let elem1 = document.getElementById('elemId');
+let style = window.getComputedStyle(elem1, null);
+// this is equivalent:
+let style = document.defaultView.getComputedStyle(elem1, null);
+
+/**
+ * <style>.elem-container{position:absolute;top:20px;height:100px;}</style>
+ */
+var elem2  = document.getElementById('elem-container');
+var styles = window.getComputedStyle(elem2, null).getPropertyValue('height'); // 100px 
+
+// 与伪元素一起使用, getComputedStyle可以拉取伪元素样式信息(::after,::before,::marker,::line-marker)
+// <h3></h3> <style>h3::after{content:'rocks!'}</style>
+var h3 = document.querySelector('h3');
+var result = getComputedStyle(h3, '::after').content; // rocks!
+~~~
+
+**element.style和getComputedStyle返回值的区别**
+
+* getComputedStyle返回的对象与style属性返回对象具有相同类型 CSSStyleDeclaration
+* getComputedStyle返回对象是只读的
+* element.style对象应用于在特定元素上设置样式
+
+**resolved value (解析值)**
+
+CSS 属性的解析值（resolved value ）是 getComputedStyle()返回的值。 对于大多数属性，它是计算值computed value，但对于一些旧属性（包括宽度和高度），它是使用值used value。
+
+**computed value (计算值)**
+
+一个CSS属性的 计算值  (computed value) 通过以下方式从指定的值计算而来：
+
+* 处理特殊的值 inherit 和 initial 以及进行计算，以达到属性摘要中“计算值”行中描述的值
+* 计算属性的"计算值"通常包括将相对值转换成绝对值(如 em 单位或百分比) 例如，如一个元素的属性值为 font-size:16px 和 padding-top:2em, 则 padding-top 的计算值为 32px (字体大小的2倍)
+* 计算值的最主要用处是继承 , 包括 inherit 关键字
+
+**used value (应用值)**
+
+CSS 属性的应用值（used value）是完成所有计算后最终使用的值，可以由 window.getComputedStyle 获取。[详见](https://developer.mozilla.org/zh-CN/docs/Web/CSS/used_value)
+
+
 原因在与.apply在运行前要对作为参数的数组进行一系列检验和深拷贝，.call则没有这些步骤。参考ecma规范[apply方法](http://yanhaijing.com/es5/#322)
 
 [CSS3特性做跨域](http://alili.tech/2017/06/20/Javascript/CSST%20(CSS%20Text%20Transformation)%20%E4%BD%BF%E7%94%A8CSS3%E7%89%B9%E6%80%A7%E5%81%9A%E8%B7%A8%E5%9F%9F/)
@@ -1536,6 +1587,8 @@ http://vycool.com/Jingle/index.html
 http://code.kik.com/app/2/index.html
 
 http://htmldog.com/guides/javascript/
+javascript 特效
+http://www.cnblogs.com/cloudgamer/archive/2009/01/06/Tween.html
 
 java学习
 http://yanhuili.github.io/categories/Java/
