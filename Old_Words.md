@@ -2835,10 +2835,10 @@ Note:
 			* 英语中is是动词不能丢掉，但却缺乏叙述能力。只能把主语和后面构成叙述的部分连接起来，叫做"连缀动词(Linking Verb)",跟在这种动词后的部分，因替代了动词扮演的叙述角色，补足句子使它获得完整的意思，称之为"补语(Complement)"
 	* 需要补语的动词 (凡接补语的动词都可解释为各种各样的"是")
 		* look 看起来是 - That dress looks pretty.
-		* seem 似乎是   - The dog seems firendly.
+		* seem 似乎是   - The dog seems friendly.
 		* appear 显得是 - His demands appear reasonable. (他的要求显得很合理)
 		* sound 听起来是 - His trip sounds exciting. (他的旅行听起来很刺激)
-		* feel 摸起来是 - I feel sick
+		* feel 摸起来是 - I feel sick 我感觉很不舒服
 		* taste 尝起来是 - The drug tastes bitter (药很苦)
 		* turn 转变为  
 		* prove 证实为 - The story proved false. (故事正是是捏造的)
