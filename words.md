@@ -100,3 +100,11 @@ especially in a circus.
 
 	- Aerobics is a form of exericse which increases the amount of oxygen in your blood, and strengthens your heart and lungs. The verb that follows aerobics may be either sigular or plural.
 
+**aerosol**  ['erə.sɑl] noun a can that forces out liquid in a fine spray. （装涂料、除臭剂等的）小型喷雾器
+
+	- An aerosol is a small container in which a liquid such as paint or deodorant is kept under pressure. When you press a button, the liquid is forced out as a fine spray or foam.
+
+**affect**  ['æfekt] verb to make something or someone different. 影响; 使改变
+
+	- If something affects a person or thing, it influences them or causes them to change in some way.
+	- The drought badly affected the harvest.
