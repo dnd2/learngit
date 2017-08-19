@@ -45,6 +45,62 @@
 	- He was absent from school because he had a cold.
 	- opposite present
 
+**absorb** [əbˈsɔrb] verb to soak up. 吸收（液体、气体等）
+
+	- If something absorbs a liquid, gas, or other substance, it soaks it up to takes it in.
+	- A sponge absorbs liquid.
+	- absorbent [əb'zɔrbənt] adjective  易吸收（液体）的；吸水的
+		- Absorbent material soaks up liquid easily.
+
+**absurd** [əb'sɜ:d] adjective silly or ridiculous 荒谬的；荒唐的；不合理的
+
+	- If you say that something is absurd, you are criticizing it because you think that it is ridiculous or that it does not make sense.
+	- She looked absurd leaving for school in her pajamas.
+
+**accent** [æk'sent] noun 
+
+	1. the way people say words.  口音
+		- She had a foreign accent. 
+	2. a mark on a letter showing you how to pronounce it. （某些语言中标在字母上方的）变音符号
+		- An accent is a short line or other mark which is written above certain letters in some languages and which indicates the way those letters are pronounced.
+		- "Cafe" is pronounced "kafay".
+
+**accept** [æk'sept] verb to take something that is offered to you. 接受;领受;收受
+
+	- If you accept something that you have been offered, you say yes to it or agree to take it.
+
+**accident**  ['æksɪdənt] noun something that goes wrong by change.  意外；偶然
+
+	- If something happens by accident, it happens completely by chance.
+	- He spilled the juice, but it was an accident.
+
+**accordion** [ə'kɔrdiən] noun a musical instrument that you squeeze to make a sound.
+	
+	- An accordion is a musical instrument in the shape of fairly large box which you hold in your hands. You play the accordion by pressing keys or buttons on either side while moving the two sides together and apart. Accordions are used especially to play traditional popular music.
+
+**accurage** ['ækjərət] adjective exactly right. （信息、测量、数据或仪器等）精确的，准确的
+
+	- Accurate information, measurements, and statistics are correct to a very detailed level. An accurate instrument is able to give you information of this kind.
+	- A stop watch gives accurate time.
+
+**accuse** [ə'kjuz] verb to say someone has done something wrong. 指责;责难
+
+	- If you accuse someone of doing something wrong or dishonest, you say or tell them that you believe that they did it.
+	- She accused him of lying.
+
+**ace** [eɪs] noun a playing card that has one main symbol in the center. A纸牌
+
+	- An ace is a playing card with a single symbol on it. In most card games, the ace of a particular suit has either the highest or the lowest value of the cards in that suit.
+
+**ache** [eɪk] verb to feel a steady pain. （持续并较强烈地）疼痛
+
+	- If you ache or a part of your body aches, you feel a steady, fairly strong pain.
+	- Her tooth ached.
+
+**acid** ['æsɪd] noun a sharp-tasting, sour liquid. 酸
+	
+	- An acid is a chemical substance, usually a liquid, which contains hydrogen and can react with other substances to form salts. Some acids burn or dissolve other substances that they come into contact with.
+
 **acorn** the seed of an oak tree.
 	
 	- An acorn is a pale oval nut that is the fruit of an oak tree.
