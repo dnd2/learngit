@@ -164,3 +164,90 @@ especially in a circus.
 
 	- If something affects a person or thing, it influences them or causes them to change in some way.
 	- The drought badly affected the harvest.
+
+**affection** [ə'fekʃ(ə)n] noun the feeling that you like someone very much. 喜爱；喜欢
+
+	- If you regard someone or something with affection, you like them and are fond of them.
+	- She thought of him with affecation... 她很想念他
+	- affecationate [ə'fekʃənət] adj. 充满深情的；满怀柔情的
+		- If you are affectionate, you show your love or fondness for another person in the way that you behave towards them. 
+		- She gave me a very long and affectionate hug. 她满怀深情地久久拥抱了我
+
+**afford** [ə'fɔrd] verb to have enough money to buy something. 买得起；负担得起
+
+	- If you cannot afford something, you do not have enough money to pay for it.
+	- We can afford to go away on vacation this year.
+
+**afraid** [ə'freɪd] adjective scared 害怕的；恐惧的
+
+	- If you are afraid of someone or afraid to do something, you are frightened because you think that something very unpleasant is going to happen to you.
+	- He was afraid of mice.
+
+**after**  ['æftər] preposition
+
+	1. later than （时间）在…后
+		- You use after when you are talking about time. For example, if something is going to happen during the day after or the weekend after a particular time, it is going to happen during the following day or during the following weekend.
+		- She's leaving the day after tomorrow. 她打算后天离开
+		- It is after 8 o'clock.
+
+	2. behind …之后（指做事的先后顺序）
+		- If you do one thing after doing another, you do it during the period of time that follows the other thing.
+		- He was after me in the line.
+		
+	3. following 随…之后；跟在…之后
+		- If you go after someone, you follow or chase them.
+		- The cat ran after the mouse.
+
+**afternoon**  [.æftər'nun] noun the period of time between noon and evening. 下午；午后
+
+	- The afternoon is the part of each day which begins at lunchtime and ends at about six o'clock.
+
+**again** [ə'ɡen] adverb once more. 又一次；再一次
+
+	- You use again to indicate that something happens a second time, or after it has already happened before.
+	- The fans cheered when their team scored again.
+
+**against** [ə'genst] preposition 
+
+	1. next to something, touching it. 紧靠；倚；碰
+		- If one thing is leaning or pressing against another, it is touching it.
+		- Against the fence.
+	2. opposed to, or not on the same side. 反对（计划、政策、制度等）
+		- If you are against something such as a plan, policy, or system, you think it is wrong, bad or stupid.
+		- She was against the decision.
+
+**age** [eɪdʒ] noun
+
+	1. how old someone or something is 年龄
+		- Your age is the number of years that you have lived.
+		- The number of rings in a tree's trunk show its age.
+
+	2. a period in history. 代；时代；时期
+		- An age is a period in history
+		- The Iron Age.
+
+**aggressive**  [ə'ɡresɪv] adjective ready to attack. 好斗的；挑衅的, 极具攻击性的
+
+	- An aggressive person or animal has a quality of anger and determination that makes them ready to attack other people.
+	- Cats can be aggressive if they are frightened.
+	- aggressively adverb
+
+**agony**  ['æɡəni] noun extreme pain. （肉体或精神的）极度痛苦，创痛
+
+	- Agony is great physical or mental pain.
+	- The runner was in agony when he broke his leg.
+	- She called out in agony. 她疼得叫出声来
+
+**agree** [ə'ɡri] verb to think the same as someone else. 同意;赞成;意见一致
+
+	- If people agree with each other about something, they have the same opinion about it or say that they have the same opinion.
+	- opposite: disagree [.dɪsə'ɡri] verb 不同意;有分歧;意见不合
+		- If you disagree with someone or disagree with what they say, you do not accept that what they say is true or correct. You can also say that two people disagree. 
+
+**agriculture**  ['æɡrɪ.kʌltʃər] noun farming. 农业
+
+	- Agriculture is farming and the methods that are used to raise and look after crops and animals.
+	- One form of agriculture in Thailand is rice growing.
+	- The Ukraine is strong both in industry and agriculture. 乌克兰的工业和农业都很发达
+	- agricultural [.æɡrɪ'kʌltʃ(ə)rəl] adjective 农业的；农用的
+		- Agricultural means involving or realting to agriculture. 
