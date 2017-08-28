@@ -139,7 +139,18 @@ especially in a circus.
 	- If you adapt something, you change it to make it suitable for a new purpose or situation.
 	- This mug has been adapted so that a baby can drink from it.
 
+**add** [æd] verb 
 
+	1. to put one thing with another. 添加；增加；掺加
+		- If you add one thing to another, you put it in or on the other thing, to increase, complete, or improve it.
+		- Add cherries to the mixture.
+	2. to find the sum of two or more numbers. 加
+		- If you add numbers or amounts together, you calculate their total.
+		- Twenty-one added to fifty-four equals seventy-five.
+
+**addict** [ˈædɪkt] noun someone who cannot give up a habit that they have.	对…入迷的人; …迷
+
+	- If you say that someone is an addict, you mean that they like a particular activity very much and spend as much time doing it as they can.	
 
 
 **adviser**  [əd'vaɪzər] noun someone who gives advice or makes suggestions. 顾问；提供意见者

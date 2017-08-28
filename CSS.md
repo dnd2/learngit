@@ -490,6 +490,28 @@ http://www.cnblogs.com/fang-beny/p/5234272.html
 原子设计方法论
 https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c8d6eb1ab2d8d6b37155f9487ac&chksm=883fd7e9bf485effd51d5f7b512647dbae11a88d5e870276ea8f7fa214a0ab136a480159ae8d#rd
 
+## CSS布局
+
+###flex 布局
+
+    - 2009年由W3C提出的新方案，用于实现各种布局，是FLexible Box缩写，意为"弹性布局"，用来为盒状模型提供最大的灵活性。
+    - ie10+, Chrome21+, Firefox 22+, Opera 12.1+, Safari 6.1+
+
+**flex布局使用**
+
+    * display属性设置为flex, 如：display: flex; 可设置行内元素为flex
+    * webkit内核浏览器须加上: -webkit 前缀
+    * 设置flex布局后,子元素float, clear和vertical-align属性将失效
+
+~~~css
+    .el {
+        display: -webkit-flex;
+        display: flex;
+        display: inline-flex;
+        display: -webkit-inline-flex;
+    }
+~~~        
+
 ## CSS权威指南
 
 * CSS元素有"替换元素"和"非替换元素"
