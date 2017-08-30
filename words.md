@@ -33,7 +33,8 @@
 
 	- If one thing is above another one, it is directly over it or higher than it.
 	- Above her head.  
-	- opposite below 
+	- opposite below preposition （位置）在…下面，低于
+		- If something is below something else, it is in a lower position.
 
 **abroad** [ə'brɔ:d] adverb in or to another country. 到国外；在国外
 
