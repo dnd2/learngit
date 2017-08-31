@@ -79,7 +79,7 @@
 	
 	- An accordion is a musical instrument in the shape of fairly large box which you hold in your hands. You play the accordion by pressing keys or buttons on either side while moving the two sides together and apart. Accordions are used especially to play traditional popular music.
 
-**accurage** ['ækjərət] adjective exactly right. （信息、测量、数据或仪器等）精确的，准确的
+**accurate** ['ækjərət] adjective exactly right. （信息、测量、数据或仪器等）精确的，准确的
 
 	- Accurate information, measurements, and statistics are correct to a very detailed level. An accurate instrument is able to give you information of this kind.
 	- A stop watch gives accurate time.
@@ -106,7 +106,7 @@
 	
 	- An acorn is a pale oval nut that is the fruit of an oak tree.
 
-**Acrobat** A person who performs gymnastics on a stage or in a circus.
+**acrobat** A person who performs gymnastics on a stage or in a circus.
 
 	- An acrobat is an entertainer who performs difficult physical acts such as jumping and balancing,
 especially in a circus.
@@ -152,6 +152,14 @@ especially in a circus.
 **addict** [ˈædɪkt] noun someone who cannot give up a habit that they have.	对…入迷的人; …迷
 
 	- If you say that someone is an addict, you mean that they like a particular activity very much and spend as much time doing it as they can.	
+
+**address**	 ['ædres] noun the building and area where someone lives or works. 住址；地址
+
+	- Your address is the number of the house, flat, or apartment and the name of the street and the town where you live or work.
+
+**adjective** ['ædʒəktɪv] noun a word that is used to describe a noun. 形容词
+
+	- An adjective is a word such as 'big', 'dead', or 'financial' that describes a person or thing, or gives extra information about them. Adjectives usually come before nouns or after link verbs.	
 
 
 **adviser**  [əd'vaɪzər] noun someone who gives advice or makes suggestions. 顾问；提供意见者
