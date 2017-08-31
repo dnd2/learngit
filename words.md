@@ -10,7 +10,7 @@
 **abdomen** ['æbdəmən] noun the part of an animal's or a person's body that contains the intestines and stomach. 腹（部）
 
 	- Your abdomen is the part of your body below your chest where your stomach and intestines are. 
-	- He was suffering from pains in his adbomen.
+	- He was suffering from pains in his abdomen.
 
 **ability** [ə'bɪləti] noun a talent for doing something.
 
