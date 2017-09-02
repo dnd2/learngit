@@ -70,7 +70,7 @@
 
 	- If you accept something that you have been offered, you say yes to it or agree to take it.
 
-**accident**  ['æksɪdənt] noun something that goes wrong by change.  意外；偶然
+**accident**  ['æksɪdənt] noun something that goes wrong by chance.  意外；偶然
 
 	- If something happens by accident, it happens completely by chance.
 	- He spilled the juice, but it was an accident.
@@ -91,7 +91,7 @@
 
 **ace** [eɪs] noun a playing card that has one main symbol in the center. A纸牌
 
-	- An ace is a playing card with a single symbol on it. In most card games, the ace of a particular suit has either the highest or the lowest value of the cards in that suit.
+	- An ace is a playing card with a single symbol on it. In most card games, the ace of a particular suit has either the highest or the lowest value of the cards in that [suit(扑克牌中的花色)].
 
 **ache** [eɪk] verb to feel a steady pain. （持续并较强烈地）疼痛
 
@@ -100,7 +100,7 @@
 
 **acid** ['æsɪd] noun a sharp-tasting, sour liquid. 酸
 	
-	- An acid is a chemical substance, usually a liquid, which contains hydrogen and can react with other substances to form salts. Some acids burn or dissolve other substances that they come into contact with.
+	- An acid is a chemical substance, usually a liquid, which contains hydrogen and can react with other substances to form salts. Some acids burn or dissolve other substances that they [come into contact with(接触，接触到)]. 
 
 **acorn** the seed of an oak tree.
 	
