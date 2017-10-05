@@ -492,6 +492,30 @@ https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c
 
 ## CSS布局
 
+**两列右侧自适应布局**
+
+~~~html
+<style>
+	p {height: 150px;padding: 10px;color: #fff;background: #ff0097;}
+	.frame-side-left{float: left;width: 190px;margin-right: -190px}
+    .frame-side-left p{background: #4eb3b9}
+	.frame-right{float: right;width: 100%;}
+	.frame-right-main{margin-left: 200px}
+</style>
+<div class="wrap">
+	<div class="frame-side-left">
+		<p>左侧定宽</p>
+	</div>
+	<div class="frame-right">
+		<div class="frame-right-main">
+			<p>右侧自适应</p>
+		</div>
+	</div>
+</div>	
+~~~
+
+Q: 为什么要增加frame-right-main这一层才能保证左侧不被覆盖?
+
 ###flex 布局
 
     - 2009年由W3C提出的新方案，用于实现各种布局，是FLexible Box缩写，意为"弹性布局"，用来为盒状模型提供最大的灵活性。

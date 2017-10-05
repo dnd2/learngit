@@ -175,7 +175,7 @@ especially in a circus.
 **aerobics** [e'roʊbɪks] noun energetic physical exercises that are done in time to music. 有氧运动；有氧健身法
 
 	- Aerobics is a form of exericse which increases the amount of oxygen in your blood, and strengthens your heart and lungs. The verb that follows aerobics may be either sigular or plural.
-
+50m 660 100m 780
 **aerosol**  ['erə.sɑl] noun a can that forces out liquid in a fine spray. （装涂料、除臭剂等的）小型喷雾器
 
 	- An aerosol is a small container in which a liquid such as paint or deodorant is kept under pressure. When you press a button, the liquid is forced out as a fine spray or foam.
@@ -271,3 +271,230 @@ especially in a circus.
 	- The Ukraine is strong both in industry and agriculture. 乌克兰的工业和农业都很发达
 	- agricultural [.æɡrɪ'kʌltʃ(ə)rəl] adjective 农业的；农用的
 		- Agricultural means involving or realting to agriculture. 
+
+**retaliate** [rɪ'tæl.ieɪt] verb 报复；反击
+ If you retaliate when someone harms or annoys you, you do something which harms or annoys them in return.
+	- I was sorely tempted to retaliate...	
+
+**stumble**	['stʌmb(ə)l] verb 绊倒
+ If you stumble, you put your foot down awkwardly while you are walking or running and nearly fall over.
+	- He stumbled and almost fell. 他差点被绊倒
+	
+**dismissal** [dɪs'mɪs(ə)l] verb 解雇;开除
+ When an employee is dismissed from their job, you can refer to their dismissal.	
+
+ **miscellaneous**  [.mɪsə'leɪniəs] adjective 混杂的;五花八门的
+ A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category.
+ 	- They eat a lot of meats and dairy foods, along with a lot of miscellaneous items that don't fall into any group.
+
+**resemble**  [riˈzɛmb(ə)l] verb 类似；与…相似
+If one thing or person resembles another, they are similar to each other.
+	- She so resembles her mother.	
+
+
+
+1. A federal judge in Manhattan on Tuesday dismissed Sarah Palin's defamation lawsuit against the New York Times.
+2. For the first time ever, South Korea has more old people than young people. South Korea is aging faster than any other developed country.
+	- for the first time ever 有史以来第一次；史无前例地
+	- developed country 发达国家
+3. How North Korea tests a nuclear weapon? The first hint the world gets of a North Korean nuclear test is seismic activity.
+	- nuclear ['nukliər] adj. 核能的；核武器的  	
+	- nuclear weapon 核武器
+	- hint  [hɪnt] n. 暗示；迹象
+	- the firtst hint 第一个迹象/征兆
+	- get of... 获得
+	- seismic ['saɪzmɪk] adj. 地震的;地震引起的
+	- seismic activity 地震活动
+4. 	RIO DE JANEIRO - Brazilian and French authorities said Tuesday they uncovered an international corruption scheme aimed at buying votes in awarding the 2016 Olympics. This is the latest allegation to sully the legacy
+of the Rio Games, the first Olympics in South America.
+	- Rio De Janeiro 里约热内卢
+	- authority [ə'θɔrəti] noun 当局;官方
+	- uncover [ʌn'kʌvər] verb 揭露，发现（隐秘之事）
+	- corruption [kə'rʌpʃ(ə)n] noun 腐败;贪污
+	- scheme [skim] noun  诡计;计划
+	- aim at 针对
+	- buying votes 贿选
+	- allegation [.ælə'ɡeɪʃ(ə)n] noun 指控;指责
+	- sully ['sʌli] verb 败坏;有损于
+	- legacy ['leɡəsi] 遗产；遗赠
+
+5. Facebook Inc said on Wednesday it had found that an operation likely based in Russia spent $100,000 on thousands of U.S. promoting divisive social and political messages in a two-year-period through May.
+	- thousands of 成千上万的
+	- promote [prə'moʊt] verb 促进；增进	
+	- divisive  [dɪ'vaɪsɪv] adjective 造成不和的;引起分歧的;制造争端的	
+	- two-year-period 两年时间里
+	- social and political messages 社会和政治信息
+
+6. KEY WEST, Fla -- As the waves and winds began easing Sunday, residents of Old Town emerged not knowing exactly what to expect from the most powerful hurricane to strike the Florida Keys in more than a half century.
+	- Key West 基韦斯特	(美国佛罗里达州西南,墨西哥湾中一小岛)
+	- wave  [weɪv] noun 波浪;(尤指)海浪 
+	- ease [iz] verb（使）（程度、速度、强度等）减少；(使)降低
+	- emerge [ɪ'mɜrdʒ] verb （从困境或不好的经历中）摆脱出来，熬出来
+	- powerful ['paʊrf(ə)l] adjective 强大的；强有力的
+	- hurricane ['hʌrɪ.keɪn] noun 飓风
+	- strike [straɪk] verb  (疾病、灾难等)侵袭，爆发
+	- Florida Keys 佛罗里达群岛
+	- in more than a half century 在半个多世纪里
+
+7. The iphone not only changed how consumers communicate and get information, but it transformed Apple into one of the world's most valuable companies.
+	- communicate  [kə'mjunɪ.keɪt] verb 沟通;联系;交流
+	- get information 获取信息
+	- transform  [træns'fɔrm] verb 转换;改变
+	- transform into 转变成
+	- valuable ['væljəb(ə)l] adjective 有价值的;有益的	
+
+8. NEW YORK - Hillary Clinton, who spent decades on the public stage in a myriad of roles and changing personas, emerged Tuesday in a new one: ghost from the political past.
+	- decade ['dekeɪd] n. 十年
+	- public stage 公众舞台
+	- myriad ['mɪriəd] 无数;大量;各种各样  a myriad of 大量
+	- persona [pəˈsoʊnə] n. 形象；人格面具
+	- political past	
+	- emerge （从困境或不好的经历中）摆脱出来，熬出来
+
+9. Rolling Stone, Once a counterculture bible, will be put up for sale.	From a loft in San Francisco in 1967, a 21-year-old named Jann S. Wenner started a magazine that would become the counterculture bible for baby boomers. Rolling Stone defined cool, cultivated literary icons and produced star-making covers that were such coveted real estate they inspired a song.
+	- put up for sale 拿出拍卖;拿出销售
+	- counterculture  ['kaʊntər.kʌltʃər] noun 反主流文化
+	- bible ['baɪb(ə)l] noun 基督教的《圣经》
+	- loft [lɔft] noun 阁楼；顶楼
+	- boomer  [ˈbuːmə(r)] noun 〈非正式〉在生育高峰期出生的人
+	- baby boomer 婴儿潮
+	- cultivated  ['kʌltɪ.veɪtd] adjective 有教养的;有修养的;举止文雅的
+	- literary ['lɪtə.reri] adjective 文学（上）的
+	- covet ['kʌvət] verb 渴望;觊觎;妄想(别人东西)
+	- inspire [ɪn'spaɪr] verb 激励;启发
+
+10. ST. LOUIS — More than 100 protesters peacefully marched arm-in-arm to City Hall on Monday, hours after a third night of violence resulted in 80 more arrests following the acquittal of a white police officer in the fatal shooting of a black motorist.	
+	- St. Louis 圣路易斯 (密苏里州第一大城市)
+	- protester [prə'testər] noun 抗议者；反对者
+	- peacefully  [ˈpisfʊlɪ] adverb 平静地；安祥地
+	- march  [mɑrtʃ] verb （坚定地向某地）前进；游行示威
+	- arm-in-arm 手挽著手
+	- city hall 市政府；市政厅
+	- hours after a third night of... 在第3晚数小时后的
+	- violence ['vaɪələns] noun 暴力;暴行
+	- result verb 导致;引起;造成
+		- result in 导致；结果是
+	- acquittal [ə'kwɪt(ə)l] noun 宣告无罪；无罪的判决	
+	- a white police officer 
+	- fatal ['feɪt(ə)l] adjective  (行为)致命的，后果极严重的
+	- motorist ['moʊtərɪst] noun 汽车驾驶员
+
+11. UNITED NATIONS, Sept 19 (Reuters) - U.S. President Donald Trump escalated his standoff with North Korea over its nuclear challenge on Tuesday, threatening to "totally destroy" the country of 26 million people and mocking its leader, Kim Jong Un, as a "rocket man."
+	- United Nations 联合国
+	- Reuters ['rɔɪtəz] noun (英国)路透(通讯)社
+	- escalate  ['eskə.leɪt] verb （使）扩大;（使）恶化;（使）升级
+	- standoff  [ˈstændˌɔf] noun 僵局;僵持
+	- over preposition 关于；由于
+	- threaten ['θret(ə)n] verb 威胁；危及
+	- totally  [ˈtoʊt(ə)li] adverb  完全地;彻底地
+	- totally destroy 完全摧毁
+	- mock [mɑk] verb 嘲笑;嘲弄
+	- rocket man 火箭人
+
+12. In Mexico City, rich and poor had little in common. Until the earthquake hit. MEXICO CITY — On one of Mexico City’s trendiest streets, lined with art galleries, cafes and gourmet restaurants, taco vendor Luis Miguel Osorio and his wife and daughter worked rapidly Wednesday to serve food to the victims, volunteers and emergency workers crowded around a nearby apartment building that collapsed during Mexico’s deadliest earthquake in 32 years.
+	- have (a)little in common 几乎没有（有）共同之处
+	- Mexico  [ˈmeksɪkəʊ] noun 墨西哥
+	- Mexico City
+	- earthquake hit 地震发生时
+	- trendy  ['trendi] adjective 时髦的;时尚的
+	- line  [laɪn] verb 沿…排列成行；遍布…的边沿
+	- line with 四周遍布, 两旁是
+	- gallery [ˈɡæləri] noun 画廊
+	- cafe  ['kæfeɪ] noun 咖啡馆
+	- gourmet ['ɡʊə(r)meɪ] adjective 珍馐的；美味佳肴的
+	- gourmet restaurant 美食餐厅；高档餐厅
+	- taco  ['tɑkoʊ] noun  (包着肉、蔬菜和辣酱的)墨西哥玉米薄饼卷
+	- vendor  [ˈvɛndə(r)] noun 小贩;摊贩
+	- Luis Miguel Osorio ['lwis] 路易斯 [mi'gɛl] 米格尔  奥索里约
+	- rapidly ['ræpɪdli] adverb 快速的；迅速的
+	- serve [sɜrv] verb 供应(某地或某人);为…提供服务
+	- victim ['vɪktɪm] noun 受害者;遇害者
+	- volunteer [.vɒlən'tɪə(r)] noun 志愿者
+	- emergency [ɪ'mɜrdʒənsi] noun 突发事件；紧急情况
+	- emergency workers 救援人员 
+	- crowd 聚集在…周围;在…聚拢
+	- crowd around 围住；围挤在…周围
+	- nearby [.nɪr'baɪ] adverb 在附近  adjective 附近的，临近的
+	- apartment [əˈpɑːrtmənt] noun 公寓
+	- a nearby apartment building 附近的一座公寓
+	- collapse [kə'læps] verb 倒塌
+	- deadly  ['dedli] adverb 致命的;致死的
+	- deadliest earthquake 严重的一次地震
+	- art galleries 美术馆;艺廊
+
+13. In South Korea, daily streses outweigh North Korea missile worries. Soon after North Korea tested its sixth and largest nuclear bomb earlier this month, You Jae-youn, a 32-year-old South Korean office worker, swiftly put the news behind her to focus on more immediate worries.
+	- daily  ['deɪli] adverb 每日;每天
+	- stress [stres] noun 压力
+	- outweigh [aʊt'weɪ] （在重要性、益处、意义等上）重于，大于，超过
+	- soon after 不久以后
+	- swiftly  [ˈswɪftlɪ] adverb 快地;迅速地	
+	- focus on 关注；集中在
+	- immediate [ɪ'midiət] adjective  立即的;即刻的
+	- immediate worries 随时的担忧
+
+14. What would a Hydrogen bomb do to the pacific ocean? The latest fiery exchange between the United States and North Korea has produced a new kind of threat. On Tuesday, during his speech at the United Nations, President Trump said his government would "totally destroy North Korea" if necessary to defend the United States or its allies. On Friday, Kim Jong Un responded, saying North Korea "will consider with seriousness exercising of a corresponding, highest level of hard-line countermeasure in history."	
+	- hydrogen  ['haɪdrədʒən] noun 氢；氢气
+	- hydrogen bomb 氢弹
+	- the pacific ocean 太平洋
+	- fiery ['faɪri] adjective  (感情、尤指愤怒)激烈的，暴烈的  火一般的；火的
+	- exchange [ɪks'tʃeɪndʒ] noun（常指）口角，争吵
+	- fiery exchange 激烈的争执
+	- a new kind of 一种新的
+	- threat [θret] noun 威胁
+	- defend [dɪ'fend] 防御;保卫;保护
+	- ally  ['ælaɪ] noun 盟友
+	- consider with 考虑
+	- exercise noun 演习;操练
+	- seriousness ['sɪəriəsnəs] noun 严重;严肃
+	- corresponding  [.kɔrə'spɑndɪŋ] adjective 相应的；相关的
+	- hard-line noun 强硬路线
+	- countermeasure ['kaʊntəmeʒə(r)] noun 对策；对抗手段；反措施
+	- in history 有史以来
+
+15. Saudi Cleric banned for women 'Quarter-brain' jibe. A Saudi preacher has been banned from all religious activities after saying that women should not be allowed to drive because they have a quarter the brain of men.
+	- Saudi Cleric 沙特神职人员
+	- Saudi ['saʊdɪ] adjective 沙特阿拉伯的; noun 沙特阿拉伯(人)
+	- cleric ['klerɪk] noun 神职人员
+	- ban [bæn]（明令）禁止；取缔
+	- ban for, ban from 禁止
+	- jibe [dʒaɪb] noun 嘲讽；嘲弄
+	- preacher ['pritʃər] noun 牧师；传道士
+	- religious [rə'lɪdʒəs] adjective 宗教的
+
+16. James Comey spoke at Howard University. It did not go well. Students at Howard University loudly protested former FBI Diretor James Comey Friday as he delivered a convocation address.
+	- Howard [ˈhaʊərd] noun 霍华德
+	- Howard University 一所综合类的私立大学，为全美著名的黑人大学
+	- go well 进展顺利
+	- protest  ['proʊ.test] verb 抗议；反对
+	- former ['fɔrmər] adjective 以前的；昔日的
+	- director [dɪˈrɛktɚ] noun 主任;主管;署长;局长
+	- convocation [.kɑnvə'keɪʃ(ə)n] noun （尤指教会或大学的）大型会议;典礼
+	- address ['ædres] noun 演说
+	- a convocation address 
+	- deliver [dɪ'lɪvər] verb 作(讲座);发表(讲话)
+
+17. New Order Bars almost all travel from seven countries. Washington - President Trump on Sunday issued a new order banning almost all travel to the United States from seven countries, including most of the nations covered by his original travel ban, citing threats to national security posed by letting their citizens into the country.
+
+18. US first lady, Prince Harry meet before invictus games. Toronto - U.S. first lady Melania Trump met Saturday with Britain's Prince Harry as she led a delegation to Toronto for the opening of an Olympic-style competition for wounded service members and veterans that he founded several years ago.
+
+19. Italian woman 'marries herself'. An Italian woman has married herself in a ceremony complete with white dress, three-layer wedding cake, bridesmaids and 70 guests.
+	- ceremony ['serə.moʊni] noun 仪式；典礼
+	- complete with 配上;连同;包括
+	- white dress 白色长裙
+	- three-layer 三层
+	- wedding cake 结婚蛋糕
+	- bridesmaid ['braɪdz.meɪd] noun 伴娘; 女傧相
+
+20. 5 issues driving the push to crack down on tech giants. Tech giants like Google and Facebook are facing new government scrutiny, after years of enjoying a hands-off approach from legislators and regulators.
+	- drive the push 推动
+	- crack down on 对…进行制裁	
+	- tech [tek] noun 科技；技术  同technical college 
+	- tech giants 
+	- scrutiny  ['skrut(ə)ni] noun 详细的检查(或审查);仔细的观察
+	- hands-off [ˈhændzˌɒf] adjective 不插手的，不干涉的；
+	- approach [ə'proʊtʃ] noun 方法;态度;手段
+	- a hands-off approach 不干预的方法
+	- legislator  ['ledʒɪ.sleɪtər] noun  立法者；立法机关成员
+	- regulator ['reɡjə.leɪtər] noun 监管机构;管理者
+
+21. Why Shanghai is the next Silicon Valley - and why you should care. This summer, I had the opportunity to spend some time in the lively city of Shanghai, China. I gorged on juicy soup dumplings, visited historic Confucius temples, and most importantly saw China's rapidly growing tech-scene.	
