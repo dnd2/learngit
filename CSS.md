@@ -474,6 +474,19 @@ IE 7.0中，将半行距分别加在了图片的上下，而由于图片默认�
 
 [原文](http://www.jb51.net/css/199172.html)
 
+### Block Formatting Context 格式化上下文,CSS2.1规范定义
+
+* 视觉格式化模型 (Visual formatting model)
+    - 用来处理文档并将其显示在视觉媒体上的机制
+    - 定义了盒的生成,盒包括块盒,行内盒,匿名盒(没名字不能被选择器选中的盒),盒类型由display属性决定
+    - 块盒 (block box)
+        * display为block, list-item or table  属于块级元素
+        * 视觉呈现为块, 垂直排列
+        * 块级盒参与(块格式化上下文)
+    - 行内盒 (inline box)
+        * display属性为inline, inline-block or inline-table 属于行内级元素
+        *　
+
 
 web移动开发
 http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept
@@ -496,25 +509,26 @@ https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c
 
 ~~~html
 <style>
-	p {height: 150px;padding: 10px;color: #fff;background: #ff0097;}
-	.frame-side-left{float: left;width: 190px;margin-right: -190px}
-    .frame-side-left p{background: #4eb3b9}
-	.frame-right{float: right;width: 100%;}
-	.frame-right-main{margin-left: 200px}
+    p{height:150px;padding:10px;color:#fff;background:#ff0097;}
+    .g-sd1{position:relative;float:left;width:190px;margin-right:-190px;}
+    .g-sd1 p{background:#4eb3b9}
+    .g-mn1{float:right:width:100%;}
+    .g-mn1c{margin-left:200px}
+    .f-cb:after{display:block;clear:both;visibility:hidden;height:0;overflow:hidden;content:"."}
 </style>
-<div class="wrap">
-	<div class="frame-side-left">
-		<p>左侧定宽</p>
-	</div>
-	<div class="frame-right">
-		<div class="frame-right-main">
-			<p>右侧自适应</p>
-		</div>
-	</div>
-</div>	
+<div class="g-bd1 f-cb">
+    <div class="g-sd1">
+        <p>左侧定宽</p>
+    </div>
+    <div class="g-mn1">
+        <div class="g-mn1c">
+            <p>右侧自适应</p>
+        </div>
+    </div>
+</div>
 ~~~
 
-Q: 为什么要增加frame-right-main这一层才能保证左侧不被覆盖?
+Q: 为什么右侧元素需要用class为g-mn1包裹?
 
 ###flex 布局
 

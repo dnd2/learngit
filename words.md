@@ -48,19 +48,20 @@
 
 **absorb** [əbˈsɔrb] verb to soak up. 吸收（液体、气体等）
 
-	- If something absorbs a liquid, gas, or other substance, it soaks it up to takes it in.
+	- If something absorbs a liquid, gas, or other substance, it soaks it up to takes it in. (take in 吸进)
 	- A sponge absorbs liquid.
 	- absorbent [əb'zɔrbənt] adjective  易吸收（液体）的；吸水的
 		- Absorbent material soaks up liquid easily.
-
+ 
 **absurd** [əb'sɜ:d] adjective silly or ridiculous 荒谬的；荒唐的；不合理的
 
-	- If you say that something is absurd, you are criticizing it because you think that it is ridiculous or that it does not make sense.
+	- If you say that something is absurd, you are criticizing it because you think that it is ridiculous or that it does not make sense. (make sense 合理；有道理, it does not make sense 讲不通；说不通)
 	- She looked absurd leaving for school in her pajamas.
 
 **accent** [æk'sent] noun 
 
 	1. the way people say words.  口音
+		- Someone who speaks with a particular accent pronounces the words of a language in a distinctive way that shows which country, region or social class they come from.
 		- She had a foreign accent. 
 	2. a mark on a letter showing you how to pronounce it. （某些语言中标在字母上方的）变音符号
 		- An accent is a short line or other mark which is written above certain letters in some languages and which indicates the way those letters are pronounced.
@@ -117,7 +118,7 @@ especially in a circus.
 
 **act** 
 
-	1. to behave in a certain way. 做事，行动
+	1. to behave [in a certain way(在某种意义上；以某种方式)]. 做事，行动 
 	- When you act, you do something for a particular purpose.
 	- He was acting very strangely.
 	2. to take part in a play, a film, or a television program.  表演
@@ -160,7 +161,6 @@ especially in a circus.
 **adjective** ['ædʒəktɪv] noun a word that is used to describe a noun. 形容词
 
 	- An adjective is a word such as 'big', 'dead', or 'financial' that describes a person or thing, or gives extra information about them. Adjectives usually come before nouns or after link verbs.	
-
 
 **adviser**  [əd'vaɪzər] noun someone who gives advice or makes suggestions. 顾问；提供意见者
 
@@ -283,7 +283,7 @@ especially in a circus.
 **dismissal** [dɪs'mɪs(ə)l] verb 解雇;开除
  When an employee is dismissed from their job, you can refer to their dismissal.	
 
- **miscellaneous**  [.mɪsə'leɪniəs] adjective 混杂的;五花八门的
+**miscellaneous**  [.mɪsə'leɪniəs] adjective 混杂的;五花八门的
  A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category.
  	- They eat a lot of meats and dairy foods, along with a lot of miscellaneous items that don't fall into any group.
 
@@ -291,7 +291,32 @@ especially in a circus.
 If one thing or person resembles another, they are similar to each other.
 	- She so resembles her mother.	
 
+**reluctant** [rɪ'lʌktənt] adjective 不情愿的；勉强的
+If you are reluctant to do something, you are unwilling to do it and hesitate before doing it, or do it slowly and without enthusiasm.
+	- Mr Spero was reluctant to ask for help.	
 
+**frugal** ['fruɡ(ə)l] adjective （对金钱、食物等）节约的；节俭的
+People who are frugal or who live frugal lives do not eat much or spend much money on themselves.
+	- She lives a frugal life. 她生活俭朴
+
+**shiver** ['ʃɪvər]	verb  (因寒冷或惧怕而)哆嗦，颤抖，发抖
+When you shiver, your body shakes slightly because you are cold or frightened.
+	- He shivered in the cold. 他冻得发抖
+
+**meticulous** [mɪ'tɪkjələs] adjective 细心的；小心谨慎的
+If you describe someone as meticulous, you mean that they do things very carefully and with great attention to detail.
+	- He was so meticulous about everything. 他对所有事情都一丝不苟
+
+**impartial** [ɪm'pɑrʃ(ə)l] adjective 公正的;无偏见的；中立的
+Someone who is impartial is not directly involved in a particular situation, and is therefore able to give a fair opinion or decision about it.
+	- Careers officers offer impartial advice to all pupils. 就业指导员向所有学生提供公正无私的建议	
+
+### Aditional Words
+
+- hexadecimal  [.heksə'desɪm(ə)l] adjective 十六进制的
+- sequence ['sikwəns] noun 顺序；次序；序列
+- hexadecimal escape sequence 十六进制转义序列
+- malformed [.mæl'fɔrmd] adjective 畸形的; 难看的
 
 1. A federal judge in Manhattan on Tuesday dismissed Sarah Palin's defamation lawsuit against the New York Times.
 2. For the first time ever, South Korea has more old people than young people. South Korea is aging faster than any other developed country.
@@ -308,7 +333,7 @@ If one thing or person resembles another, they are similar to each other.
 4. 	RIO DE JANEIRO - Brazilian and French authorities said Tuesday they uncovered an international corruption scheme aimed at buying votes in awarding the 2016 Olympics. This is the latest allegation to sully the legacy
 of the Rio Games, the first Olympics in South America.
 	- Rio De Janeiro 里约热内卢
-	- authority [ə'θɔrəti] noun 当局;官方
+	- authority [ɔ'θɔrəti] noun 当局;官方
 	- uncover [ʌn'kʌvər] verb 揭露，发现（隐秘之事）
 	- corruption [kə'rʌpʃ(ə)n] noun 腐败;贪污
 	- scheme [skim] noun  诡计;计划
@@ -498,3 +523,50 @@ of the Rio Games, the first Olympics in South America.
 	- regulator ['reɡjə.leɪtər] noun 监管机构;管理者
 
 21. Why Shanghai is the next Silicon Valley - and why you should care. This summer, I had the opportunity to spend some time in the lively city of Shanghai, China. I gorged on juicy soup dumplings, visited historic Confucius temples, and most importantly saw China's rapidly growing tech-scene.	
+	- silicon ['sɪlɪkən] noun 硅
+	- Silicon Valley 硅谷
+	- care verb 关心;在乎;在意
+	- lively [ˈlaɪvli] adjective 有活力的;活泼的
+	- gorge [ɡɔrdʒ] verb 贪婪地吃；狼吞虎咽
+	- gorge on 狼吞虎咽地吃
+	- juicy ['dʒusi] adjective 多汁的
+	- dumpling  [ˈdʌmplɪŋ] noun 小面团;汤团;饺子
+	- soup dumplings 小笼包；灌汤饺
+	- historic  [hiˈstɒrik] adjective 历史上有名的；具有历史价值的；历史性的
+	- Confucius  [kən'fjuʃəs] noun 孔子
+	- Confucius Temples 夫子庙
+	- rapidly ['ræpɪdli] adverb 迅速地
+	- scene [sin] noun 现场；景象
+	- tech-scene 科技发展
+
+22. Ancient mystery of how the Egyptians built the Greate Pyramid of Giza may be solved. Archaeologists believe they have solved one of history's most puzzling questions -- how the ancient Egyptians transported over 170,000 tons limestone to build the Great Pyramid at Giza.
+	- mystery ['mɪst(ə)ri] noun 神秘；奥秘; 神秘的事
+	- ancient mystery 古老的神秘事物
+	- Egyptian [ɪ'dʒɪpʃ(ə)n] noun 埃及人
+	- Pyramid ['pɪrəmɪd] noun 金字塔
+	- Giza  ['ɡi:zə] noun 吉萨(埃及尼罗河下游左岸一城市,与开罗隔河相望,吉萨省首府。)
+	- solve [sɑlv] verb 解决；破解
+	- archaeologist [ˌɑ:ki'ɒlədʒɪst] noun 考古学家
+	- puzzling ['pʌz(ə)lɪŋ] adjective 费解的；莫名其妙的; 令人困惑的
+	- limestone ['laɪm.stoʊn] noun 石灰岩 
+
+23. Bob Corker says Trump's recklessness threatens 'World War III'. Washington -- Senator Bob Corker, the Republican chairman of the Senate Foreign Relations Committee, charged in an interview on Sunday that President Trump was treating his office like "a reality show," with reckless threats toward other countries that could set the nation "on the path to World War III".
+
+24. Guns and the Soul of America. The pattern is by now numbingly familiar. A lone lunatic murders a mass of innocent people in some public location. There is a heartfelt cry for tighter control on gun ownership. Then state legislatures swing into action. They pass a series of laws loosening controls on gun ownership. ( Editor's note: The opinions in this article are the author's, as published by our content partner, and do not necessarily represent the views of MSN or Microsoft. )
+
+25. Trump challenges Tillerson to an 'IQ test'. The White House claims it was 'a joke'. President Trump and Secretary of State Rex Tillerson Tuesday to smooth over tensions in their relationship during a White House lunch after the president proposed an "IQ tests" faceoff with his top diplomat, who earlier had privately called Trump a "moron" and disparaged his grasp of foreign policy.
+
+26. Clinton 'sick,' 'shocked' and 'appalled' by Weinstein allegations. Hillary Clinton said in an interview with CNN on Wednesday that she will donate the money Harvey Weinstein contributed to her political campaigns after multiple sexual assault allegations were leveled against the powerful Hollywood mogul.
+	- appalled [əˈpɔːld] adjective (因极糟糕或可怕的事情)震惊；惊骇
+	- sick [sɪk] adjective 厌倦的;厌烦的;厌恶的
+	- by [bai] preposition 由；被
+	- Weinstein 韦恩斯
+	- donate ['doʊ.neɪt] verb 捐赠；赠予
+	- contribute ['kɑntrɪ.bjut] verb 捐献;捐助
+	- campaign [kæm'peɪn] noun  (社会、政治)运动,活动
+	- political campaign 政治运动；竞选
+	- multiple ['mʌltɪp(ə)l] adjective 多部分的;涉及多人的;多次的
+	- sexual ['sekʃuəl] adjective 性欲的;性行为的
+	- assault [ə'sɔlt] noun  人身攻击；殴打；（身体）侵犯
+	- level against 控拆某人
+	- mogul	['moʊɡ(ə)l] noun (尤指新闻、影视业的)有权势的富商，大人物，大亨	 
