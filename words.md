@@ -270,46 +270,69 @@ especially in a circus.
 	- One form of agriculture in Thailand is rice growing.
 	- The Ukraine is strong both in industry and agriculture. 乌克兰的工业和农业都很发达
 	- agricultural [.æɡrɪ'kʌltʃ(ə)rəl] adjective 农业的；农用的
-		- Agricultural means involving or realting to agriculture. 
+		- Agricultural means involving or relating to agriculture. # relating to 关于
 
 **retaliate** [rɪ'tæl.ieɪt] verb 报复；反击
- If you retaliate when someone harms or annoys you, you do something which harms or annoys them in return.
-	- I was sorely tempted to retaliate...	
+ 
+ 	If you retaliate when someone harms or annoys you, you do something which harms or annoys them in return.
+	- I was sorely tempted to retaliate...	我非常想报复
 
 **stumble**	['stʌmb(ə)l] verb 绊倒
- If you stumble, you put your foot down awkwardly while you are walking or running and nearly fall over.
+ 
+ 	If you stumble, you put your foot down awkwardly while you are walking or running and nearly fall over.
 	- He stumbled and almost fell. 他差点被绊倒
 	
-**dismissal** [dɪs'mɪs(ə)l] verb 解雇;开除
- When an employee is dismissed from their job, you can refer to their dismissal.	
+**dismissal** [dɪs'mɪs(ə)l] noun 解雇;开除
+ 
+ 	When an employee is dismissed from their job, you can refer to their dismissal.	
 
 **miscellaneous**  [.mɪsə'leɪniəs] adjective 混杂的;五花八门的
- A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category.
+ 
+ 	A miscellaneous group consists of many different kinds of things or people that are difficult to put into a particular category.
  	- They eat a lot of meats and dairy foods, along with a lot of miscellaneous items that don't fall into any group.
 
 **resemble**  [riˈzɛmb(ə)l] verb 类似；与…相似
-If one thing or person resembles another, they are similar to each other.
+	
+	If one thing or person resembles another, they are similar to each other.
 	- She so resembles her mother.	
 
 **reluctant** [rɪ'lʌktənt] adjective 不情愿的；勉强的
-If you are reluctant to do something, you are unwilling to do it and hesitate before doing it, or do it slowly and without enthusiasm.
-	- Mr Spero was reluctant to ask for help.	
+	
+	If you are reluctant to do something, you are unwilling to do it and hesitate before doing it, or do it slowly and without enthusiasm.
+	- Mr Spero was reluctant to ask for help.	斯佩罗先生不愿意寻求帮助
 
 **frugal** ['fruɡ(ə)l] adjective （对金钱、食物等）节约的；节俭的
-People who are frugal or who live frugal lives do not eat much or spend much money on themselves.
+
+	People who are frugal or who live frugal lives do not eat much or spend much money on themselves.
 	- She lives a frugal life. 她生活俭朴
 
 **shiver** ['ʃɪvər]	verb  (因寒冷或惧怕而)哆嗦，颤抖，发抖
-When you shiver, your body shakes slightly because you are cold or frightened.
+
+	When you shiver, your body shakes slightly because you are cold or frightened.
 	- He shivered in the cold. 他冻得发抖
 
 **meticulous** [mɪ'tɪkjələs] adjective 细心的；小心谨慎的
-If you describe someone as meticulous, you mean that they do things very carefully and with great attention to detail.
+
+	If you describe someone as meticulous, you mean that they do things very carefully and with great attention to detail.
 	- He was so meticulous about everything. 他对所有事情都一丝不苟
 
 **impartial** [ɪm'pɑrʃ(ə)l] adjective 公正的;无偏见的；中立的
 Someone who is impartial is not directly involved in a particular situation, and is therefore able to give a fair opinion or decision about it.
 	- Careers officers offer impartial advice to all pupils. 就业指导员向所有学生提供公正无私的建议	
+
+**disillusion** [.dɪsɪ'luʒ(ə)n] verb 使醒悟；使不再抱幻想
+
+	If a person or thing disillusion you, they make you realize that something is not as good as you thought.
+	- i'd hate to be the one to disillusion him. 我不愿意成为那个让他幻想破灭的人	
+
+**fraternal** [frə'tɜrn(ə)l] adjective （指志趣相投者）兄弟般的；兄弟间的
+
+	Fraternal actions show strong links of friendship between two people or groups of people.
+	- the fraternal assistance of our colleagues and comrades. 同事和朋友们对我们兄弟般的帮助 
+
+**reservoir** ['rezər.vwɑ] noun 水库;蓄水池
+
+	A reservoir is a lake that is used for storing water before it is supplied to people.	
 
 ### Aditional Words
 
@@ -462,7 +485,7 @@ of the Rio Games, the first Olympics in South America.
 	- hydrogen bomb 氢弹
 	- the pacific ocean 太平洋
 	- fiery ['faɪri] adjective  (感情、尤指愤怒)激烈的，暴烈的  火一般的；火的
-	- exchange [ɪks'tʃeɪndʒ] noun（常指）口角，争吵
+	- exchange [ɪks'tʃeɪndʒ] noun（常指）口角，争吵    
 	- fiery exchange 激烈的争执
 	- a new kind of 一种新的
 	- threat [θret] noun 威胁
@@ -551,6 +574,19 @@ of the Rio Games, the first Olympics in South America.
 	- limestone ['laɪm.stoʊn] noun 石灰岩 
 
 23. Bob Corker says Trump's recklessness threatens 'World War III'. Washington -- Senator Bob Corker, the Republican chairman of the Senate Foreign Relations Committee, charged in an interview on Sunday that President Trump was treating his office like "a reality show," with reckless threats toward other countries that could set the nation "on the path to World War III".
+	- Corker ['kɔ:kə(r)] 田纳西州的参议员科尔克
+	- recklessness [ˈrɛklɪsnɪs] noun 轻率；鲁莽
+	- senator ['senətər] noun  (美国、澳大利亚等国的)参议员
+	- republican [rɪ'pʌblɪkən] adjective (美国)共和党的，支持共和党的
+	- committee [kə'mɪti] noun  委员会
+	- Senate Foreign Relation Committee 美国参议院外交委员会
+	- charge [tʃɑrdʒ] verb (公开)指责，谴责
+	- treat  [triːt] verb 对待;看待;处理
+	- reality  [ri'æləti] noun 现实;事实
+	- a reality show 真人秀
+	- reckless ['rekləs] adjective 鲁莽的；不计后果的
+	- threat [θret] verb 威胁；恐吓
+	- set the nation on the path to... 使国家走上...道路
 
 24. Guns and the Soul of America. The pattern is by now numbingly familiar. A lone lunatic murders a mass of innocent people in some public location. There is a heartfelt cry for tighter control on gun ownership. Then state legislatures swing into action. They pass a series of laws loosening controls on gun ownership. ( Editor's note: The opinions in this article are the author's, as published by our content partner, and do not necessarily represent the views of MSN or Microsoft. )
 
@@ -570,3 +606,25 @@ of the Rio Games, the first Olympics in South America.
 	- assault [ə'sɔlt] noun  人身攻击；殴打；（身体）侵犯
 	- level against 控拆某人
 	- mogul	['moʊɡ(ə)l] noun (尤指新闻、影视业的)有权势的富商，大人物，大亨	 
+
+27. What's with world leaders giving Vladimir Putin puppies as gifts? On Wednesday in Sochi, Russian President Vladimir Putin sat down with his counterpart from Turkmenistan, Gurbanguly Berdymukhamedov. An unresolved issue currently stands between the two nations: Russia was once the main buyer of the former Soviet state's ample natural gas reserves. Last year, however, a pricing dispute killed the business. Berdymukhamedov now hopes to mend the relationship.	
+
+28. Even if Trump's threat against NBC isn't serious, it's still destructive. After NBC ran an article maintaining that the president had asked for the nuclear arsenal to be increased tenfold, Donald Trump, as is his wont, tweeted:
+	With all of the Fake News coming out of NBC and the Networks, at what point is it appropriate to challenge their License? Bad for country!  -- Donald J. Trump October 11, 2017
+	- destructive [dɪˈstrʌktɪv] adjective 破坏(性)的;毁灭(性)的;极其危险的
+	- run verb (报纸、杂志等)刊登，发表
+	- maintain [meɪnˈteɪn] verb 维持;保持; 断言;宣称;坚称
+	- arsenal ['ɑrs(ə)nəl] noun 武器库；军火库
+	- nuclear arsenal 核武库
+	- tenfold ['ten.foʊld] adjective 十倍的
+	- wont [woʊnt] noun 习惯；惯常做法
+	- as is his wont  一如他惯常的作风
+	- tweet [twit] verb 推文
+	- fake [feɪk] adjective (毛皮、画作)假冒的，伪造的
+	- come out of 出自
+	- appropriate [əˈproʊpriət] adjective 适当的;合适的;恰当的
+	- challenge ['tʃæləndʒ] verb 挑战；质疑
+	- license ['laɪs(ə)ns] noun 许可；批准；授权
+	- bad for... 有害于 
+
+	
