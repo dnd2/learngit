@@ -334,6 +334,11 @@ Someone who is impartial is not directly involved in a particular situation, and
 
 	A reservoir is a lake that is used for storing water before it is supplied to people.	
 
+**clumsy** ['klʌmzi] adjective 笨拙的;不灵活的
+
+	A clumsy person moves or handles things in a careless, awkward way, often so that things are knocked over or broken.
+		- Unfortunately, I was still very clumsy behind the wheel of the jeep. 令人遗憾的是我开起吉普来还是笨手笨脚		
+
 ### Aditional Words
 
 - hexadecimal  [.heksə'desɪm(ə)l] adjective 十六进制的

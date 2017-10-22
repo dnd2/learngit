@@ -91,6 +91,7 @@ Note:
 	* 俏皮对话：
 		* See you later.
 		* Alligator. 故意用该词取代See you later,因为alligator中的gator与see you later中的later押韵。 该词在此无任何意义，纯属俏皮话，可视作See you later 
+	* Don't forget to say greetings to Uncle Wang.	
  
 * Hi, May. How's it going?
 * Great. And how are you doing?
