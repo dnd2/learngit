@@ -317,7 +317,8 @@ especially in a circus.
 	- He was so meticulous about everything. 他对所有事情都一丝不苟
 
 **impartial** [ɪm'pɑrʃ(ə)l] adjective 公正的;无偏见的；中立的
-Someone who is impartial is not directly involved in a particular situation, and is therefore able to give a fair opinion or decision about it.
+
+	Someone who is impartial is not directly involved in a particular situation, and is therefore able to give a fair opinion or decision about it.
 	- Careers officers offer impartial advice to all pupils. 就业指导员向所有学生提供公正无私的建议	
 
 **disillusion** [.dɪsɪ'luʒ(ə)n] verb 使醒悟；使不再抱幻想
@@ -333,11 +334,37 @@ Someone who is impartial is not directly involved in a particular situation, and
 **reservoir** ['rezər.vwɑ] noun 水库;蓄水池
 
 	A reservoir is a lake that is used for storing water before it is supplied to people.	
+		- strong links 紧密联系;(人间关系中的)强连结
+
+**penetrate** ['penə.treɪt] verb 进入；穿过；穿透
+
+	If something or someone penetrates a physical object or an area, they succeed in getting into it or passing through it.
+		- X-rays can penetrate many objects. X射线能够穿透很多物体
+
+**warrant** ['wɔrənt] noun 依据；许可证；搜查令;拘捕令
+
+	A warrant is a legal document that allows someone to do something, especially one that is signed by a judge or magistrate and gives the police permission to arrest someone or search their house.
+		- Police confirmed that they had issued a warrant for his arrest. 警方证实他们已经签发了对他的拘捕令				
+
+**manoeuvre** [məˈnʊvər] verb  (熟练地)移动，调动，转动，操纵
+
+	If you manoeuvre something into or out of an awkward position, you skilfully move it there.	
+		- We attempted to manoeuvre the canoe closer to him. 我们试图让独木舟靠他更近一些
+
+**cater** ['keɪtər] verb 为…提供饮食;承办…的酒席
+
+	If a person or company caters for an occasion such as a wedding or a party, they provide food and drink for all the people there.
+		- Nunsmere Hall can cater for receptions of up to 300 people. 纳恩斯米尔酒店最多可以同时接待300人		 
 
 **clumsy** ['klʌmzi] adjective 笨拙的;不灵活的
 
 	A clumsy person moves or handles things in a careless, awkward way, often so that things are knocked over or broken.
 		- Unfortunately, I was still very clumsy behind the wheel of the jeep. 令人遗憾的是我开起吉普来还是笨手笨脚		
+
+**strand**  [strænd]  (坏天气等)使滞留，使搁浅
+
+	If you are stranded, you are prevented from leaving a place, for example because of bad weather.
+		- The airport had to be closed, stranding tourists. 机场被迫关闭，造成游客滞留
 
 ### Aditional Words
 
@@ -582,6 +609,7 @@ of the Rio Games, the first Olympics in South America.
 	- Corker ['kɔ:kə(r)] 田纳西州的参议员科尔克
 	- recklessness [ˈrɛklɪsnɪs] noun 轻率；鲁莽
 	- senator ['senətər] noun  (美国、澳大利亚等国的)参议员
+	- senate ['senət] noun 参议院
 	- republican [rɪ'pʌblɪkən] adjective (美国)共和党的，支持共和党的
 	- committee [kə'mɪti] noun  委员会
 	- Senate Foreign Relation Committee 美国参议院外交委员会
@@ -632,4 +660,26 @@ of the Rio Games, the first Olympics in South America.
 	- license ['laɪs(ə)ns] noun 许可；批准；授权
 	- bad for... 有害于 
 
-	
+29. Tech Giants, once seen as saviors, are now viewed as threats. San Francisco -- At the start of this decade, the Arab Spring blossomed with the help of social media. That is the sort of story the tech industry loves to tell about itself: It is bringing freedom, enlightenment and a better future for all mankind.	
+
+	- savior ['seɪvjər] noun 救世主
+	- once seen as... 一度被视为...
+	- view as... 看作；视为
+	- at the start of... 在…开始的时候/开端
+	- decade ['dekeɪd] noun 十年;十年期（尤指一个年代)
+	- Arab [ˈerəb] adjective & noun 阿拉伯;阿拉伯人
+	- Arab Spring 阿拉伯之春
+	- blossom ['blɑsəm] verb 开花；兴盛
+	- social media 社交媒体
+	- enlightenment  [ɪn'laɪt(ə)nmənt] noun 启迪；启发;教化
+	- mankind ['mæn.kaɪnd] noun 人类
+
+30. Hillary Clinton still doesn't understand the electoral college. Hillary Clinton wants to abolish the Electoral College as "an anachronism that was designed for another time that no longer works."
+	- electoral [ɪ'lekt(ə)rəl] adjective 与选举有关的;选举的
+	- Electoral College 总统选举团（在美国由各州选民投票推选组成，集中在一起选举总统和副总统）
+	- abolish [ə'bɒlɪʃ] verb 废除，废止（制度、习俗等）
+	- anachronism [ə'nækrə.nɪzəm] noun 过时的人（或风俗、思想）；弄错年代；时代错误;过时现象
+
+31. America needs higher wages, not lower taxes. Politicians and pundits frequently talk about the lofty goal of boosting economic growth. Donald Trump, in a plan opposed by over half of Americans, according to a new CNN poll, has called for reducing the personal income tax brackets from seven to three, reducing the corporate tax rate, eliminating the estate tax, and doubling the standard deduction for married and single filers. Donald Trump's tax reform proposal -- like every time Republicans offer tax cuts as the proposed catalyst to fuel economic expansion -- should make us roll our eyes in disbelief.e
+
+
