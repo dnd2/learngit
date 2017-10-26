@@ -346,10 +346,12 @@ especially in a circus.
 	A warrant is a legal document that allows someone to do something, especially one that is signed by a judge or magistrate and gives the police permission to arrest someone or search their house.
 		- Police confirmed that they had issued a warrant for his arrest. 警方证实他们已经签发了对他的拘捕令				
 
-**manoeuvre** [məˈnʊvər] verb  (熟练地)移动，调动，转动，操纵
+**manoeuvre** [məˈnʊ(ju)vər] verb  (熟练地)移动，调动，转动，操纵
 
 	If you manoeuvre something into or out of an awkward position, you skilfully move it there.	
 		- We attempted to manoeuvre the canoe closer to him. 我们试图让独木舟靠他更近一些
+		- skilful ['skɪlfəl] adjective  有技巧的;熟练的;巧妙的
+		- canoe [kə'nju:] noun 独木舟
 
 **cater** ['keɪtər] verb 为…提供饮食;承办…的酒席
 
@@ -375,7 +377,7 @@ especially in a circus.
 
 	Covert activities or situations are secret or hidden.
 		- They have been supplying covert military aid to the rebels. 他们一直在暗地里向叛乱者提供军事支援
-		- rebel [rɪ'bel] noun 叛军；反叛者
+		- rebel ['reb(ə)l] noun 叛军；反叛者
 		- aid to 帮助		
 
 **clarify** ['klerɪ.faɪ] verb 阐明;阐释;说明	
