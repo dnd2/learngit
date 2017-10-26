@@ -92,7 +92,7 @@ Note:
 		* See you later.
 		* Alligator. 故意用该词取代See you later,因为alligator中的gator与see you later中的later押韵。 该词在此无任何意义，纯属俏皮话，可视作See you later 
 	* Don't forget to say greetings to Uncle Wang.	
- 
+
 * Hi, May. How's it going?
 * Great. And how are you doing?
 * Not bad.
@@ -150,11 +150,22 @@ Note:
 	* How are you?
 	* How are you doing?
 	* I'm fine/OK.
-	* What/How about you?
+	* And/What/How about you?
 	* Not bad/Great/Fine. Thanks.
 	* Thanks/Thank you/Thank you very much/Thanks a lot.
 	* Good.See you/See you later/Bye/Goodbye.
 	* How's it going?/What's up/What's happening? 近来如何
+
+**Exercise**
+
+- Hi, Sally, How are you?
+- N__ b__. And you?
+- Great! And how is Bob?
+- He's f__.
+- Good.
+- See you later.
+- T__ c__.
+- You too.
 
 ### Unit Two - Courtesy
 
