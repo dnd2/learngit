@@ -354,17 +354,45 @@ especially in a circus.
 **cater** ['keɪtər] verb 为…提供饮食;承办…的酒席
 
 	If a person or company caters for an occasion such as a wedding or a party, they provide food and drink for all the people there.
-		- Nunsmere Hall can cater for receptions of up to 300 people. 纳恩斯米尔酒店最多可以同时接待300人		 
+		- Nunsmere Hall can cater for receptions of up to 300 people. 纳恩斯米尔酒店最多可以同时接待300人	
+		- reception [rɪ'sepʃən] noun 招待会，欢迎会
+		- up to 多达
+		- reception of up to ... 	 
 
 **clumsy** ['klʌmzi] adjective 笨拙的;不灵活的
 
 	A clumsy person moves or handles things in a careless, awkward way, often so that things are knocked over or broken.
-		- Unfortunately, I was still very clumsy behind the wheel of the jeep. 令人遗憾的是我开起吉普来还是笨手笨脚		
+		- Unfortunately, I was still very clumsy behind the wheel of the jeep. 令人遗憾的是我开起吉普来还是笨手笨脚
+		- careless ['kerləs] adjective 不仔细的；粗心的
+		- awkward  ['ɔkwərd] adjective （行动）笨拙的		
 
 **strand**  [strænd]  (坏天气等)使滞留，使搁浅
 
 	If you are stranded, you are prevented from leaving a place, for example because of bad weather.
 		- The airport had to be closed, stranding tourists. 机场被迫关闭，造成游客滞留
+
+**covert** [koʊ'vɜrt] adjective 秘密的;隐藏的;暗中的
+
+	Covert activities or situations are secret or hidden.
+		- They have been supplying covert military aid to the rebels. 他们一直在暗地里向叛乱者提供军事支援
+		- rebel [rɪ'bel] noun 叛军；反叛者
+		- aid to 帮助		
+
+**clarify** ['klerɪ.faɪ] verb 阐明;阐释;说明	
+
+	To clarify something means to make it easier to understand, usually by explaining it in more detail.
+		- Thank you for writing and allowing me to clarify the present position. 谢谢你的来信，并允许我阐明目前的立场	
+		- make it easier 使更容易；使更简单
+		- usually by explaining it in more detail
+		- the present position 
+
+**echo** ['ekoʊ] noun 回声;回响  verb （声音）发出回响
+
+	An echo is a sound which is caused by a noise being reflected off a surface such as a wall.
+		- He heard nothing but the echoes of his own voice. 他只听见了自己的回音
+		- reflect [rɪ'flekt] verb 反射（声、光、热等）
+		- reflect off 反射
+		
 
 ### Aditional Words
 
