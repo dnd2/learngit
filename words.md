@@ -344,7 +344,10 @@ especially in a circus.
 **warrant** ['wɔrənt] noun 依据；许可证；搜查令;拘捕令
 
 	A warrant is a legal document that allows someone to do something, especially one that is signed by a judge or magistrate and gives the police permission to arrest someone or search their house.
-		- Police confirmed that they had issued a warrant for his arrest. 警方证实他们已经签发了对他的拘捕令				
+		- Police confirmed that they had issued a warrant for his arrest. 警方证实他们已经签发了对他的拘捕令		
+		- magistrate [ˈmædʒɪˌstreɪt] noun （处理轻罪或纠纷的）地方法官，治安法官	
+		- especially one 尤其是，特别是
+		- issue ['ɪʃu] verb 向…颁发;(正式)发给	
 
 **manoeuvre** [məˈnʊ(ju)vər] verb  (熟练地)移动，调动，转动，操纵
 
@@ -359,7 +362,7 @@ especially in a circus.
 		- Nunsmere Hall can cater for receptions of up to 300 people. 纳恩斯米尔酒店最多可以同时接待300人	
 		- reception [rɪ'sepʃən] noun 招待会，欢迎会
 		- up to 多达
-		- reception of up to ... 	 
+		- receptions of up to ... 	 
 
 **clumsy** ['klʌmzi] adjective 笨拙的;不灵活的
 
@@ -373,7 +376,7 @@ especially in a circus.
 	If you are stranded, you are prevented from leaving a place, for example because of bad weather.
 		- The airport had to be closed, stranding tourists. 机场被迫关闭，造成游客滞留
 
-**covert** [koʊ'vɜrt] adjective 秘密的;隐藏的;暗中的
+**covert** [kʌvɜrt] adjective 秘密的;隐藏的;暗中的
 
 	Covert activities or situations are secret or hidden.
 		- They have been supplying covert military aid to the rebels. 他们一直在暗地里向叛乱者提供军事支援
@@ -394,6 +397,12 @@ especially in a circus.
 		- He heard nothing but the echoes of his own voice. 他只听见了自己的回音
 		- reflect [rɪ'flekt] verb 反射（声、光、热等）
 		- reflect off 反射
+
+**bribe** [braɪb] noun 贿赂 verb 向…行贿
+
+	A bribe is a sum of money or something valuable that one person offers or gives to another in order to persuade him or her to do something.
+		- He was being investigated for receiving bribes. 他因收受贿赂正在接受调查
+		- investigate [ɪn'vestɪ.ɡeɪt] verb 调查（某人）	
 		
 
 ### Aditional Words

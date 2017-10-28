@@ -104,12 +104,12 @@ Note:
 
 	* how are you? 多用于正式场合
 	* how are you doing? 多用于熟悉朋友间
-	* how are you getting along? 
+	* how are you getting along?   
 		* 以上问句可以这样回答：
-		* I'm fine, thank you.
-		* Great, thanks.
-		* Fine, thanks.
-		* Not bad, thanks.
+		* I'm fine, thank you. 我很好，谢谢你
+		* Great, thanks.   很好，谢谢你
+		* Fine, thanks.    不错，谢谢你
+		* Not bad, thanks. 还不错，谢谢你
 		* So - so, thank you. 马马虎虎/还过得去，谢谢你 
 	* how have you been? 你最近还好吗/近况如何
 		* I have been fine, thank you.
@@ -206,14 +206,15 @@ Notes:
 		- Pardon me?
 		- Pardon?
 	
-	* Nice to meet you. 很高兴认识你/幸会 (初次见面时客气用语) / It's nice to meet you.
+	* Nice to meet you. 很高兴认识你/幸会 (初次见面时客气用语) / It's nice to meet you. 认识你是件好事
 		- Pleased to meet you./ I'm pleased to meet you.
 		- Glad to meet you.  / I'm glad to meet you.
+		- 以上3句均表示"幸会"，是两人初见面时的客气用语
 		
-	* 代名词 + be动词开头
+	* 英语中有很多以代名词 + be动词开头
 		* I am a boy.
 		* It is a book.
-		* You are very kind.
+		* You are very kind. 你心肠真好
 		* 口语中，常为求说话速度及口气自然，常将该结构简化
 			* I'm a boy.
 			* It's a book
@@ -228,6 +229,16 @@ Notes:
 	* I beg your pardon?/Beg your pardon?/Pardon me?/Pardon?
 	* Nice/Pleased/Glad to meet you.
 	* I'm Tom/She's May/They're students.
+
+**Dialog**
+
+	- Tom: E__ m__. Are you Sue?
+	- May: No. I'm n__.
+	- Tom: Oh! I'm sorry, b__ is she Sue?
+	- May: Yes, s__ is.
+	- Tom: Great. Thanks a l__.
+	- May: You're w__.
+	- Tom: Bye!
 
 ### Unit Three - Name, Age and Nationality
 
@@ -263,15 +274,16 @@ Note:
 		- Where do you come from?
 		- What's your nationality?
 		- 前2句可用于询问对方的省籍或国籍，最后一句仅限国籍
-			- Where are are you from? (Where do you come from?)
+			- Where are you from? (Where do you come from?)
 			- I'm from New York./ I'm from America.
-			- I come from New York. / I'm come from America.
+			- I come from New York. / I come from America.
 	* I love music. Do you love music, too? --> I love music. What/How about you?
 	* He is from China. Where is she from? --> He is from China. How about her?  
-	* May I have your name, please? = MayＩknow your name, please? 用于正式场合
+	* May I have your name, please? = May I know your name, please? 用于正式场合
 	* What's your name? 用于长辈或上级对下属使用
-	* Come here. （语气为不客气）
-		* Come here, please. = Please come here. (更客气) 
+	* Come here. 过来（语气为不客气）
+		* Come here, please. = Please come here. (更客气) 	
+
 	* 若想做某事而欲征求对方同意时，可用：
 		* May I ..., please? 请问我以...吗？
 		* May I open the window?
@@ -279,6 +291,44 @@ Note:
 	* How old are you? = What's your age?
 		* I'm twenty five = I'm twenty five years old. 
 		* 西方人交往时，除非对方主动透露自己年龄，否则不可随意询问对方年龄，会被认为不礼貌 
+	* 疑问句结构
+		* 若主语之后有be动词，be动词需与主语倒装
+			* Who he is? -> Who is he?
+		* 若主语之后有助动词，助动词与主语要倒装
+			* When he will come? -> When will he come?
+		* 若主语之后只有动词，则要在主语前置另一助动词do或does，且原动词要变成原型
+			* Where he lives? -> Where does he live?
+			* 此处do或does是帮助我们问问题的助动词，does与第三人称单数的主语并用。	
+			* 第三人称复数主语
+				* Where do May and Tom live?
+				* When do they go to school?	
+			* 第二人称单数主语 What do you like?
+			* 第一人称单复数主语 What do I need?		
+		* 疑问词who,what,which等疑问代名词可作主语，此时形成的问句句型和中文一样
+			* Who will come? 谁会来
+			* Which is better? 哪一个比较好
+
+**Substitution**
+
+	* What's your/his/her name?
+	* I'm/My name's May.
+	* Where are you from/do you come from?
+	* I am/come from Hong Kong.
+	* May I have/know your name, please?
+	* How old are you/is he/is she?
+	* I'm twenty-five/twenty-five years old.
+	* I'm Janpanese/Chinese/American
+
+**Dialog**
+
+	- Excuse me. What's y__ name, plase?
+	- I'm May.
+	- Hi, May. Where a__ you from?
+	- I'm from Japan. H__ about you?
+	- I c__ from American. I'm A__.
+	- I beg your pardon?
+	- I'm from American.
+	- Oh, I see.					
 
 ### Unit Four - Introductions
 
