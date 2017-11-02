@@ -340,6 +340,9 @@ especially in a circus.
 
 	If something or someone penetrates a physical object or an area, they succeed in getting into it or passing through it.
 		- X-rays can penetrate many objects. X射线能够穿透很多物体
+		- succeed in 成功于
+		- pass through 穿过
+		- get into 进入
 
 **warrant** ['wɔrənt] noun 依据；许可证；搜查令;拘捕令
 
@@ -404,6 +407,50 @@ especially in a circus.
 		- He was being investigated for receiving bribes. 他因收受贿赂正在接受调查
 		- investigate [ɪn'vestɪ.ɡeɪt] verb 调查（某人）	
 		
+**dossier** ['dɑsi.eɪ] noun 档案;卷宗
+
+	A dossier is a collection of papers containing information on a particular event, or on a person such as a criminal or a spy.
+		- The government kept dossiers on thousands of its citizens. 政府保存着成千上万个公民的档案
+		- a particular event 特定事件
+		- criminal ['krɪmɪn(ə)l] adjective 犯罪的;犯法的 noun 罪犯		
+		- citizen ['sɪtɪz(ə)n] noun 公民；市民
+		- a collection of 集…为一体的；一批
+
+**testimony** ['testi.moʊni] noun (法庭上的)证词, 证据
+
+	In a court of law, someone's testimony is a formal statement that they make about what they saw someone do or what they know of a situation, after having promised to tell the truth.
+		- His testimony was an important element of the Prosecution case. 他的证词是这宗公诉案件中的一个重要因素
+		- court of law 法庭；法院
+		- formal statement 正式声明
+		- know of 知道有;了解
+		- prosecution [.prɑsɪ'kjuʃ(ə)n] noun  起诉；检举；告发
+		- Prosecution Case 公诉案件
+
+**spooky** ['spuki] adjective 阴森可怖的
+
+	A place that is spooky has a frightening atmosphere, and makes you feel that there are ghosts around.
+		- The whole place has a slightly spooky atmosphere. 整个地方的气氛有点阴森可怖	
+
+**unfold** [ʌn'foʊld] verb 展开；打开
+
+	If someone unfolds something which has been folded or if it unfolds, it is opened out and becomes flat.
+		- He quickly unfolded the blankets and spread them on the mattress. 他迅速展开毯子，铺在床垫上
+		- fold [foʊld] verb 折叠
+		- open out 展开；打开
+		- blanket ['blæŋkɪt] noun 毯子；毛毯
+		- spread [spred] verb 摊开;铺开
+		- mattress [ˈmætrəs] noun 床垫 
+
+**morale** [mə'rɑl] noun 士气;精神面貌
+
+	Morale is the amount of confidence and cheerfulness that a group of people have.
+		- Many pilots are suffering from low morale. 很多飞行员目前士气低落
+		- They hope to boost the morale of their troops. 他们希望提升部队的士气
+		- confidence ['kɑnfɪdəns] noun 信心;自信
+		- cheerfulness ['tʃɪəfəlnəs] noun 高兴;乐观;活泼
+		- suffer from 遭受;受…之苦
+		- boost [bust] verb 增强，提高（信心或士气）
+		- troop [trup] noun 部队；军队
 
 ### Aditional Words
 
