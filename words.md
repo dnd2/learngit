@@ -452,6 +452,17 @@ especially in a circus.
 		- boost [bust] verb 增强，提高（信心或士气）
 		- troop [trup] noun 部队；军队
 
+**sneak** [snik] verb 潜行;偷偷地走;  偷带;私运
+
+	If you sneak somewhere, you go there very quietly on foot, trying to avoid being seen or heard.
+		- Sometimes he would sneak out of his house late at night to be with me.有时候，他会在深夜里偷偷溜出家与我相会
+
+	If you sneak something somewhere, you take it there secretly.  (snuck sneak的过去式和过去分词)
+		- He smuggled papers out each day, photocopied them, and snuck them back. 他每天都把文件偷偷地带出去复印，然后再偷偷地拿回来
+		- smuggle ['smʌɡ(ə)l] verb 偷带;走私;偷运	
+		- photocopy ['foʊtoʊ.kɑpi] verb 复印 noun 复印件
+		- snuck [snʌk] verb 
+
 ### Aditional Words
 
 - hexadecimal  [.heksə'desɪm(ə)l] adjective 十六进制的
