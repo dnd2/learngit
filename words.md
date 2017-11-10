@@ -463,6 +463,34 @@ especially in a circus.
 		- photocopy ['foʊtoʊ.kɑpi] verb 复印 noun 复印件
 		- snuck [snʌk] verb 
 
+**benevolent** [bə'nevələnt] adjective （当权者）仁慈的，慈爱的，乐善好施的
+
+	If you describe a person in authority as benevolent, you mean that they are kind and fair.
+		- The company has proved to be a most benevolent employer. 事实证明，这家公司是非常好的雇主
+
+**distract** [dɪ'strækt] verb 分散(注意力);使分心
+
+	If something distracts you or your attention from something, it takes your attention away from it.
+		- Tom admits that playing video games sometimes distracts him from his homework. 汤姆承认玩电子游戏有时会使他无心做作业
+		- take one's attetion away from... 注意力从
+		- distract one's from 分散；使人分心 
+		- admit [əd'mɪt] verb （常指勉强）承认；承认（过错、罪行） 
+
+**rivalry**	 ['raɪv(ə)lri] noun 竞争;敌对
+
+	Rivalry is competition or fighting between people, business, or organizations who are in the same area or want the same things.
+		- He had a lot of rivalry with his brothers and sisters. 他和兄弟姐妹间经常较劲				
+
+**embed** [ɪm'bed] verb 使插入;使嵌入
+
+	If an object embed itself in a substance or thing, it becomes fixed there firmly and deeply.
+		- One of the bullets passed through Andrea's chest before embedding itself in a wall. 其中一颗子弹射穿了安德烈亚的胸部，打入一面墙中
+		- substance ['sʌbstəns] noun 物质；物品
+		- firmly ['fɜ:mli] adverb 牢固的;牢牢地； 
+		- deeply ['dipli] adverb 深入地;在（或至）深处
+		- bullet ['bʊlɪt] noun 子弹
+		- pass through 穿过 
+
 ### Aditional Words
 
 - hexadecimal  [.heksə'desɪm(ə)l] adjective 十六进制的
@@ -485,7 +513,7 @@ especially in a circus.
 4. 	RIO DE JANEIRO - Brazilian and French authorities said Tuesday they uncovered an international corruption scheme aimed at buying votes in awarding the 2016 Olympics. This is the latest allegation to sully the legacy
 of the Rio Games, the first Olympics in South America.
 	- Rio De Janeiro 里约热内卢
-	- authority [ɔ'θɔrəti] noun 当局;官方
+	- authority [ɔ'θɔrəti] noun 当局;官方;当权者
 	- uncover [ʌn'kʌvər] verb 揭露，发现（隐秘之事）
 	- corruption [kə'rʌpʃ(ə)n] noun 腐败;贪污
 	- scheme [skim] noun  诡计;计划
