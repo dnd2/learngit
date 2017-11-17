@@ -491,6 +491,12 @@ especially in a circus.
 		- bullet ['bʊlɪt] noun 子弹
 		- pass through 穿过 
 
+**overlap** [.oʊvər'læp] verb 交叠；（使）相叠	（时间上）部分重叠；（范围方面）部分重叠
+
+	If one thing overlaps another, or if you overlap them, a part of the first thing occupies the same area as a part of the other thing. You can also say that two things overlap.
+		- When the bag is folded flat, the bag bottom overlaps one side of the bag. 袋子平整折起后，底面与一侧交叠
+		- occupy ['ɑkjə.paɪ] verb 占据；占用 
+
 ### Aditional Words
 
 - hexadecimal  [.heksə'desɪm(ə)l] adjective 十六进制的
