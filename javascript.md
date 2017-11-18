@@ -1580,8 +1580,6 @@ CSS 属性的应用值（used value）是完成所有计算后最终使用的值
 
 [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
 
-[浮点数精度](https://juejin.im/post/594a31d0a0bb9f006b0b2624)
-
 **App UI framework**
 http://vycool.com/Jingle/index.html
 http://code.kik.com/app/2/index.html

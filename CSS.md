@@ -593,3 +593,27 @@ Q: 为什么右侧元素需要用class为g-mn1包裹?
 * 可以使用*[title]针对所有包含title属性的元素
 * 也可以根据具体属性值应用样式：a[href="http://www.zbj.com"]{font-weight:700}
 
+* [foo~="bar"] 选择foo属性值包含bar的所有元素
+* [foo^="bar"] 选择foo属性值以bar开头的所有元素
+* [foo$="bar"] 选择foo属性值以bar结尾的所有元素
+* [foo*="bar"] 选择foo属性值中包含子串bar的所有元素
+
+**特点属性选择器**
+
+*[lang|="en"] {color: white;}  # 选择lang属性等于en或者以en-开头的所有元素 如：以上规则会匹配 <h1 lang="en">Hello</h1>  <p lang="en-Us">Greetings!</p>
+
+**选择子元素**
+
+如果不想选择一个任意的后代元素，想缩小范围，只选择一个元素的子元素则可以使用这种方式。
+
+~~~html
+<style>h1 > strong{color: red;}</style>
+<!-- 会受影响 -->
+<h1>This is <strong>very</strong> important.</h1>
+<!-- 不受影响 -->
+<h1>This is <em>really <strong>very</storng></em> important.</h1>
+~~~
+
+**相邻兄弟元素**
+
+h1 + p{margin-top: 0} # 紧接在h1元素后出现的段落的上边距
