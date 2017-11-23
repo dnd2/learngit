@@ -452,7 +452,7 @@ especially in a circus.
 		- boost [bust] verb 增强，提高（信心或士气）
 		- troop [trup] noun 部队；军队
 
-**sneak** [snik] verb 潜行;偷偷地走;  偷带;私运
+**sneak** [sni:k] verb 潜行;偷偷地走;  偷带;私运
 
 	If you sneak somewhere, you go there very quietly on foot, trying to avoid being seen or heard.
 		- Sometimes he would sneak out of his house late at night to be with me.有时候，他会在深夜里偷偷溜出家与我相会
@@ -472,8 +472,8 @@ especially in a circus.
 
 	If something distracts you or your attention from something, it takes your attention away from it.
 		- Tom admits that playing video games sometimes distracts him from his homework. 汤姆承认玩电子游戏有时会使他无心做作业
-		- take one's attetion away from... 注意力从
-		- distract one's from 分散；使人分心 
+		- take one's attetion away from sth. 注意力从某物上离开
+		- distract sb from sth. 分散；使人分心 
 		- admit [əd'mɪt] verb （常指勉强）承认；承认（过错、罪行） 
 
 **rivalry**	 ['raɪv(ə)lri] noun 竞争;敌对
@@ -483,8 +483,9 @@ especially in a circus.
 
 **embed** [ɪm'bed] verb 使插入;使嵌入
 
-	If an object embed itself in a substance or thing, it becomes fixed there firmly and deeply.
+	If an object embeds itself in a substance or thing, it becomes fixed there firmly and deeply.
 		- One of the bullets passed through Andrea's chest before embedding itself in a wall. 其中一颗子弹射穿了安德烈亚的胸部，打入一面墙中
+		- become fixed 固定下来
 		- substance ['sʌbstəns] noun 物质；物品
 		- firmly ['fɜ:mli] adverb 牢固的;牢牢地； 
 		- deeply ['dipli] adverb 深入地;在（或至）深处
@@ -496,6 +497,36 @@ especially in a circus.
 	If one thing overlaps another, or if you overlap them, a part of the first thing occupies the same area as a part of the other thing. You can also say that two things overlap.
 		- When the bag is folded flat, the bag bottom overlaps one side of the bag. 袋子平整折起后，底面与一侧交叠
 		- occupy ['ɑkjə.paɪ] verb 占据；占用 
+
+**abolish** [əˈbɑlɪʃ] verb 废除，废止（制度、习俗等）
+
+	If someone in authority abolishes a system or practice, they formally put an end to it.
+	- The whole system should be abolished. 整个制度应该被废除
+	- practice ['præktɪs] noun 常规；惯例
+	- put an end to... 终止；废除
+
+**barren** ['berən] adjective 荒芜的; 贫瘠的; 
+
+	- A barren landscape is dry and bare, and has very few plants and no trees.	
+	- Barren land consists of soil that is so poor that plants cannot grow in it.
+	- He also wants to use the water to irrigate barren desert land. 他也想用这些水灌溉荒漠
+	- consist of 由……组成
+	- irrigate ['ɪrɪ.ɡeɪt] verb 灌溉
+	- desert land 荒芜的土地；沙漠
+	- landscape  ['lænd.skeɪp] noun 景色
+	- barren landscape 贫瘠的景观/风景
+
+**backflip** ['bækflɪp] noun 后空翻
+
+	- He did an exuberant backflip. 他做了一个充满活力的后滚翻
+	- exuberant [ɪɡ'zjubərənt] adjective 精力充沛的；	
+
+**blessing** ['blesɪŋ] noun 福气；好事；福祉
+
+	A blessing is something good that you are grateful for.
+		- Rivers are a blessing for an argicultural country. 河流对于一个农业国家来说是一种恩赐
+		- grateful ['ɡreɪtfəl] adjective 感激的；
+		- be grateful for 感激; 对…心存感激	
 
 ### Aditional Words
 

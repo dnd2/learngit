@@ -284,9 +284,10 @@ em 是相对于父元素来设定字体尺寸大小的。 [em介绍](https://www
 	
 	* 浏览器默认的字体尺寸是16px,因此未做调整时1em = 16px，那么12px = 0.75em, 10px = 0.625em，
 	* 为了简化计算，通常在body中将字体大小设置为font-size: 62.5%, 这样em的值为 16px * 62.5% = 10px, 12px = 1.2em, 10px = 1em... 即将px除以10得到em的值。 
+    * 计算公式：1 ÷ 父元素的font-size × 需要转换的像素值 = em值
 
 rem 相对于根元素的字体大小单位。
-相关介绍: [web app变革之rem](https://isux.tencent.com/web-app-rem.html)	
+相关介绍: [web app变革之rem](https://www.w3cplus.com/css3/define-font-size-with-css3-rem)	
 
 
 ### 清除浮动

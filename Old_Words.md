@@ -242,7 +242,7 @@ Notes:
 
 ### Unit Three - Name, Age and Nationality
 
-* Excuse me. What's your name?
+* Excuse me. What's your name? (What's your name, please?\)
 * I'm May.
 * Hi, May. Where are you from?
 * I'm from Hong Kong. What about you?
@@ -321,7 +321,7 @@ Note:
 
 **Dialog**
 
-	- Excuse me. What's y__ name, plase?
+	- Excuse me. What's y__ name, please?
 	- I'm May.
 	- Hi, May. Where a__ you from?
 	- I'm from Japan. H__ about you?
