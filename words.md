@@ -499,11 +499,11 @@ especially in a circus.
 		- occupy ['ɑkjə.paɪ] verb 占据；占用 
 
 **abolish** [əˈbɑlɪʃ] verb 废除，废止（制度、习俗等）
-
+   
 	If someone in authority abolishes a system or practice, they formally put an end to it.
 	- The whole system should be abolished. 整个制度应该被废除
 	- practice ['præktɪs] noun 常规；惯例
-	- put an end to... 终止；废除
+	- put an end to... 终止；废除 
 
 **barren** ['berən] adjective 荒芜的; 贫瘠的; 
 
@@ -527,6 +527,24 @@ especially in a circus.
 		- Rivers are a blessing for an argicultural country. 河流对于一个农业国家来说是一种恩赐
 		- grateful ['ɡreɪtfəl] adjective 感激的；
 		- be grateful for 感激; 对…心存感激	
+
+**destitute** ['destɪtjuːt] adjective 赤贫的;贫困的;一无所有的
+
+	Someone who is destitute has no money or possessions.
+		- destitute children who live on the streets. 流落街头的贫困儿童	
+		- possession [pə'zeʃ(ə)n] noun 所有物；财产
+
+**imminent** ['ɪmɪnənt] adjective (尤指不愉快的事)临近的，即将发生的
+
+	If you say that something is imminent, especially something unpleasant, you mean it is almost certain to happen very soon.
+		- There appeared on imminent danger. 眼前似乎没有危险
+		- appear [ə'pɪr] verb 似乎；出现；显现
+		- unpleasant [ʌn'plez(ə)nt] adjective 令人不快的；不舒服的
+
+**solidarity** [.sɑlɪ'derəti] noun 团结；齐心协力;  (尤指政治或国际事务中的)团结一致 		 
+
+	If a group of people show solidarity, they show support for each other or for another group, especially in political or international affairs.
+		- Supporters want to march tomorrow to show solidarity with their leaders. 为了显示和领袖的同心同德，支持者们希望明天举行游行。
 
 ### Aditional Words
 

@@ -368,6 +368,38 @@ Note:
 		* Miss Wang (多用在未婚女士的姓氏前)
 		* Ms.[miz] Wang (已婚或未婚女士姓氏前)  
 
+**Substitution**
+
+	* This/She is Kay.
+	* What's your family name/last name/surname?
+	* Glad to meet you, too, Mr. Lin/Mrs. Wang/Miss Lin/Ms. Chen.
+	* This/That is a book.
+	* These/Those are my students.
+	* This/That pen is red.
+	* These/Those chairs are green.
+
+**Sentences**
+
+	* Please meet my mother, Jane.
+	* This is my girlfriend, Tina.
+	* Glad to meet you.
+	* It's a nice name.
+	* You may call me Bod.
+	* What's your family name?
+	* Who's your friend?
+	* These are my books.
+
+**Dialog**
+
+	- Hi, May!
+	- Hi, Tom! How's it g___?
+	- Not b___.
+	- W___ your firend?
+	- Oh! I'm sorry. T___ is Rob. He's m___ brother.
+	- Hi, Rob! I'm May.
+	- G___ to meet you, May.
+	- P___ to meet you, Rob.				
+
 
 ### Unit Five - Occupation
 
