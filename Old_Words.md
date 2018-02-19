@@ -255,7 +255,7 @@ Notes:
 * Where are you from?
 * I'm from Hong Kong.
 * I beg your pardon?
-* I'm from Hong Kong.
+* I'm from Hong Kong.  	
 * Oh, I see.
 
 Note:

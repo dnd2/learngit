@@ -504,6 +504,14 @@ http://www.cnblogs.com/fang-beny/p/5234272.html
 原子设计方法论
 https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c8d6eb1ab2d8d6b37155f9487ac&chksm=883fd7e9bf485effd51d5f7b512647dbae11a88d5e870276ea8f7fa214a0ab136a480159ae8d#rd
 
+## 移动开发
+
+* 设备像素  屏幕的物理像素，任何设备屏幕物理像素数量是固定不变，单位是pt
+* CSS像素  
+    - CSS像素也成为设备独立像素(device-independent pixels)，简称dips, 单位dp
+    - 
+
+
 ## CSS布局
 
 **两列右侧自适应布局**

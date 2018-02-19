@@ -479,7 +479,9 @@ especially in a circus.
 **rivalry**	 ['raɪv(ə)lri] noun 竞争;敌对
 
 	Rivalry is competition or fighting between people, business, or organizations who are in the same area or want the same things.
-		- He had a lot of rivalry with his brothers and sisters. 他和兄弟姐妹间经常较劲				
+		- He had a lot of rivalry with his brothers and sisters. 他和兄弟姐妹间经常较劲	
+		- competition [.kɑmpə'tɪʃ(ə)n] noun 竞争；比赛 	
+		- fighting ['faɪtɪŋ] noun 打斗；搏斗 		
 
 **embed** [ɪm'bed] verb 使插入;使嵌入
 
@@ -492,6 +494,7 @@ especially in a circus.
 		- bullet ['bʊlɪt] noun 子弹
 		- pass through 穿过 
 
+<<<<<<< Updated upstream
 **overlap** [.oʊvər'læp] verb 交叠；（使）相叠	（时间上）部分重叠；（范围方面）部分重叠
 
 	If one thing overlaps another, or if you overlap them, a part of the first thing occupies the same area as a part of the other thing. You can also say that two things overlap.
@@ -545,6 +548,18 @@ especially in a circus.
 
 	If a group of people show solidarity, they show support for each other or for another group, especially in political or international affairs.
 		- Supporters want to march tomorrow to show solidarity with their leaders. 为了显示和领袖的同心同德，支持者们希望明天举行游行。
+=======
+**compulsive** [kəm'pʌlsɪv] adjective 难以抑制的;不能自拔的
+
+	You use compulsive to describe people or their behaviour when they cannot stop doing something wrong, harmful, or unnecessary.
+		- He was a compulsive gambler and often heavily in debt. 他嗜赌成癖，常常债台高筑		
+		- harmful ['hɑrmfəl] adjective （尤指对健康或环境）有害的
+		- unnecessary [ʌn'nesə.seri] adjective 不需要的；不必要的；多余的
+		- gambler ['ɡæmblər] noun  赌徒；赌棍 
+		- compulsive gambler 视赌如命的赌徒
+		- heavily ['hevɪli] adverb 沉重地
+		- in debt 负债 
+>>>>>>> Stashed changes
 
 ### Aditional Words
 
@@ -860,6 +875,6 @@ of the Rio Games, the first Olympics in South America.
 	- abolish [ə'bɒlɪʃ] verb 废除，废止（制度、习俗等）
 	- anachronism [ə'nækrə.nɪzəm] noun 过时的人（或风俗、思想）；弄错年代；时代错误;过时现象
 
-31. America needs higher wages, not lower taxes. Politicians and pundits frequently talk about the lofty goal of boosting economic growth. Donald Trump, in a plan opposed by over half of Americans, according to a new CNN poll, has called for reducing the personal income tax brackets from seven to three, reducing the corporate tax rate, eliminating the estate tax, and doubling the standard deduction for married and single filers. Donald Trump's tax reform proposal -- like every time Republicans offer tax cuts as the proposed catalyst to fuel economic expansion -- should make us roll our eyes in disbelief.e
+
 
 
