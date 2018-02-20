@@ -524,9 +524,20 @@ especially in a circus.
 **blessing** ['blesɪŋ] noun 福气；好事；福祉
 
 	A blessing is something good that you are grateful for.
-		- Rivers are a blessing for an argicultural country. 河流对于一个农业国家来说是一种恩赐
+		- Rivers are a blessing for an agricultural country. 河流对于一个农业国家来说是一种恩赐
 		- grateful ['ɡreɪtfəl] adjective 感激的；
 		- be grateful for 感激; 对…心存感激	
+
+**molest** [mə'lest] verb 对（尤指女性或儿童）进行性骚扰;猥亵
+
+	A person who molests someone, especially a woman or a child, interferes with them in a sexual way against their will.
+		- He was accused of sexually molesting a female colleague. 他被指控对一位女同事进行性骚扰
+		- interfere [.ɪntə(r)'fɪə(r)] verb 干涉；干预；介入
+		- interfere with 干扰；干涉
+		- sexual ['sekʃuəl]	adjective 性行为的；性的
+		- accuse of 指控
+		- colleague [ˈkɒˌliːɡ] noun 同事；同行
+		
 
 ### Aditional Words
 

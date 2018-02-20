@@ -174,7 +174,7 @@ Note:
 * I'm sorry. Who's Ann?
 * She is.
 * Thank you.
-* You'are welcome.
+* You're welcome.
 
 * Hi, i'm Tom.
 * I beg your pardon?
