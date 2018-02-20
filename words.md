@@ -479,7 +479,9 @@ especially in a circus.
 **rivalry**	 ['raɪv(ə)lri] noun 竞争;敌对
 
 	Rivalry is competition or fighting between people, business, or organizations who are in the same area or want the same things.
-		- He had a lot of rivalry with his brothers and sisters. 他和兄弟姐妹间经常较劲				
+		- He had a lot of rivalry with his brothers and sisters. 他和兄弟姐妹间经常较劲	
+		- competition [.kɑmpə'tɪʃ(ə)n] noun 竞争；比赛 	
+		- fighting ['faɪtɪŋ] noun 打斗；搏斗 		
 
 **embed** [ɪm'bed] verb 使插入;使嵌入
 
@@ -499,11 +501,11 @@ especially in a circus.
 		- occupy ['ɑkjə.paɪ] verb 占据；占用 
 
 **abolish** [əˈbɑlɪʃ] verb 废除，废止（制度、习俗等）
-
+   
 	If someone in authority abolishes a system or practice, they formally put an end to it.
 	- The whole system should be abolished. 整个制度应该被废除
 	- practice ['præktɪs] noun 常规；惯例
-	- put an end to... 终止；废除
+	- put an end to... 终止；废除 
 
 **barren** ['berən] adjective 荒芜的; 贫瘠的; 
 
@@ -537,7 +539,35 @@ especially in a circus.
 		- sexual ['sekʃuəl]	adjective 性行为的；性的
 		- accuse of 指控
 		- colleague [ˈkɒˌliːɡ] noun 同事；同行
-		
+
+**destitute** ['destɪtjuːt] adjective 赤贫的;贫困的;一无所有的
+
+	Someone who is destitute has no money or possessions.
+		- destitute children who live on the streets. 流落街头的贫困儿童	
+		- possession [pə'zeʃ(ə)n] noun 所有物；财产
+
+**imminent** ['ɪmɪnənt] adjective (尤指不愉快的事)临近的，即将发生的
+
+	If you say that something is imminent, especially something unpleasant, you mean it is almost certain to happen very soon.
+		- There appeared on imminent danger. 眼前似乎没有危险
+		- appear [ə'pɪr] verb 似乎；出现；显现
+		- unpleasant [ʌn'plez(ə)nt] adjective 令人不快的；不舒服的
+
+**solidarity** [.sɑlɪ'derəti] noun 团结；齐心协力;  (尤指政治或国际事务中的)团结一致 		 
+
+	If a group of people show solidarity, they show support for each other or for another group, especially in political or international affairs.
+		- Supporters want to march tomorrow to show solidarity with their leaders. 为了显示和领袖的同心同德，支持者们希望明天举行游行。
+
+**compulsive** [kəm'pʌlsɪv] adjective 难以抑制的;不能自拔的
+
+	You use compulsive to describe people or their behaviour when they cannot stop doing something wrong, harmful, or unnecessary.
+		- He was a compulsive gambler and often heavily in debt. 他嗜赌成癖，常常债台高筑		
+		- harmful ['hɑrmfəl] adjective （尤指对健康或环境）有害的
+		- unnecessary [ʌn'nesə.seri] adjective 不需要的；不必要的；多余的
+		- gambler ['ɡæmblər] noun  赌徒；赌棍 
+		- compulsive gambler 视赌如命的赌徒
+		- heavily ['hevɪli] adverb 沉重地
+		- in debt 负债 
 
 ### Aditional Words
 
@@ -853,6 +883,6 @@ of the Rio Games, the first Olympics in South America.
 	- abolish [ə'bɒlɪʃ] verb 废除，废止（制度、习俗等）
 	- anachronism [ə'nækrə.nɪzəm] noun 过时的人（或风俗、思想）；弄错年代；时代错误;过时现象
 
-31. America needs higher wages, not lower taxes. Politicians and pundits frequently talk about the lofty goal of boosting economic growth. Donald Trump, in a plan opposed by over half of Americans, according to a new CNN poll, has called for reducing the personal income tax brackets from seven to three, reducing the corporate tax rate, eliminating the estate tax, and doubling the standard deduction for married and single filers. Donald Trump's tax reform proposal -- like every time Republicans offer tax cuts as the proposed catalyst to fuel economic expansion -- should make us roll our eyes in disbelief.e
+
 
 

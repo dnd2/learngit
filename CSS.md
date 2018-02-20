@@ -504,6 +504,14 @@ http://www.cnblogs.com/fang-beny/p/5234272.html
 原子设计方法论
 https://mp.weixin.qq.com/s?__biz=MzA4OTQ2ODg5MA==&mid=2647723356&idx=1&sn=6b473c8d6eb1ab2d8d6b37155f9487ac&chksm=883fd7e9bf485effd51d5f7b512647dbae11a88d5e870276ea8f7fa214a0ab136a480159ae8d#rd
 
+## 移动开发
+
+* 设备像素  屏幕的物理像素，任何设备屏幕物理像素数量是固定不变，单位是pt
+* CSS像素  
+    - CSS像素也成为设备独立像素(device-independent pixels)，简称dips, 单位dp
+    - 
+
+
 ## CSS布局
 
 **两列右侧自适应布局**
@@ -549,7 +557,61 @@ Q: 为什么右侧元素需要用class为g-mn1包裹?
         display: inline-flex;
         display: -webkit-inline-flex;
     }
-~~~        
+~~~       
+
+## CSS技巧
+
+[CSS 绝对底部](https://www.talkingcoder.com/article/6357134459531104637) 
+[Sticky Footer](https://css-tricks.com/couple-takes-sticky-footer/)
+
+该技巧称为Sticky Footer，主要是保证底部内容始终位于底部不动，即使窗口的改变，也不会因为主体内容区域不够高无法将底部内容推至底部
+![图一](https://misc.aotu.io/liqinuo/sticky_02.png)  
+
+* 方案一
+
+~~~html
+html,body{height:100%}
+.wrapper{position:relative;min-height:100%;padding-bottom:50px;box-sizing:border-box;background-color:aquamarine}
+.content{width:100%;height:1200px;background-color:bisque}
+.footer{position:absolute;bottom:0;height:50px;}
+
+<div class="wrapper">
+    <div class="content"><!-- 页面主体内容区域 --></div>
+    <div class="footer"><!-- 需要做到 Sticky Footer 效果的页脚 --></div>
+</div>
+~~~
+
+- 使用绝对定位的方式使页脚一直定位在主容器预留占位的位置
+    * 需指定html,body高度为100%
+    * 内容区域的padding-bottom与footer的height一致(为了防止内容区域和页脚区域重合)
+
+* 方案二 使用calc函数
+        
+~~~html
+.content{min-height:calc(100vh - 50px);}
+.footer{height:50px}
+~~~
+
+- 通过calc函数计算出主题内容的最小高度
+- calc, vh可能存在兼容情况
+- footer的高度值需要与content其中计算的值一致
+
+* 方案三 使用table
+
+~~~html
+html,body{height:100%}
+.wrapper{display:table;width:100%;min-height:100%}
+.content{display:table-row;height:100%;background-color:antiquewhite}
+.footer{height:50px;background-color:aqua}
+~~~
+
+* 方案四  flexbox
+
+~~~html
+html{height:100%}
+body{min-height:100%;display：flex;flex-direction:column;}
+.content{flex:1}
+~~~
 
 ## CSS权威指南
 

@@ -255,7 +255,7 @@ Notes:
 * Where are you from?
 * I'm from Hong Kong.
 * I beg your pardon?
-* I'm from Hong Kong.
+* I'm from Hong Kong.  	
 * Oh, I see.
 
 Note:
@@ -368,6 +368,38 @@ Note:
 		* Miss Wang (多用在未婚女士的姓氏前)
 		* Ms.[miz] Wang (已婚或未婚女士姓氏前)  
 
+**Substitution**
+
+	* This/She is Kay.
+	* What's your family name/last name/surname?
+	* Glad to meet you, too, Mr. Lin/Mrs. Wang/Miss Lin/Ms. Chen.
+	* This/That is a book.
+	* These/Those are my students.
+	* This/That pen is red.
+	* These/Those chairs are green.
+
+**Sentences**
+
+	* Please meet my mother, Jane.
+	* This is my girlfriend, Tina.
+	* Glad to meet you.
+	* It's a nice name.
+	* You may call me Bod.
+	* What's your family name?
+	* Who's your friend?
+	* These are my books.
+
+**Dialog**
+
+	- Hi, May!
+	- Hi, Tom! How's it g___?
+	- Not b___.
+	- W___ your firend?
+	- Oh! I'm sorry. T___ is Rob. He's m___ brother.
+	- Hi, Rob! I'm May.
+	- G___ to meet you, May.
+	- P___ to meet you, Rob.				
+
 
 ### Unit Five - Occupation
 
@@ -420,6 +452,39 @@ Note:
 	* What's your occupation?
 	* What's your job?   
 
+**Substitution**
+
+	* Miss Lin works for IBM/Miss Lin works in a bank.
+	* What a coincidence!/surprise!
+	* I'd like you to... 
+		- meet my friend, Sal
+		- call me a cab
+		- give me a call
+	* What do you do?/is your occupation?/is your job? (你从事哪一行/你的职业是什么/你的工作是什么)
+	* I'm a secretary/teacher/doctor.
+
+**Sentences**
+
+	* How do you do, Miss Li?
+	* John works in a bank.
+	* Tina works for a trading company.
+	* I'd like you to meet my friend, Tom.
+	* What's your job?
+	* How a nice day!
+	* What beautiful she is!
+	* Same here
+
+**Dialog**
+
+	- Miss Wang, t__ is my friend, Mr. Jones.
+	- How d__ you do, Mr. Jones?
+	- How do you do?
+	- What do you d__, Mr. Jones?
+	- I'm a teacher. A__ you?
+	- I'm a secretary in a trading company.
+	- H__ nice! Have a nice day.
+	- You t__				
+
 ### Unit Six - Time
 
 * Excuse me, ma'am. What time is it, please?
@@ -444,7 +509,7 @@ Note:
 	* 10,000 ten thousand
 	* 100,000 one hundred thousand
 	* 1,000,000 one million  
-* It's noon. = It's twelve noon.
+* It's noon. = It's twelve noon. 现在是中午12点
 	* It's midnight = It's twelve midnight.现在是午夜12点
 * It's five past three. = It's three o five. 现在是3点5分 (此处o虽等同于"零"，但要念成字母o的音)
 * 3点01分至3点09分： three o one, three o two, three o nine.
@@ -468,11 +533,11 @@ Note:
 * 表示上午/下午的时间:
 	* It's five twenty a.m./A.M (ante meridiem = before midday,午前)
 	* It's five twenty p.m/P.M (post meridiem = after midday 午后)	
-* I see = I understand 我明白了
+* I see = I understand 我明白了  see此处表示"明白"，"了解"之意
 	- Why can't he come?	
 	- He is busy.
 	- I see    
-* Is it on time? 
+* Is it on time? 它(这班火车)准时吗 on time准时
 	* The train is never late. It is always on time.  
 * What do you mean? (mean: 意味、指的是)
 	- John is a lazybones.
@@ -482,6 +547,37 @@ Note:
 	* My watch is slow.
 	- My watch is ten minutes fast. 我的表快了10分钟
 	- The alarm clock is two hours slow. 这闹钟慢了2小时 
+
+**Substitution/Sentences**
+
+	* What time is it, please?
+	* What time is it by your watch, please?
+	* It's two thirty/two(o'click)/ten a.m./one p.m.
+	* It's a quarter to seven./six forty - five.
+	* It's twenty past five./five twenty
+	* My watch is fast/one hour fast/slow/ten minutes slow
+
+	* What time is ___, please?
+	* It's ___ past three
+	* What time is the next bus?
+	* Is it on ___?
+	* It's a ____ to two.
+	* My ___ is fast.
+	* It's six ___ five.
+	* It's twelve ____  (midday/midninght)　　
+
+**Dialog**
+
+	- What time is it b___ your watch?
+	- It's twelve n___.
+	- Oh, no! I'm l___.
+	- Why?
+	- My bus is always on t___.
+	- I s___. Don't worry.
+	- What do you m___.
+	- My watch is twenty minutes f___.
+	- Thank God! So it's twenty t___ twelve.
+			
 
 ### Unit Seven - Day and Date
 
