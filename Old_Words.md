@@ -598,7 +598,7 @@ Note:
 
 Note:
 
-	* What day is it today, Tom?
+	* What day is it today, Tom?  (此处it为代词表示时间作主语)
 		* What day is it tomorrow? 明天星期几
 		* What day is it the day after tomorrow? 后天星期几
 	* What day is it today? 可省略it,直接用today作主语
@@ -609,7 +609,8 @@ Note:
 		* What day is it today?
 		* It's Monday (today)./ Today is Monday. 
 	* What's the first day of the week?
-	* It's Sunday.
+	* It's Sunday. 西方视星期日为一周的第一天
+	* And is today June 6? (那么今天是不是6月6日)
 	* 表示1998年6月6日 --> June 6, 1998  
 		* June sixth, nineteen ninety - eight (口语) 常用
 		* June the sixth, nineteen ninety - eight (较正式，美式用法)
@@ -656,6 +657,38 @@ Note:
 		* the city's traffic = the traffic of the city
 		* Canada's climate = the climate of Canada
 
+**Substitution**
+
+	* What day is it today/tomorrow?
+		* = What day is today/tomorrow?
+	* It's Sunday today/tomorrow
+		* = Today/Tomorrow is Sunday.
+	* Is today June 6/July 7?
+	* Happy Birthday/New Year.
+	* What's today's date?/What's the date today?
+	* It's February 14, 1999
+		* February fourteenth, nineteen ninety - nine
+		* February the fourteenth, nineteen ninety - nine
+		* the fourteenth of February, nineteen ninety - nin
+
+	* What d___ is today?
+	* What's t___ date?
+	* This is a g___ school, not a boys' school.
+	* What day is ___ tomorrow?
+	* The weather t___ is terrible.
+	* You must do y___ homework now.
+	* Today is June s___, 1998.
+	* We have a nice car. It is y___ car.
+
+**Dialog**
+
+	- What's today's d___?
+	- I___ November 13, 1998. W___ do you ask?
+	- B___ it's Friday.
+	- So?
+	- Friday t___ thirteenth is bad luck.
+	- Oh! I see.  				 		
+
 ### Unit Eight - The Weather
 
 * Hi, May! I am calling from New York.
@@ -669,11 +702,11 @@ Note:
 
 Note:
 
-	* on business 
+	* on business 出 差 business(noun 商业，事业，生意)
 		* My father will go to Hong Kong on business tomorrow.
 	* What a shame! 真可惜/遗憾 = What a pity!
 		- I can't go with you to the picnic.  
-		- What a shame!
+		- What a shame! 真可惜
 	* Present Continuous(现在进行时) 表示现在时刻，某都在正在进行的状态，相当于中文的"(现在)正在..."，结构为: 主语 + 现在式be动词 + 现在分词
 		* 现在式be动词即: is, am, are
 		* 现在分词由动词 + ing构成， 如: call　--> calling  
@@ -683,7 +716,7 @@ Note:
 			- I'm writing the letter
 			- They're doing the work. 
 	* It's raining right now = It's raining now.
-		* right now 及 now 意思相同，均为"现在"之意，但now前置right有腔调的功能，相当于"就在现在"  
+		* right now 及 now 意思相同，均为"现在"之意，但now前置right有强调的功能，相当于"就在现在"  
 	 	- Where's Peter?
 	 	- He is studying in the library (right) now. 由于现在进行时本已表示"现在"的时刻，故句尾的now或right now亦可省略
 	* How's the weather in New York? 表示"某地的天气如何"有以下2种说法:
@@ -729,7 +762,41 @@ Note:
 		* It's raining now. raining是现在分词,强调下雨的动作  、
 	* That's strange 真奇怪
 		* I like rainy days.
-		* That's strange. Why?              
+		* That's strange. Why?       
+
+**Substitution**
+
+	* I am calling from New York
+		* Helen is watching TV now.
+		* My mother is cooking dinner.
+	* How's the weather/What's the weather like in New York?
+	* There are four seasons in my hometown.
+		* There is a painting on the wall.
+		* There are many stores near my house.
+	* There is a dictionary there/here. 那里/这里有一本词典
+	* It's cool/cold/hot today.
+	* It's a sunny/rainy/cloudy day.
+
+	* I'm h___ dinner right now.
+	* What's the weather ___ in Beijing?
+	* There ___ two books on the desk.
+	* The dog ___ a big mouth.
+	* ___ rainy today.
+	* I ___ no money.
+	* There ___ a big tree near my house.
+	* What are you ___ here?
+
+**Dialog**
+
+	- What a h__ day!
+	- Well, this is s___.
+	- Does it r___ in summer?
+	- Yes. Why?
+	- I like r__ days.
+	- That's strange Why?
+	- It'll be c___.
+	- I s___.
+	- Hey! Look! It's r___.				       
 
 ### Unit Nine - Telephone Conversation I
 
