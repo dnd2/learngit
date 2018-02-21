@@ -834,9 +834,9 @@ Note:
 **Key Structure**
 
 	* 助动词(auxiliary verb): 一种帮助动词的词类，置于动词之前，以加强动词的语气 
-		* I [will] see you tomorrow.
-		* He [can] do it.
-		* You [may] go now.
+		* I [will] see you tomorrow. 我明天会见你
+		* He [can] do it. 你能做这事
+		* You [may] go now. 你现在可以走了
 		* 中括号内的均为助动词置于动词之前 
 	* 助动词在句中位置
 		* 中英文在陈述句中，助动词都位于动词前，只有在问句中，助动词位置有差别
@@ -860,10 +860,13 @@ Note:
 			* 表示"能够；会"，can用于强调一个人的能力
 				* subject + can + infinitive(原形动词)? ...能够...
 				* Can + subject + infinitive? ...能够...吗？
-					* I can do it.
-					* Can she sing?
+					* I can do it. 我会做这事
+					* Can she sing? 她会唱歌么
 			* 表示"可以",can与may意思用法相同
 				* May/Can I open the window?
+				* You may/can go now.
+				* May/Can I speak to Bob, please?
+				* May/Can I leave a message?
 		 * will 将要；将会
 		 	* 表示将来即将发生的事情
 		 		* subject + will + infinitive ...即将...
@@ -876,11 +879,11 @@ Note:
 		 		* Everyone must leave now
 		 * should 应该/当
 		 	* 表示应当履行的义务，语气比must弱一些
-		 		* You should do it
-		 		* We should study English.
+		 		* You should do it 你应当做这事
+		 		* We should study English. 我们应当学英语
 		 * shall 要
 		 	* 通常与主语I并用，
-		 	* ShallＩ...? 要不要我...? 此句型用来主动表示为对方做某件事  
+		 	* Shall I...? 要不要我...? 此句型用来主动表示为对方做某件事  
 		 		* Shall I open the window? 要不要我把窗户打开呀？
 		 		* Shall I close the door for you? 要不要我替你把门关上？
 	* He's not in. ~= He is not here. 他不在
@@ -893,26 +896,26 @@ Note:
 			
 			- Is John there, please?
 			- Sorry. He is not in. May I take a message?
-			- Don't bother. I'll call back later.
+			- Don't bother. I'll call back later. 不必麻烦了，我待会再打来
 	* This is Tom.  
 		* 面对面相见时，表示"我是..." 一定要用I am...
 		* 若未面对面相见,表示"我是..."需要用This is...或It's...
 			* 打电话
-				- Who's this, please? = Who's calling, please?
+				- Who's this, please? = Who's calling, please? 请问是谁呀
 				- This is John = It's John.
 			* 在房间内听到门外有人敲门时
 				* Who's it, please?
 				* It's John.
-	* This is he. 我就是 (电话用语)
+	* This is he. 我就是 (电话用语,常用于下列对话)
 		* Hello, Is John there, please?
 		* This is he. Who's calling please?
-	* as soon as possible 固定短语
+	* as soon as possible 固定短语，意为"尽快(地)"
 		* 第一个as是adverb，译为"一样地"
 		* soon是adverb，译成"不久，快"
 		* possible是adjective，译成"可能的"
 		* 翻译时先as possible, 后as soon 即:和可能一样地快，实际译为"尽快(地)"，此短语多使用在句尾
-			* You must come back as soon as possible
-			* Call me as soon as possible          	           
+			* You must come back as soon as possible 你必须尽快回来
+			* Call me as soon as possible  尽快打电话给我        	           
 	* 电话中，表示"请稍后"
 		* Hold on, please.
 		* Just a minute, please
@@ -920,7 +923,36 @@ Note:
 		* Wait a minute, please
 		* Wait a moment, please    
 		* 以上除第一句仅限在电话用语中使用       
-	* He is out at the moment/now 
+	* He is out at the moment/now 他此刻不在/外出了
+
+**Substitution**
+
+	* May/Can I speak to Bob, please?
+	* May I leave a message/sit down/ask you a question?
+	* This is/It's Tom.
+	* Please ask him to call me back/You must see the doctor/I will finish my homework as soon as possible.
+	* Hold on, please.
+		* = Just/Wait a minute/moment, please.
+
+	* W__ you come towmorrow?
+	* ___ I leave a message?
+	* Hello. ___ is Bill. Who's speaking, please?
+	* Can you ___ a message, please?
+	* Sorry. She's ___ at the moment.
+	* ___ people know me.
+	* I have ___ few books in my bag.
+	* Please come ___ soon as possible.
+
+**Dialog**
+
+	- Hello! Is Dan t___, please?
+	- I'm sorry. He's out at the m___.
+	- May I leave a m___?
+	- Sure. Who's c___, please?
+	- T___ is May.
+	- H___ on, please.
+	- Can you a___ him to call me back?
+	- No problem.			
 
 ### Unit Ten - Telephone Conversation II
 
