@@ -976,14 +976,16 @@ Note:
 	* long - distance 长途 
 		* long - distance call 长途电话
 	* person to person (电话用语) 叫人的
+	* station to station (电话用语) 叫号的 
 	* area code 区域码
 	* Hello, Dr. Chen's clinic = Hello, This is Dr. Chen's clinic.  (表示我/我们这里是某公司或场所时表达的句型，此处this is可省略)
 		* Hello, this is Johnson Health Center. May I help you? = Hello, Johnson Health Center. May I help you?
 	* 进入商店或百货公司时，店员的礼貌用语:
-		* May I help you?
-		* Can I help you?
-		* Can I be of any service to you?
-		* What can I do for you?
+		* May I help you? (我可以帮您什么忙吗) 除可用于电话应对外，还可用于商店对话中
+		* What do you want to buy, please? 进入商店时店员常说： 请问您要买什么? 也可用下列问句
+			* Can I help you? 
+			* Can I be of any service to you?
+			* What can I do for you?
 		* Is there anything I can do for you?   
 			- May I help you?
 			- Yes, I'm looking for a shirt for my husband.
@@ -995,31 +997,64 @@ Note:
 	* I would like to ... = I'd like to ...
 		* I would like to + verb  我想要...
 			* I'd like to go to the movies tonight.
+			× I would like to sing a song for you.
 		* I like to + verb  我喜欢...
 			* I like to go to the moives.
 			* I like to sing.
-		* I want to ... 我要... (I'd like to语气较为委婉客气，I want to 语气较直接)   
+		* I want to ... 我要... (I'd like to 我想要... 语气较为委婉客气，I want to 语气较直接)   
 			* I'd like to see you tonight. 我今晚想跟你见面 
-			* I want　to see you tonight.   我今晚要跟你见面
-	* Is OK/fine/all right (with you)?  ...(对你)可以吗？
-		- Can you come today?
-		- Sorry, I can't I'm very busy.
-		- Then, is tomorrow fine with you? 那么，你明天可以吗？
-		- Yes, it is.  
-	* make a call 打一通电话
-		* make a telephone call
-		* make a phone call  
-	* Person to person or station to station?
-		* = Is it person to person call or station to station call?
-		* 通过总机打长途，若指定要某人电话则称做: a person - to - person call  
-		* 不指定某人电话，即任何人接电话都可以，这时称做: a station - to - station call
+			* I want to see you tonight.   我今晚要跟你见面
+	* Is 4 o'clock in the afternoon OK? 下午4点可以吗? 本句采用了下列句型
+		* Is OK/fine/all right (with you)?  ...(对你)可以吗？
+			- Can you come today? 你今天能来吗?
+			- Sorry, I can't I'm very busy.
+			- Then, is tomorrow fine with you? 那么，你明天可以吗？
+			- Yes, it is.  
+	* 会话中通过总机小姐或先生(均称为operator),现在大部分国家电话系统采用国际直拨系统(the International Direct Dialing System, 简称IDD),即直拨号码就可和想联系的人通话。但出国旅游某些情况下可能需借助总机来联络，故需注意以下用语
+		* make a call 打一通电话
+			* make a telephone call
+			* make a phone call  
+			* I'd like to make a long - distance call to New York. 我想打一个长途电话到纽约
+		* Person to person or station to station?
+			* = Is it person to person call or station to station call? 这是个叫人的电话还是叫号的电话
+			* 通过总机打长途，若指定要某人电话则称做: a person - to - person call  
+			* 不指定某人电话，即任何人接电话都可以，这时称做: a station - to - station call
 	* area code 指对方所住省份或城市代码
 	* country code 区号，国家代号
 	* Is 4 o'clock in the afternoon OK/fine/all right? 下午4点可以么？
 		- Is 3 o'clock this afternoon all right with you?
 		- Not really, I would like to come at 2 o'clock.
 		- OK. That's fine. 
-	* I would like to make/place a long - distance call to California, please
+
+**Substitution**
+
+	* Hello, Dr. Chen's clinic/office.
+		* = Hello, this is Dr. Chen's clinic/office.
+	* May/Can I help you? = What can I do for you?
+	* I'd like to make an appointment to see Dr. Chen 我想要约见陈医生
+		* have a cup of tea. 我想要喝杯茶
+		* go with you. 我想要跟你去		
+	* Is 4 o'clock in the afternoon OK/fine/all right? 下午4点可以吗
+	* I would like to make/place a long - distance call to California, please 我想打个长途电话到加州
+	
+	* Hello, ___ is Dr. Ho's clinic.
+	* What can I ___ for you?
+	* I'd like to ___ a long - distance call.
+	* Is this afternoon OK w___ you?
+	* I'd like to make a long - distance call ___ Mr. Li.
+	* What's the area ___, please?
+	* Can I be of any ___ to you?
+
+**Dialog**
+
+	- Hello, Dr. He's office. M___ I help you?
+	- I'd like to m___ an appointment to see Dr. He.
+	- What's your n___, please?
+	- This is Mrs. Wang.
+	- Is 3 o'clock this afternoon a___ r___ with you?
+	- Not really. I would l___ to come at 2 o'clock.
+	- OK. That's f___.
+	- T___ you. Bye. 	 
 
 ### Unit Eleven - Telephone Conversation III
 
