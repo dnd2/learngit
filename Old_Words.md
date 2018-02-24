@@ -997,7 +997,7 @@ Note:
 	* I would like to ... = I'd like to ...
 		* I would like to + verb  我想要...
 			* I'd like to go to the movies tonight.
-			× I would like to sing a song for you.
+			* I would like to sing a song for you.
 		* I like to + verb  我喜欢...
 			* I like to go to the moives.
 			* I like to sing.
@@ -1081,32 +1081,44 @@ Note:
 		* Can you give me a morning call at 5 tomorrow, please?
 		* Can you give me a wake - up call at 4 pm, please?
 	* Hello, room service.
-		* 原句: Hello, this is the room service department/section. 
+		* 原句: Hello, this is the room service department/section(noun 区(域)；部门). 使用时会简化为room service而不说the room service department或the room service section
+			* room service 是饭店中的客房服务中心，供房客叫餐饮、点心之类的地方。有些房客不在餐厅用餐，此时可通过room service将餐点送至房间。
 		- Hello, room service.
-		- This is room 301. I'd like to order some drinks, please.
-		- Sure. What would you like?
+		- This is room 301. I'd like to order some drinks, please. 这里是301号房。我想要点饮料
+		- Sure. What would you like? 好的。您想要点什么
 	* I'd like to order some food, please.
 		* I'll order a pizza for dinner tonight.
+		* If the bookstore doesn't have this book, they can order it for you. 如果那家书店没有这本书，他们可以为你订购
 		* 餐厅中，服务人员要求客人点菜时，一般使用:
 			* Are you ready to order, sir? 先生，您是否准备好点菜了呢？
 			* May I take your order now?  我可不可以接受您的点菜呢？ 
-				* I'm not ready to order yet. Please give me a minute. 我还没准备好，稍等下。 
+				* I'm not ready to order yet. Please give me a minute. 我还没准备好要点餐，请再给我一点时间。 
 	* order 表示"命令" order + sb. + to + verb 命令某人做某事
-		* You don't have the right to order me to do things for you. 
-	* I'm sorry, but...
-		* I'm sorry, but you are wrong.
-		* I'm sorry, but I must leave now.
-		* Excuse me, but where is the post office?
-		* Excuse me, but do you have the time? 请问现在几点？  
-	* That'll be fine.
-		- Do you have any coffee?
+		* You don't have the right to order me to do things for you. 你没有权利命令我为你做事
+	* I'm sorry, but the kitchen's closed. 很抱歉，厨房已关闭了 (本句的closed是adjective，用来表示餐厅、商店、公司行号等"停止营业的", "不开放的", 或"关闭的"，而动词close则可表示餐厅、商店、公司行号等"打烊、停止营业、关闭"等)
+		* The museum is closed on Mondays.
+		* The bookstore closes at 10:00 pm every day.
+		* close 也可用来表示一般的"关闭"，如close the door、close the window 等
+			* Please close the window. It's cold. 请关上窗户。天气很冷。	
+		* I'm sorry, but... 类似Excuse me, but...句型
+			* I'm sorry, but you are wrong.
+			* I'm sorry, but I must leave now.
+			* Excuse me, but where is the post office?
+			* Excuse me, but do you have the time? 打扰一下，请问现在几点钟？  
+	* That'll be fine. 
+		- Do you have any coffee? 你们有任何一种咖啡吗
 		- No. But we have tea.
 		- That'll be fine.  那也可以 
-	* I'm starving. = I'm very hungry.
-		* I'm starving. Do you have anthing to eat? 
-		* I'm starving to death.  
+	* I'm starving. = I'm very hungry. 我饿坏了  starving为starve的分词形式
+		* I'm starving. Do you have anthing to eat? 我饿坏了，有什么东西可以吃么
+		* I'm starving to death.  我快饿死了
 	* in front of...
-		* There's a department store in front of the train station.  
+		* There's a department store in front of the train station. 火车站前有一家百货公司
+	* morning call 特指早上叫人起床的电话， wake - up call也指叫人起床的电话，但不限于在什么时间。
+		* Can you give me a morning call at 5 tomorrow, please?
+		* Can you give me a wake - up call at 4 pm, please? 可不可以请你在下午4点打电话给我叫我起床?
+	* get up 起床 - go to bed 上床睡觉
+		* I usually go to bed at 10 pm and get up at 6 in the morning every day.	 
 	* Please call me at 6:00 am. 请早上6点打电话叫我
 		* = Please give me a call at 6:00 am.
 		* = Please ring me (up) at 6:00 am.
@@ -1116,6 +1128,47 @@ Note:
 			* give + sb. + a call(美式用法) 
 			* ring + sb. (up)(英式用法)
 			* give + sb. + a ring (英式用法)
+	* no problem 用来回应他人，表示愿意做对方所要求之事或有能力做某事的用语
+		- Can you lend me 100 dollars?
+		- No problem.
+		- Can you do the job?
+		- No problem.
+
+**Substitution**
+
+	* I'd like to order some food/two steaks/a cup of coffee, please.
+	* I'm sorry, but... 
+		* the kitchen's closed.
+		* I can't go with you.
+		* you must leave now.
+	* I'm starving/hungry.
+	* Can you give me a morning call/wake up call please?
+	* Please... 
+		* call me at 6:00 am 请早上6点打电话叫我
+		* give me a call tomorrow 明天请打个电话给我
+		* ring me (up) as soon as possible. 请尽快打电话给我
+
+	* I’d like to ___ some milk, please.
+	* Are you ___ to order, sir?
+	* Can I ___ your order now?
+	* The restaurant's ___.
+	* I'm sorry, ___ we don't have ice cream.
+	* Please ___ the door when you leave.
+	* There's a bookstore in ___ of my shcool.
+	* I ___ up early every morning.
+
+**Dialog**
+
+	- Hello, front desk. Can I h___ you?
+	- I want to g___ up at 7 am tomorrow morning.
+	- Yes?
+	- Can you give me a m___ c___, please?
+	- Sure. What's your r___ number?
+	- It's 707.
+	- OK. I'll call a___ 7 am.
+	- Thank you.
+	- No p___.
+
 
 ### Unit Twelve - Buying things
 
