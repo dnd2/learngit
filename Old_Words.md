@@ -1195,8 +1195,10 @@ Note:
 			* How much (money) does that shirt cost?
 			* How much (money) is that shirt?
 			* How much money do you have?
-			* 此处much为代名词，意为"大量"	
+			* 此处much为代名词，意为"大量"，how much理论上由how much money简化而来(money通常不必说出，以免造成赘述)，此时的much是adjective，专用于修饰不可数名词。money是不可数名词，所谓不可数是指这个英文词本身不能数，我们不能说一个钱，二个钱，即这个词没有复数形式。	
 			* how much money时much为adjective修饰不可数名词
+				* How much (money) do these pencils cost?
+				* How much (money) are these pencils? 这些铅笔要多少钱
 	* 不可数名词 - 指单词本身不能数，如money,water,paper没有复数形式,修饰一般用much这样的词 
 		* 一些词需要表达数量需要加上"单位"
 			* a piece of paper
@@ -1205,14 +1207,16 @@ Note:
 	*  可数名词 - 修饰时不能用much，要用many
 		* how many books do you have?
 		* how many students are there in the room. 
+		* There are five books in the bag.
+		* There are fifty students in the classroom.
 	* cost 表示"价值(多少钱)"使用时不可以"人"作主语,通常以物品，东西做主语表示"某物品/东西价值若干"
-		* The dress costs twenty dollars.
+		* The dress costs twenty dollars. 那件洋装要20块钱
 		* 也可以在cost之后接"人"，再加金钱表示"花某人多少钱"
 			* This hat costs her thirty dollars.    
-	* That's very expensive.
+	* That's very expensive. 那很贵
 		* expensive多用于修饰物品,而不可用来修饰价钱(price)
-			* The price of the car is expensive X
-			* We can say: The car is expensive.  
+			* The price of the car is expensive (Wrong)
+			* We can say: The car is expensive.  (OK) 这部车很贵
 		* 价钱昂贵或便宜也可用high或low表示
 			* The price of the house is high. (此处不能用expensive,只能说the house is expensive)
 			* Eggs are selling at a low price.  
@@ -1222,11 +1226,11 @@ Note:
 			* something用于肯定句中
 			* nothing因具否定意味，所以不可与否定词(not,no等)并用，以避免形成双重否定   
 			* 注意: 形容词修饰名词一般置于名词前，但形容词修饰这3个词需置于其后
-				* Do you have anthing important to tell me?
-				* I don't have anything important to tell you.
-				* I have something good for you.
-				* The poor man has nothing to eat. = The poor man doesn't have anything to eat.
-				* There's nothing nice to eat in that restaurant. = There isn't anything nice to eat in that restaurant.
+				* Do you have anthing important to tell me? 你有任何重要的事情要告诉我吗
+				* I don't have anything important to tell you. 我没有什么重要的事情要告诉你
+				* I have something good for you. 我有好东西给你
+				* The poor man has nothing to eat. = The poor man doesn't have anything to eat. 那个可怜的男人没有东西可吃
+				* There's nothing nice to eat in that restaurant. = There isn't anything nice to eat in that restaurant. 哪家餐厅没有什么好吃的东西。
 	* 比较级
 		* 一般而言，原级是双音节或三音节以上的形容词，比较级是在其前加more，如:
 			* expensive -> more expensive
@@ -1238,27 +1242,57 @@ Note:
 		* 原级是以辅音结尾的单音节adjective变成比较级，需先重复辅音字母,再加er
 			* hot  -> hotter
 			* fat  -> fatter 
-	* I'll take it 商店中常用会话，表示要买下某物，相当于 I'll buy it.
-		- This book is very good. You should buy it.
-		- All right. I'll take/buy it.  
-	* Do you have change for a hundred?
+	* I'll take it 商店中常用会话，表示要买下某物，相当于 I'll buy it. 我就把他买下吧
+		- This book is very good. You should buy it. 这本书很好，你应该买下它
+		- All right. I'll take/buy it.  好，那我就把它买下吧
+	* Do you have change for a hundred? = Do you have change for a hundred dollars? 你有零钱找开100块吗
 		* 此处change是不可数名词
-		* How much change do you need?
+		* How much change do you need? 你需要多少零钱
 		* How much change do you have? = How much do you have in change? 你有多少零钱？
 		* I have change for ten dollars. = I have ten dollars in change. 我有10块钱零钱
 		* How much cash do you have? = How much do you have in cash? 你有多少现金
 		* I have cash for one hundred. = I have one hundred in cash. 我有100块现金 	         
-	* OK. Here's the money.  ...给你或...在这儿
+	* OK. Here's the money. 好，给你钱。  该句型可译为 ...给你或...在这儿
 		* 我们要拿东西给某人时，常用:
 			* Here is/Here's + singular noun(单数名词)
 			* Here are/Here're + plural noun(复数名词)  
-		- That will be fifty dollars, please.
-		- Here's a hundred.
-		- Here is the money.
-		- Here's the books  
+		- That will be fifty dollars, please. 那要50块钱
+		- Here's a hundred. 100块钱给你 
+		- Here is the money. 钱在这儿
+		- Here's the books  这儿是你要的书
 		* 更常用的一句是: Here you are.或 Here you go 表示你要的东西在这里、拿去吧或者这儿之意
-			- Can I have a look at that shirt?
-			- Here you are. = Here you go.  			 
+			- Can I have a look at that shirt? 我可以看下那件衬衫么
+			- Here you are. = Here you go. 在这儿 	
+
+**Substitution**
+
+	* How much does that pen cost/is that pen?
+	* It costs/It's ten dollars.
+	* That's very expensive/cheap.
+	* Do you have anything cheaper/special?
+	* I'll take/buy it.
+	* Here's the money/the book. 钱给你/书在这儿
+	* Here you are/go. 拿去吧/在这儿
+
+	* How ___ does this book cost?
+	* How ___ students do you have?
+	* There ___ many schools in the city.
+	* There ___ a pretty girl waiting for you.
+	* I won't buy that car; the price is too ___.
+	* I have s___ exciting to tell you.
+	* Do you have ___ for a thousand dollars?
+	* This tie isn't expensive. I'll ___ it.
+
+**Dialog**
+
+	- How m___ is this shirt?
+	- It c___ sixty dollars.
+	- It's expensive. Do you have anything c___?
+	- Sure. These are only twenty dollars.
+	- The p___ is OK. I'll b___ two.
+	- Good. H___ are the shirts.
+	- Do you have change f___ a hundred dollars?
+	- Sure. Here's your change.						 
 
 ### Unit Thirteen - At the restaurant
 
