@@ -102,7 +102,7 @@ Note:
 
 Note:
 
-	* how are you? 多用于正式场合
+	* how are you? 多用于正式场合x
 	* how are you doing? 多用于熟悉朋友间
 	* how are you getting along?   
 		* 以上问句可以这样回答：
@@ -1087,7 +1087,7 @@ Note:
 		- This is room 301. I'd like to order some drinks, please. 这里是301号房。我想要点饮料
 		- Sure. What would you like? 好的。您想要点什么
 	* I'd like to order some food, please.
-		* I'll order a pizza for dinner tonight.
+		* I'll order a pizza for dinner tonight. 我今晚要点一份皮萨当晚餐
 		* If the bookstore doesn't have this book, they can order it for you. 如果那家书店没有这本书，他们可以为你订购
 		* 餐厅中，服务人员要求客人点菜时，一般使用:
 			* Are you ready to order, sir? 先生，您是否准备好点菜了呢？
@@ -1259,7 +1259,7 @@ Note:
 		- That will be fifty dollars, please. 那要50块钱
 		- Here's a hundred. 100块钱给你 
 		- Here is the money. 钱在这儿
-		- Here's the books  这儿是你要的书
+		- Here's the book  这儿是你要的书
 		* 更常用的一句是: Here you are.或 Here you go 表示你要的东西在这里、拿去吧或者这儿之意
 			- Can I have a look at that shirt? 我可以看下那件衬衫么
 			- Here you are. = Here you go. 在这儿 	
@@ -1310,7 +1310,7 @@ Note:
 * Would you like some dessert?
 * No, thank you.
 * How about something to drink?
-* Hot coffee, plase.
+* Hot coffee, please.
 
 Note: 
 
