@@ -1175,7 +1175,7 @@ Note:
 * How much does that pen cost?
 * It costs ten dollars.
 * That's very expensive. Do you have anything cheaper?
-* Sure. This pen is only tow dollars.
+* Sure. This pen is only two dollars.
 * Good. I'll take it.
 
 * How much is this book?
@@ -1364,7 +1364,7 @@ Note:
 	* something, anything, nothing之后除可接adjective外，还可接不定词短语(to + 原形动词),此时的不定词短语也作adjective用，修饰前面的something,anything或nothing。
 		* I am hungry. I need something to eat. (to eat 修饰something)
 		* Don't you have anything to do? 你难道没什么事好做么？ (to do修饰anything)
-		* I have nothing to tell you. 我没什么事要告诉你的 (to telll you 修饰nothing)
+		* I have nothing to tell you. 我没什么事要告诉你的 (to tell you 修饰nothing)
 		* I need something to read.
 	* May I have the menu? 
 	* May I have the check/bill? 可以给我帐单么       
