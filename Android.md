@@ -175,7 +175,11 @@ sudo adb start-server
 向下继承Acitivty,可将Acitivity在各个系统中增加的特性和功能最低兼容到Android2.1
 
 
+**项目资源**
 
+* res/layout
+	* drawable 开头的文件用于存放图片
+	* minmap 开头文件用于存放应用图标
 
 
 
@@ -327,3 +331,25 @@ button.setOnClickListener(new View.OnClickListener() {
 * android:port	 指定端口号
 * android:path	 指定端口号后的网址 
 * android:mimeType 指定处理的数据类型，可使用通配符
+
+
+### FAQ
+
+1. Plugin with id 'com.novoda.bintray-release' not found的解决方法
+	* 在你的根目录下的build.gradle中添加 dependencies { //添加下面这行代码就OK了 classpath 'com.novoda:bintray-release:0.3.4'  }
+2. This Gradle plugin requires a newer IDE able to request IDE model level 3. For Android Studio this means version 3.0+ 导入android项目的时候，有时候会提示如上问题:
+	* 在项目根目录的gradle.properties中加入下面这一句 android.injected.build.model.only.versioned=3
+3. INSTALL_FAILED_TEST_ONLY: installPackageLI
+	* 检查build.gradle中classpath是否是alpha版本
+	* AndroidManifest.xml application标签中是否设置了android:testOnly=false
+	* gradle.properties中加入android.injected.testOnly=false
+4. Failed to resolve:com.android.support:appcompat-v7:报错处理
+	* [原文](https://blog.csdn.net/mhl18820672087/article/details/78385361)
+	* 原因: 
+		- 当你在用别的电脑上的android studio编写一个项目时，然后copy下来，又在自己电脑上的android studio 上导入该项目时会报错（两台电脑上安装的android studio版本不一样）
+		- 自己的android studio SDK平台工具的版本太低，然后在不了解项目构建文件（build.gradle文件）的前提下，点开了SDK Manger更新了项目构建工具（SDK Build-Tools）的版本
+	* 解决方案
+		- Settings -> Appearance & Behavior -> System Settings -> Updates 查看Android SDK Tools
+		- 	
+5. 解决Error:Could not determine the class-path for interface com.android.builder.model.AndroidProject.
+	- [解决指南](https://blog.csdn.net/qq_21397217/article/details/65630730)

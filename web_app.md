@@ -70,5 +70,146 @@
 
 
 
+### 常见问题
 
-    
+1. ios点击输入框，界面放大解决方案
+    - <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    - ios的select、input、样式显示的跟安卓不一样，可以用-webkit-appearance:none
+
+
+
+###  Mui, HTML5+ FAQ
+
+1. 自动弹出软键盘
+    - autofocus不一定在所有Android平台支持自动弹出软键盘，可以通过native.js来强制弹出：
+
+    ~~~html
+       <!DOCTYPE html>
+        <html>
+            <head>
+                <meta charset="utf-8">
+                <title>Native.js</title>
+                <script type="text/javascript">
+        // H5 plus事件处理
+        function plusReady(){
+            var Context = plus.android.importClass("android.content.Context");
+            var InputMethodManager = plus.android.importClass("android.view.inputmethod.InputMethodManager");
+            var main = plus.android.runtimeMainActivity();
+            var imm = main.getSystemService(Context.INPUT_METHOD_SERVICE);
+            imm.toggleSoftInput(0,InputMethodManager.SHOW_FORCED);
+        }
+        document.addEventListener("plusready",plusReady,false);
+                </script>
+            </head>
+            <body>
+                <button onclick="plus.webview.currentWebview().close()">Close</button><br/>
+                <input type="text" autofocus="autofocus"/>
+                <br/>
+                打开页面后编辑框自动获取焦点并显示软键盘
+            </body>
+        </html> 
+    ~~~
+    - 注意：autofocus属性只有4.0以上版本才支持
+    - iOS打开页面自动弹出键盘(input不要添加autofocus)
+
+    ~~~html
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <meta charset="utf-8">
+                <title>Native.js</title>
+                <script type="text/javascript">
+        // H5 plus事件处理
+        function plusReady(){
+
+            var webView = plus.webview.currentWebview().nativeInstanceObject();
+            webView.plusCallMethod({"setKeyboardDisplayRequiresUserAction":false});
+            document.getElementById("testautofocus").focus();
+        }
+        document.addEventListener("plusready",plusReady,false);
+                </script>
+            </head>
+            <body>
+                <button onclick="plus.webview.currentWebview().close()">Close</button><br/>
+                <input type="text" id="testautofocus"/>
+                <br/>
+                打开页面后编辑框自动获取焦点并显示软键盘
+            </body>
+        </html>
+    ~~~
+
+    - 比较全面的解决了打开软键盘和autofocus的问题
+
+    ~~~js
+        var openSoftKeyboard = function() {
+        if(mui.os.ios){
+            var webView = plus.webview.currentWebview().nativeInstanceObject();
+            webView.plusCallMethod({
+                "setKeyboardDisplayRequiresUserAction": false
+            });
+        }else{
+            var webview = plus.android.currentWebview();
+            plus.android.importClass(webview);
+            webview.requestFocus();
+            var Context = plus.android.importClass("android.content.Context");
+            var InputMethodManager = plus.android.importClass("android.view.inputmethod.InputMethodManager");
+            var main = plus.android.runtimeMainActivity();
+            var imm = main.getSystemService(Context.INPUT_METHOD_SERVICE);
+            imm.toggleSoftInput(0, InputMethodManager.SHOW_FORCED);
+        }
+    }
+
+    /*页面隐藏事件*/
+            plus.webview.currentWebview().addEventListener("hide",function(e){
+                document.getElementById("search-text").value="";
+                    document.getElementById("search-text").blur();/*搜索框取消焦点，关闭软键盘*/
+            });
+            /* 页面显示事件 */
+            plus.webview.currentWebview().addEventListener("show",function(e){
+                setTimeout(function() {/*自动打开软键盘，搜索框获取焦点*/
+                    openSoftKeyboard();
+                    document.getElementById("search-text").focus();
+                }, 300);
+            });
+    ~~~
+
+    - Demo 3
+
+    ~~~js
+        var nativeWebview, imm, InputMethodManager;
+        var initNativeObjects = function() {
+            if (mui.os.android) {
+                var main = plus.android.runtimeMainActivity();
+                var Context = plus.android.importClass("android.content.Context");
+                InputMethodManager = plus.android.importClass("android.view.inputmethod.InputMethodManager");
+                imm = main.getSystemService(Context.INPUT_METHOD_SERVICE);
+            } else {
+                nativeWebview = plus.webview.currentWebview().nativeInstanceObject();
+            }
+        };
+        var showSoftInput = function() {
+        if (mui.os.android) {
+            imm.toggleSoftInput(0, InputMethodManager.SHOW_FORCED);
+        } else {
+            nativeWebview.plusCallMethod({
+                "setKeyboardDisplayRequiresUserAction": false
+            });
+        }
+        setTimeout(function() {
+            var inputElem = document.querySelector('input');
+            inputElem.focus();
+            /*第一个是search，加上激活样式*/
+            inputElem.parentNode.classList.add('mui-active'); 
+            }, 200);
+        };
+        mui.plusReady(function() {
+            setTimeout(function() {
+                initNativeObjects();
+                showSoftInput();
+            },50);
+        });
+    ~~~
+
+2. 深入理解高度。获取屏幕、webview、软键盘高度
+    - [链接](http://ask.dcloud.net.cn/article/205)
+3. [使用MUI 软键盘弹起挤压页面](https://blog.csdn.net/kk_yanwu/article/details/73332704)

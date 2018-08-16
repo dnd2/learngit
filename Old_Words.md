@@ -2,8 +2,7 @@
 
 * Let's eat out tonight
 
-**need** [nid] *If you need something, or need to do something, you cannot successfully achieve what you want
-or live properly without it.*
+**need** [nid] *If you need something, or need to do something, you cannot successfully achieve what you want or live properly without it.*
 
 * i need your help
 
@@ -102,7 +101,7 @@ Note:
 
 Note:
 
-	* how are you? 多用于正式场合x
+	* how are you? 多用于正式场合
 	* how are you doing? 多用于熟悉朋友间
 	* how are you getting along?   
 		* 以上问句可以这样回答：
@@ -424,7 +423,7 @@ Note:
 	* Tina works for a trading company(贸易公司，商行).
 * work in 在...上班 
 * What a coincidence! 好巧呀！
-	* What a coincidence this/it is!
+	* What a coincidence this/it is!	
 	* What 引导感叹句 (What + 名词 + 主语 + be动词!) 好(个)...呀
 		* 将一个含有"主语 + be动词 + 名词"结构句子改为感叹句,实际中"主语 + be动词"通常省略
 			* This is a good moive. --> What a good moive this is!
@@ -436,7 +435,7 @@ Note:
 * I'd like you to... (I would like you to...缩写) 是一种请求某人做某事，但语气客气的祈使句
 	* would表示请求,希望的一种助词
 	* like 想，希望(与would连用)
-	* I'd like + 人 + to + 原型动词 我想请某人从事...
+	* I'd like + 人 + to + 原型动词 我想请某人从事... 
 		* I'd like you to meet my sister.
 		* I'd like Peter to write a letter for me. 我想请Peter替我写一封信
 	* 表示"我想要..." I'd like to + 原型动词
@@ -669,7 +668,7 @@ Note:
 	* It's February 14, 1999
 		* February fourteenth, nineteen ninety - nine
 		* February the fourteenth, nineteen ninety - nine
-		* the fourteenth of February, nineteen ninety - nin
+		* the fourteenth of February, nineteen ninety - nine
 
 	* What d___ is today?
 	* What's t___ date?
@@ -3301,3 +3300,4 @@ Note:
 				* 此处的从句补语president前加了一个a，这是因为上下文中和Mr. Robert做比较，这么一来就有前后两任校长，可以加-s,不是专有名词了。 
 			* Mr. Elson is also a memeber of the Council of the city. 埃尔森先生也是该城市政会委员
 				* a memeber of the Council做补语，高中校长同一时间只有1个人，但市政委员有很多人，a member需要交代是"一名"，而非专有名词。 
+

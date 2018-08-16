@@ -8,7 +8,7 @@ function prev( elem ) {
 	} while ( elem && elem.nodeType != Node.ELEMENT_NODE );
 	
 	return elem;
-}
+}	
 ~~~
 Note: The read-only **Node.nodeType** property that represents the type of the node.
 
@@ -1594,3 +1594,18 @@ https://github.com/Cenyol/SpringMVC
 
 JS正则
 https://juejin.im/entry/5965c09051882568a9536923
+
+
+### Javascript 递归
+
+- 程序调用自身的编程技巧称为递归(recursion)
+
+![图解](images/factorial.gif)
+
+~~~javascript
+	function factorial(n) {
+		if (n == 1) return n;
+		return n * factorial(n - 1);
+	}
+	factorial(5); // 5 * 4 * 3 * 2 * 1 = 120
+~~~
