@@ -579,7 +579,7 @@ especially in a circus.
 1. A federal judge in Manhattan on Tuesday dismissed Sarah Palin's defamation lawsuit against the New York Times.
 2. For the first time ever, South Korea has more old people than young people. South Korea is aging faster than any other developed country.
 	- for the first time ever 有史以来第一次；史无前例地
-	- developed country 发达国家
+	- developed country 发达国家 
 3. How North Korea tests a nuclear weapon? The first hint the world gets of a North Korean nuclear test is seismic activity.
 	- nuclear ['nukliər] adj. 核能的；核武器的  	
 	- nuclear weapon 核武器

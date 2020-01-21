@@ -1,3 +1,15 @@
+### 配置国内镜像
+
+需要为此设置两个环境变量：PUB_HOSTED_URL和FLUTTER_STORAGE_BASE_URL，然后再运行 Flutter 命令行工具。
+
+`上海交通大学 Linux 用户组
+FLUTTER_STORAGE_BASE_URL: https://mirrors.sjtug.sjtu.edu.cn
+PUB_HOSTED_URL: https://dart-pub.mirrors.sjtug.sjtu.edu.cn
+
+Flutter 社区
+FLUTTER_STORAGE_BASE_URL: https://storage.flutter-io.cn
+PUB_HOSTED_URL: https://pub.flutter-io.cn`
+
 ### Color Class
 
 An immutable 32 bit color value in ARGB format.
@@ -26,5 +38,16 @@ New Words:
     * immutable [ɪ'mjutəb(ə)l] adj. 不可改变的；永恒的
     * teal [til] n. 蓝绿色
     * wherein [weər'ɪn] adv. 其中；在那种情况下
+
+### 子元素超出父元素宽高是否会报错？ 
+
+    * [原文](https://segmentfault.com/a/1190000015407800)
+    * [Related Article](http://rang.jx.cn/mobile/flutter-text-widgets/)
+
+    - 如果父元素是Container，那么子元素超出父元素就不会报错
+    - 如果子元素被Column或Row包裹，那么子元素超出父元素就会报错
+    
+### Flutter svg支持
+
 
     
